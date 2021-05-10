@@ -6,7 +6,7 @@ from collections import deque
 
 input = sys.stdin.readline
 
-
+# 깊이 우선 탐색
 def dfs(v, visited=[]):
     # 현재 노드를 방문 처리
     visited.append(v)
@@ -17,6 +17,7 @@ def dfs(v, visited=[]):
     return visited
 
 
+# 너비 우선 탐색
 def bfs(start, visited=[]):
     visited.append(start)  # 시작 노드 방문 처리
     queue = deque([start])  # 인접한 노드를 저장하는 큐 생성

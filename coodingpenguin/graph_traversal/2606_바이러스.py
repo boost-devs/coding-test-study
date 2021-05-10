@@ -27,7 +27,7 @@ for a, b in links:
     graph[a].append(b)
     graph[b].append(a)
 
-# 깊이 너비 탐색
+# 깊이 우선 탐색
 visited = []
 visited = dfs(1, visited)
 
