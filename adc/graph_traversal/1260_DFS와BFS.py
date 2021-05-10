@@ -14,7 +14,6 @@ def dfs(v, visited):
     # 현재 노드와 연결된 다른 노드를 재귀적으로 방문
     for i in graph[v]:
         if not visited[i]:
-            a.append(i)
             dfs(i, visited)
 
 # BFS 메서드 정의
@@ -31,7 +30,6 @@ def bfs(start, visited):
         # 해당 원소와 연결된, 아직 방문하지 않은 원소들을 큐에 삽입
         for i in graph[v]:
             if not visited[i]:
-                b.append(i)
                 queue.append(i)
                 visited[i] = True
 
