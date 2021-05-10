@@ -40,7 +40,7 @@ int main(){
             if(i == cur) continue;
             if (coms[cur][i] == true && coms[i][i] == false) {
                 q.push(i);
-                coms[cur][i] = coms[i][cur] = false;
+                // coms[cur][i] = coms[i][cur] = false;
                 coms[i][i] = true;
                 result++;
             }
