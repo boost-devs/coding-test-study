@@ -10,8 +10,8 @@
 
 - [X] **2606_바이러스** / [문제](https://www.acmicpc.net/problem/2606) / [풀이]()
 - [X] **1260_DFS와 BFS**  / [문제](https://www.acmicpc.net/problem/1260) / [풀이]()
-- [ ] 11725_트리의 부모 찾기 / [문제](https://www.acmicpc.net/problem/11725) / [풀이]()
-- [ ] 1325_효율적인 해킹 / [문제](https://www.acmicpc.net/problem/1325) / [풀이]()
+- [X] 11725_트리의 부모 찾기 / [문제](https://www.acmicpc.net/problem/11725) / [풀이]()
+- [X] 1325_효율적인 해킹 / [문제](https://www.acmicpc.net/problem/1325) / [풀이]()
 - [ ] 2178_미로 탐색 / [문제](https://www.acmicpc.net/problem/2178) / [풀이]()
 - [ ] 2667_단지번호붙이기 / [문제](https://www.acmicpc.net/problem/2667) / [풀이]()
 - [ ] 7576_토마토 / [문제](https://www.acmicpc.net/problem/7576) / [풀이]()
