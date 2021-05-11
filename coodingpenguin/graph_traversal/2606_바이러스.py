@@ -1,5 +1,6 @@
 # 문제: [BOJ 2606] 바이러스
 # 유형: DFS, BFS
+# 메모리/시간: 28776kb / 68ms
 
 import sys
 
