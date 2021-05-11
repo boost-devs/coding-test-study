@@ -3,6 +3,7 @@ Graph Traversal - BFS, DFS, Di-graph, Cycle Graph
 # Problem: 1325
 # Memory: 3224KB
 # Time: 2632ms
+# comment: 문제 해석을 제대로, 깊이가 아닌, 최대 전파 노드 수를 구하는 것이 목적
 */
 #include <iostream>
 #include <string.h>
