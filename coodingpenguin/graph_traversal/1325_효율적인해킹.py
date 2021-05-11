@@ -1,4 +1,4 @@
-# 문제: [BOJ 11725] 트리의 부모 찾기
+# 문제: [BOJ 1325] 효율적인 해킹
 # 유형: BFS
 # 메모리/시간: 224332kb / 14360ms (PyPy3)
 # 참고: https://pacific-ocean.tistory.com/337
