@@ -1,7 +1,6 @@
 # 1325번: 효율적인 해킹
 # https://www.acmicpc.net/problem/1325
-# Python3 시간 초과
-# PyPy3 시간: 12040 ~ 14836ms
+# 메모리/시간: 224112KB / 12148ms (PyPy3)
 
 import sys
 from collections import deque

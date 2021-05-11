@@ -1,6 +1,6 @@
 # 2606번: 바이러스
 # https://www.acmicpc.net/problem/2606
-# 시간: 64ms
+# 메모리/시간: 28776KB / 68ms
 
 import sys
 
