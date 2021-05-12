@@ -1,14 +1,14 @@
 ###### 2667번: 단지번호붙이기
 # https://www.acmicpc.net/problem/2667
-# 메모리/시간: 29144KB / 68ms
+# 메모리/시간: 29136KB / 68ms
 
-# import sys
+import sys
 
-# input = sys.stdin.readline
+input = sys.stdin.readline
 
 N = int(input())
 
-_map = [list(map(int, input())) for _ in range(N)]
+_map = [list(map(int, input().rstrip())) for _ in range(N)] # rstrip() 안해주면 error
 
 dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
 

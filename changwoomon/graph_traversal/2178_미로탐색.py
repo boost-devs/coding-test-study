@@ -1,15 +1,15 @@
 ###### 2178번: 미로 탐색
 # https://www.acmicpc.net/problem/2178
-# 메모리/시간: 31804KB / 112ms
+# 메모리/시간: 31780KB / 104ms
 
-# import sys
+import sys
 from collections import deque
 
-# input = sys.stdin.readline
+input = sys.stdin.readline
 
 N, M = map(int, input().split())
 
-_map = [list(map(int, input())) for _ in range(N)]
+_map = [list(map(int, input().rstrip())) for _ in range(N)] # rstrip() 안해주면 error
 
 dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
 
