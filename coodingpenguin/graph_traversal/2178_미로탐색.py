@@ -26,7 +26,7 @@ def bfs(sy, sx):
                 ny, nx = y + dy, x + dx  # 새로운 위치 후보
                 # 미로 범위 내에 있고
                 if (0 <= nx < m) and (0 <= ny < n):
-                    # 방문하지 않고 갈 수 있는 길일 경우
+                    # 방문하지 않았고 갈 수 있는 길일 경우
                     if not visited[ny][nx] and maze[ny][nx] == "1":
                         visited[ny][nx] = True
                         queue.append((ny, nx))
