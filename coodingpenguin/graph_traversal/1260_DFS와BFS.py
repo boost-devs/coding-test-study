@@ -1,5 +1,6 @@
 # 문제: [BOJ 1260] DFS와 BFS
 # 유형: DFS, BFS
+# 메모리/시간: 34548kb / 312ms
 
 import sys
 from collections import deque
