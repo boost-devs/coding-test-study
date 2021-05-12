@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1325
 import sys
 from collections import deque, defaultdict
 
@@ -17,7 +18,7 @@ def bfs(start):
 input = sys.stdin.readline
 n, m = map(int, input().split())
 graph_dict = defaultdict(list)
-candi=set([])
+candi=set([])  # 부모 노드들 저장
 for _ in range(m):
     s, e = map(int, input().split())
     graph_dict[e].append(s)
