@@ -16,7 +16,7 @@
 - [X] 2667_단지번호붙이기 / [문제](https://www.acmicpc.net/problem/2667) / [풀이]()
 - [X] 7576_토마토 / [문제](https://www.acmicpc.net/problem/7576) / [풀이]()
 - [X] 7569_토마토 / [문제](https://www.acmicpc.net/problem/7569) / [풀이]()
-- [ ] 16918_봄버맨 / [문제](https://www.acmicpc.net/problem/16918) / [풀이]()
+- [X] 16918_봄버맨 / [문제](https://www.acmicpc.net/problem/16918) / [풀이]()
 - [ ] 5547_일루미네이션 / [문제](https://www.acmicpc.net/problem/5547) / [풀이]()
 - [ ] 14502_연구소 / [문제](https://www.acmicpc.net/problem/14502) / [풀이]()
 - [ ] 16234_인구 이동 / [문제](https://www.acmicpc.net/problem/16234) / [풀이]()
