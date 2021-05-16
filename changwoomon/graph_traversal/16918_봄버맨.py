@@ -1,6 +1,6 @@
 ###### 16918번: 봄버맨
 # https://www.acmicpc.net/problem/16918
-# 메모리/시간: 35292KB / 3704ms
+# 메모리/시간: 35008KB / 3668ms
 
 import sys
 from collections import deque
