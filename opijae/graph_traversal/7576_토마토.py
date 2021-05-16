@@ -47,7 +47,7 @@ for i in range(1,m+1):
                     flag=False # 한방향이라도 -1이 아니면 False로 바꿈
         elif tomato_box[i][j]==1:
             tomato.append([i,j]) # 탐색할 토마토 위치 잡아주기
-            num_1+=1 # 익은 토마토 개수 ++
+            num_1+=1 # 익은 토마토 개수 ++a
         elif tomato_box[i][j]==-1:
             num_m1+=1 # 안익은 토마토 개수 ++
 if flag: # 토마토가 안익을거 같으면 -1
