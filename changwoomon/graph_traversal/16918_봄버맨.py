@@ -10,7 +10,6 @@ input = sys.stdin.readline
 R, C, N = map(int, input().split())
 
 _map = [list(map(str, input().rstrip())) for _ in range(R)]
-full_map = [["O" for _ in range(C)] for _ in range(R)]
 
 dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
 
