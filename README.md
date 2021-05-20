@@ -69,7 +69,7 @@
 ## 스터디 일지
 
 <details markdown="1">
-<summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.23)</strong></summary>
+<summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.26)</strong></summary>
 
 <br/>
 
