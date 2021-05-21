@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/2636
+#
 import sys
 from collections import deque
 import time as tt
