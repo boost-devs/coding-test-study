@@ -1,6 +1,6 @@
 ###### 16973번: 직사각형 탈출
 # https://www.acmicpc.net/problem/16973
-# 메모리/시간: 152312KB / 628ms
+# 메모리/시간: 152336KB / 864ms
 
 import sys
 from collections import deque
@@ -20,6 +20,7 @@ dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
 def bfs(x, y):
     _map[x][y] = -1
     queue = deque([[x, y]])
+    # visited = [[x, y]]
     cnt = 0
     while queue:
         for _ in range(len(queue)):
@@ -29,11 +30,13 @@ def bfs(x, y):
             for way in range(4):
                 xx, yy = x + dx[way], y + dy[way]
                 if (xx < 0) or (xx+H-1 >= N) or (yy < 0) or (yy+W-1 >= M) or (_map[xx][yy] == -1):
+                # if (xx < 0) or (xx+H-1 >= N) or (yy < 0) or (yy+W-1 >= M) or ([xx, yy] in visited):
                     continue
                 else:
                     if not_wall(xx, yy, way):
                         _map[xx][yy] = -1
                         queue.append([xx, yy])
+                        # visited.append([xx, yy])
         cnt += 1
     return -1
 
