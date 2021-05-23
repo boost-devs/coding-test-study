@@ -1,7 +1,7 @@
-### 📌 문제 번호
+### 📌 푼 문제들
 
 - [문제 1](https://www.acmicpc.net/problem/문제1)
-- [문제 2](https://www.acmicpc.net/problem/문제1)
+- [문제 2](https://www.acmicpc.net/problem/문제2)
 
 ---
 
