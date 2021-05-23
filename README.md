@@ -34,6 +34,7 @@
   - Pull Request에 질문이 있다면 해당 내용에 대한 답변을 작성한다. 역으로 질문하는 것도 가능하다.
 - 공부를 하면서 새로 배운 개념, 좋은 꿀팁은 Issue에 공유한다.
 - Pull Request 제출 마감은 해가 뜨기 전까지이며, 못 푼 문제 수만큼 1000원의 벌금을 부과한다.
+  - **[🌞 해 뜨는 시간 확인하기!](https://www.google.com/search?q=%EC%9D%BC%EC%B6%9C%EC%8B%9C%EA%B0%84)**
 
 ---
 
@@ -68,7 +69,7 @@
 ## 스터디 일지
 
 <details markdown="1">
-<summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.23)</strong></summary>
+<summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.26)</strong></summary>
 
 <br/>
 
@@ -90,19 +91,21 @@
 | 5/16 | <a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a> |     <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5/17 |  <a href="https://www.acmicpc.net/problem/1600" target="_blank">1600</a>  | <a href="https://www.acmicpc.net/problem/1600" target="_blank">말이 되고픈 원숭이</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5/17 | <a href="https://www.acmicpc.net/problem/17836" target="_blank">17836</a> |  <a href="https://www.acmicpc.net/problem/17836" target="_blank">공주님을 구해라!</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5/18 | <a href="https://www.acmicpc.net/problem/16973" target="_blank">16973</a> |   <a href="https://www.acmicpc.net/problem/16973" target="_blank">직사각형 탈출</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5/18 | <a href="https://www.acmicpc.net/problem/14940" target="_blank">14940</a> |   <a href="https://www.acmicpc.net/problem/14940" target="_blank">쉬운 최단거리</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5/19 | <a href="https://www.acmicpc.net/problem/18513" target="_blank">18513</a> |        <a href="https://www.acmicpc.net/problem/18513" target="_blank">샘터</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5/19 |  <a href="https://www.acmicpc.net/problem/2668" target="_blank">2668</a>  |     <a href="https://www.acmicpc.net/problem/2668" target="_blank">숫자고르기</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5/20 | <a href="https://www.acmicpc.net/problem/13023" target="_blank">13023</a> |       <a href="https://www.acmicpc.net/problem/13023" target="_blank">ABCDE</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 5/20 | <a href="https://www.acmicpc.net/problem/16954" target="_blank">16954</a> | <a href="https://www.acmicpc.net/problem/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/21 |  <a href="https://www.acmicpc.net/problem/2206" target="_blank">2206</a>  | <a href="https://www.acmicpc.net/problem/2206" target="_blank">벽 부수고 이동하기</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/21 |  <a href="https://www.acmicpc.net/problem/2573" target="_blank">2573</a>  |        <a href="https://www.acmicpc.net/problem/2573" target="_blank">빙산</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/22 |  <a href="https://www.acmicpc.net/problem/4179" target="_blank">4179</a>  |         <a href="https://www.acmicpc.net/problem/4179" target="_blank">불!</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/22 | <a href="https://www.acmicpc.net/problem/16932" target="_blank">16932</a> |    <a href="https://www.acmicpc.net/problem/16932" target="_blank">모양 만들기</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/23 |  <a href="https://www.acmicpc.net/problem/9466" target="_blank">9466</a>  |     <a href="https://www.acmicpc.net/problem/9466" target="_blank">텀 프로젝트</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/23 |  <a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>  |     <a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/21 | <a href="https://www.acmicpc.net/problem/16973" target="_blank">16973</a> |   <a href="https://www.acmicpc.net/problem/16973" target="_blank">직사각형 탈출</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 5/21 | <a href="https://www.acmicpc.net/problem/14940" target="_blank">14940</a> |   <a href="https://www.acmicpc.net/problem/14940" target="_blank">쉬운 최단거리</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 5/22 | <a href="https://www.acmicpc.net/problem/18513" target="_blank">18513</a> |        <a href="https://www.acmicpc.net/problem/18513" target="_blank">샘터</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 5/22 |  <a href="https://www.acmicpc.net/problem/2668" target="_blank">2668</a>  |     <a href="https://www.acmicpc.net/problem/2668" target="_blank">숫자고르기</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 5/23 | <a href="https://www.acmicpc.net/problem/13023" target="_blank">13023</a> |       <a href="https://www.acmicpc.net/problem/13023" target="_blank">ABCDE</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 5/23 | <a href="https://www.acmicpc.net/problem/16954" target="_blank">16954</a> | <a href="https://www.acmicpc.net/problem/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/24 |  <a href="https://www.acmicpc.net/problem/2206" target="_blank">2206</a>  | <a href="https://www.acmicpc.net/problem/2206" target="_blank">벽 부수고 이동하기</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/24 |  <a href="https://www.acmicpc.net/problem/2573" target="_blank">2573</a>  |        <a href="https://www.acmicpc.net/problem/2573" target="_blank">빙산</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/25 |  <a href="https://www.acmicpc.net/problem/4179" target="_blank">4179</a>  |         <a href="https://www.acmicpc.net/problem/4179" target="_blank">불!</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/25 | <a href="https://www.acmicpc.net/problem/16932" target="_blank">16932</a> |    <a href="https://www.acmicpc.net/problem/16932" target="_blank">모양 만들기</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/26 |  <a href="https://www.acmicpc.net/problem/9466" target="_blank">9466</a>  |     <a href="https://www.acmicpc.net/problem/9466" target="_blank">텀 프로젝트</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5/26 |  <a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>  |     <a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 </details>
+
+- 부스트캠프 AI Tech P-Stage 3 대회 마지막 주로 5/18 ~ 5/20 쉬고 5/21부터 재개
 
 ---
