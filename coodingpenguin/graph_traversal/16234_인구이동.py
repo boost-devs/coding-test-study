@@ -1,6 +1,6 @@
 # 문제: [BOJ 16234] 인구 이동
 # 유형: BFS
-# 메모리/시간:	145604kb / 2216ms
+# 메모리/시간: 145604kb / 2216ms
 
 import sys
 from collections import deque
