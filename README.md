@@ -35,8 +35,9 @@
 - 공부를 하면서 새로 배운 개념, 좋은 꿀팁은 Issue에 공유한다.
 - Pull Request 제출 마감은 해가 뜨기 전까지이며, 못 푼 문제 수만큼 1000원의 벌금을 부과한다.
   - **[🌞 해 뜨는 시간 확인하기!](https://www.google.com/search?q=%EC%9D%BC%EC%B6%9C%EC%8B%9C%EA%B0%84)**
-- **`2021.05.27`** 푸는 문제의 난이도에 따라 실버일 경우 두 문제, 골드일 경우 한 문제를 푼다.
+- **`2021.05.27`** 푸는 문제의 난이도에 따라 실버🥈, 브론즈🥉일 경우 두 문제를, 골드🥇일 경우 한 문제를 푼다.
 - **`2021.05.27`** 코딩테스트 스터디는 평일에만 진행하며, 주말은 쉰다.
+- **`2021.05.28`** 다양한 문제 풀이를 위해 최고 난이도는 골드5로 설정한다.
 
 ---
 
@@ -71,7 +72,7 @@
 ## 스터디 일지
 
 <details markdown="1">
-<summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.31)</strong></summary>
+<summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.23)</strong></summary>
 
 <br/>
 
@@ -99,16 +100,37 @@
 | 5/22 |  <a href="https://www.acmicpc.net/problem/2668" target="_blank">2668</a>  |     <a href="https://www.acmicpc.net/problem/2668" target="_blank">숫자고르기</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5/23 | <a href="https://www.acmicpc.net/problem/13023" target="_blank">13023</a> |       <a href="https://www.acmicpc.net/problem/13023" target="_blank">ABCDE</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 5/23 | <a href="https://www.acmicpc.net/problem/16954" target="_blank">16954</a> | <a href="https://www.acmicpc.net/problem/16954" target="_blank">움직이는 미로 탈출</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/24 |  <a href="https://www.acmicpc.net/problem/2206" target="_blank">2206</a>  | <a href="https://www.acmicpc.net/problem/2206" target="_blank">벽 부수고 이동하기</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/27 |  <a href="https://www.acmicpc.net/problem/2573" target="_blank">2573</a>  |        <a href="https://www.acmicpc.net/problem/2573" target="_blank">빙산</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/28 |  <a href="https://www.acmicpc.net/problem/4179" target="_blank">4179</a>  |         <a href="https://www.acmicpc.net/problem/4179" target="_blank">불!</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/29 | <a href="https://www.acmicpc.net/problem/16932" target="_blank">16932</a> |    <a href="https://www.acmicpc.net/problem/16932" target="_blank">모양 만들기</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/30 |  <a href="https://www.acmicpc.net/problem/9466" target="_blank">9466</a>  |     <a href="https://www.acmicpc.net/problem/9466" target="_blank">텀 프로젝트</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 5/31 |  <a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>  |     <a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 </details>
 
-- **5/18 - 5/20 휴식** 부스트캠프 AI Tech P-Stage 3 대회 마지막 주로 대회 참여로 휴식
-- **5/24 - 5/26 휴식** 재정비 시간을 갖고자 휴식
+- **`5/18 - 5/20`** 부스트캠프 AI Tech P-Stage 3 대회 마지막 주로 대회 참여로 휴식
+- **`5/24 - 5/26`** 재정비 시간을 갖고자 휴식
+
+<details markdown="1">
+<summary><strong>문자열 (2021.05.31 ~ 2021.06.10)</strong></summary>
+
+<br/>
+
+| 날짜 |                                 문제 번호                                 |                                           문제 이름                                           |                                       난이도                                       |
+| :--: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 5/31 |  <a href="https://www.acmicpc.net/problem/3029" target="_blank">3029</a>  |            <a href="https://www.acmicpc.net/problem/3029" target="_blank">경고</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>  |
+| 5/31 | <a href="https://www.acmicpc.net/problem/11720" target="_blank">11720</a> |         <a href="https://www.acmicpc.net/problem/11720" target="_blank">숫자의 합</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |
+| 6/01 | <a href="https://www.acmicpc.net/problem/11365" target="_blank">11365</a> |        <a href="https://www.acmicpc.net/problem/11365" target="_blank">!밀비 급일</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |
+| 6/01 |  <a href="https://www.acmicpc.net/problem/9046" target="_blank">9046</a>  |           <a href="https://www.acmicpc.net/problem/9046" target="_blank">복호화</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>  |
+| 6/02 | <a href="https://www.acmicpc.net/problem/10798" target="_blank">10798</a> |         <a href="https://www.acmicpc.net/problem/10798" target="_blank">세로읽기</a>          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>  |
+| 6/02 | <a href="https://www.acmicpc.net/problem/20154" target="_blank">20154</a> | <a href="https://www.acmicpc.net/problem/20154" target="_blank">이 구역의 승자는 누구야?!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>  |
+| 6/03 |  <a href="https://www.acmicpc.net/problem/6550" target="_blank">6550</a>  |        <a href="https://www.acmicpc.net/problem/6550" target="_blank">부분 문자열</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>  |
+| 6/03 |  <a href="https://www.acmicpc.net/problem/1316" target="_blank">1316</a>  |       <a href="https://www.acmicpc.net/problem/1316" target="_blank">그룹 단어 체커</a>       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 6/04 |  <a href="https://www.acmicpc.net/problem/1181" target="_blank">1181</a>  |         <a href="https://www.acmicpc.net/problem/1181" target="_blank">단어 정렬</a>          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 6/04 |  <a href="https://www.acmicpc.net/problem/4659" target="_blank">4659</a>  |     <a href="https://www.acmicpc.net/problem/4659" target="_blank">비밀번호 발음하기</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 6/07 | <a href="https://www.acmicpc.net/problem/16171" target="_blank">16171</a> | <a href="https://www.acmicpc.net/problem/16171" target="_blank">나는 친구가 적다 (Small)</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 6/07 |  <a href="https://www.acmicpc.net/problem/9342" target="_blank">9342</a>  |           <a href="https://www.acmicpc.net/problem/9342" target="_blank">염색체</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 6/08 |  <a href="https://www.acmicpc.net/problem/1764" target="_blank">1764</a>  |           <a href="https://www.acmicpc.net/problem/1764" target="_blank">듣보잡</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 6/08 | <a href="https://www.acmicpc.net/problem/20291" target="_blank">20291</a> |         <a href="https://www.acmicpc.net/problem/20291" target="_blank">파일 정리</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 6/09 | <a href="https://www.acmicpc.net/problem/17413" target="_blank">17413</a> |       <a href="https://www.acmicpc.net/problem/17413" target="_blank">단어 뒤집기 2</a>       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 6/09 | <a href="https://www.acmicpc.net/problem/17609" target="_blank">17609</a> |           <a href="https://www.acmicpc.net/problem/17609" target="_blank">회문</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 6/10 | <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a> |       <a href="https://www.acmicpc.net/problem/20437" target="_blank">문자열 게임 2</a>       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+</details>
 
 ---
