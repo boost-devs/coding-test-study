@@ -22,8 +22,8 @@
 - [X] **16234_인구 이동** / [문제](https://www.acmicpc.net/problem/16234) / [풀이]()
 - [X] **2636_치즈** / [문제](https://www.acmicpc.net/problem/2636) / [풀이]()
 - [X] **13549_숨바꼭질 3** / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
-- [ ] 1600_말이 되고픈 원숭이 / [문제](https://www.acmicpc.net/problem/1600) / [풀이]()
-- [ ] 17836_공주님을 구해라! / [문제](https://www.acmicpc.net/problem/17836) / [풀이]()
+- [X] **1600_말이 되고픈 원숭이** / [문제](https://www.acmicpc.net/problem/1600) / [풀이]()
+- [X] **17836_공주님을 구해라!** / [문제](https://www.acmicpc.net/problem/17836) / [풀이]()
 - [ ] 16973_직사각형 탈출 / [문제](https://www.acmicpc.net/problem/16973) / [풀이]()
 - [ ] 14940_쉬운 최단거리 / [문제](https://www.acmicpc.net/problem/14940) / [풀이]()
 - [ ] 18513_샘터 / [문제](https://www.acmicpc.net/problem/18513) / [풀이]()
@@ -38,3 +38,26 @@
 - [ ] 1967_트리의 지름 / [문제](https://www.acmicpc.net/problem/1967) / [풀이]()
 
 ---
+
+## String
+
+- [X] **3029_경고** / [문제](https://www.acmicpc.net/problem/3029) / [풀이]()
+- [X] **11720_숫자의 합** / [문제](https://www.acmicpc.net/problem/11720) / [풀이]()
+- [ ] 11365_!밀비 급일 / [문제](https://www.acmicpc.net/problem/11365) / [풀이]()
+- [ ] 9046_복호화 / [문제](https://www.acmicpc.net/problem/9046) / [풀이]()
+- [ ] 10798_세로읽기 / [문제](https://www.acmicpc.net/problem/10798) / [풀이]()
+- [ ] 20154_이 구역의 승자는 누구야?! / [문제](https://www.acmicpc.net/problem/20154) / [풀이]()
+- [ ] 6550_부분 문자열 / [문제](https://www.acmicpc.net/problem/6550) / [풀이]()
+- [ ] 1316_그룹 단어 체커 / [문제](https://www.acmicpc.net/problem/1316) / [풀이]()
+- [ ] 1181_단어 정렬 / [문제](https://www.acmicpc.net/problem/1181) / [풀이]()
+- [ ] 4659_비밀번호 발음하기 / [문제](https://www.acmicpc.net/problem/4659) / [풀이]()
+- [ ] 16171_나는 친구가 적다 (Small) / [문제](https://www.acmicpc.net/problem/16171) / [풀이]()
+- [ ] 9342_염색체 / [문제](https://www.acmicpc.net/problem/9342) / [풀이]()
+- [ ] 1764_듣보잡 / [문제](https://www.acmicpc.net/problem/1764) / [풀이]()
+- [ ] 20291_파일 정리 / [문제](https://www.acmicpc.net/problem/20291) / [풀이]()
+- [ ] 17414_단어 뒤집기 2 / [문제](https://www.acmicpc.net/problem/17414) / [풀이]()
+- [ ] 17609_회문 / [문제](https://www.acmicpc.net/problem/17609) / [풀이]()
+- [ ] 20437_문자열 게임 2 / [문제](https://www.acmicpc.net/problem/20437) / [풀이]()
+
+---
+
