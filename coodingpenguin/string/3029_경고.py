@@ -1,3 +1,7 @@
+# 문제: [BOJ 3029] 경고
+# 유형: 문자열
+# 메모리/시간: 29200kb / 68ms
+
 import sys
 
 input = sys.stdin.readline
