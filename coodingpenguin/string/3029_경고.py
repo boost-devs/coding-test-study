@@ -46,10 +46,14 @@ def format_time(wait_time):
 current_time = parse_string(input().rstrip())  # 현재 시간
 throw_time = parse_string(input().rstrip())  # 던진 시간
 
-wait_time = diff_time(current_time, throw_time)  # 기다린 시간
-# 기다린 시분초가 0이라면 24시간 기다린 것
-if not sum(wait_time):
+# 시분초가 동일하다면
+if current_time == throw_time:
+    # 24시간 기다린 것
     wait_time = (24, 0, 0)
+# 아닐 경우
+else:
+    # 차이를 계산
+    wait_time = diff_time(current_time, throw_time)  # 기다린 시간
 
 # 출력
 print(format_time(wait_time))
