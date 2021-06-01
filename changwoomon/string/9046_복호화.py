@@ -1,6 +1,6 @@
 ###### 9046번: 복호화
 # https://www.acmicpc.net/problem/9046
-# 메모리/시간: 31872KB / 96ms
+# 메모리/시간: 31864KB / 96ms
 
 import sys
 from collections import Counter
@@ -16,8 +16,6 @@ for i in range(T):
     cnt = 0
     answer = ""
     for k, v in tmp.items():
-        if k == " ":
-            continue
         if v == max(tmp.values()):
             cnt += 1
             answer = k
