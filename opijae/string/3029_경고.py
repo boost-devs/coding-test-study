@@ -16,3 +16,4 @@ m=period_t//60 # 분은 60으로 나누고
 period_t-=m*60
 s=period_t # 나머지는 초
 print('{0}:{1}:{2}'.format(str(h).zfill(2),str(m).zfill(2),str(s).zfill(2)))
+
