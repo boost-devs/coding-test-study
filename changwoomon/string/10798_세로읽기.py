@@ -8,14 +8,11 @@ input = sys.stdin.readline
 
 _input = [list(map(str, input().rstrip())) for _ in range(5)]
 
-_min = 16
 _max = 0
 
 for i in range(5):
     if len(_input[i]) > _max:
         _max = len(_input[i])
-    if len(_input[i]) < _min:
-        _min = len(_input[i])
 
 answer = ""
 
