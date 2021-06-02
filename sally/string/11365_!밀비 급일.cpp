@@ -1,6 +1,6 @@
 /*
 # String
-# Problem: 11720
+# Problem: 11365
 # Memory: 2024KB
 # Time: 0ms
 */
@@ -11,22 +11,25 @@
 #include <string>
 #include <algorithm>
 #include <cmath>
+#include <functional>
 using namespace std;
 
-int N;
-int result = 0;
 string str;
 
 int main(void) {
     cin.tie(NULL);
     ios::sync_with_stdio(false);
 
-    cin >> N >> str;
-    for(int i = 0; i <N; i++){
-        result += (str[i] - '0');
+    getline(cin, str);
+    while(str!="END"){
+        // cout << "str: " <<str<< '\n';
+        int str_len = str.size();
+        for(int i = str_len -1; i >= 0; i--)
+            cout << str[i];
+        cout << '\n';
+        cin.clear();
+        getline(cin, str);
     }
-
-    cout << result;
 
     return 0;
 }
