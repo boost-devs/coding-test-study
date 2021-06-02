@@ -2,7 +2,6 @@
 # https://www.acmicpc.net/problem/3029
 # 메모리/시간: 31864KB / 96ms
 
-from collections import namedtuple
 import sys
 
 input = sys.stdin.readline
