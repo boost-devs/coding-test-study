@@ -43,5 +43,4 @@ for _ in range(T):
                     if cond5_ and (0 <= cnt <= 1):
                         cond5 = True
 
-    
     print("Infected!") if all([cond1, cond2, cond3, cond4, cond5]) else print("Good")
