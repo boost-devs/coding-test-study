@@ -55,8 +55,8 @@
 - [X] **9342_염색체** / [문제](https://www.acmicpc.net/problem/9342) / [풀이]()
 - [X] **1764_듣보잡** / [문제](https://www.acmicpc.net/problem/1764) / [풀이]()
 - [X] **20291_파일 정리** / [문제](https://www.acmicpc.net/problem/20291) / [풀이]()
-- [ ] 17414_단어 뒤집기 2 / [문제](https://www.acmicpc.net/problem/17414) / [풀이]()
-- [ ] 17609_회문 / [문제](https://www.acmicpc.net/problem/17609) / [풀이]()
+- [X] **17413_단어 뒤집기 2** / [문제](https://www.acmicpc.net/problem/17413) / [풀이]()
+- [X] **17609_회문** / [문제](https://www.acmicpc.net/problem/17609) / [풀이]()
 - [ ] 20437_문자열 게임 2 / [문제](https://www.acmicpc.net/problem/20437) / [풀이]()
 
 ---
