@@ -57,7 +57,7 @@
 - [X] **20291_파일 정리** / [문제](https://www.acmicpc.net/problem/20291) / [풀이]()
 - [X] **17413_단어 뒤집기 2** / [문제](https://www.acmicpc.net/problem/17413) / [풀이]()
 - [X] **17609_회문** / [문제](https://www.acmicpc.net/problem/17609) / [풀이]()
-- [ ] 20437_문자열 게임 2 / [문제](https://www.acmicpc.net/problem/20437) / [풀이]()
+- [X] **20437_문자열 게임 2** / [문제](https://www.acmicpc.net/problem/20437) / [풀이]()
 
 ---
 
