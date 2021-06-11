@@ -1,11 +1,10 @@
 # 11725번: 트리의 부모 찾기
 # https://www.acmicpc.net/problem/11725
-# 메모리/시간: 49220KB / 420ms
+# 메모리/시간: 49220KB / 376ms
 
 import sys
 from collections import deque
 
-sys.setrecursionlimit(10**9)
 input = sys.stdin.readline
 
 N = int(input())
