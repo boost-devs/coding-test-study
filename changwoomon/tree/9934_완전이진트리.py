@@ -10,16 +10,16 @@ K = int(input())
 
 node = list(map(int, input().split()))
 node.insert(0, 0)
-answer = [[] for _ in range(K)]
+tree = [[] for _ in range(K)]
 
 for i in range(K-1, -1, -1):
     j = 2**i
     tmp = []
     while j < len(node):
         if node[j] != 0:
-            answer[i].append(node[j])
+            tree[i].append(node[j])
             node[j] = 0
         j += 2**i
 
 for i in range(K-1, -1, -1):
-    print(" ".join(map(str, answer[i])))
+    print(" ".join(map(str, tree[i])))
