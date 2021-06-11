@@ -63,8 +63,8 @@
 
 ## Tree
 
-- [ ] 9934_완전 이진 트리 / [문제](https://www.acmicpc.net/problem/9934) / [풀이]()
-- [ ] 11725_트리의 부모 찾기	 / [문제](https://www.acmicpc.net/problem/11725) / [풀이]()
+- [X] **9934_완전 이진 트리** / [문제](https://www.acmicpc.net/problem/9934) / [풀이]()
+- [X] **11725_트리의 부모 찾기** / [문제](https://www.acmicpc.net/problem/11725) / [풀이]()
 - [ ] 1991_트리 순회 / [문제](https://www.acmicpc.net/problem/1991) / [풀이]()
 - [ ] 5639_이진 검색 트리	 / [문제](https://www.acmicpc.net/problem/5639) / [풀이]()
 - [ ] 1068_트리/ [문제](https://www.acmicpc.net/problem/1068) / [풀이]()
