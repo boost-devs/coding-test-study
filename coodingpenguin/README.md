@@ -2,6 +2,7 @@
 
 - [그래프 탐색](#그래프-탐색)
 - [문자열](#문자열)
+- [트리](#트리)
 
 ---
 
@@ -53,3 +54,16 @@
 | 6/09 | <a href="https://www.acmicpc.net/problem/17413" target="_blank">17413</a> |         <a href="https://www.acmicpc.net/problem/17413" target="_blank">단어 뒤집기 2</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |      |                                                             |
 | 6/09 | <a href="https://www.acmicpc.net/problem/17609" target="_blank">17609</a> |             <a href="https://www.acmicpc.net/problem/17609" target="_blank">회문</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |      |                                                             |
 | 6/10 | <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a> |         <a href="https://www.acmicpc.net/problem/20437" target="_blank">문자열 게임 2</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  ✅  | 연속 문자열의 길이를 구하는 것이 무엇인지를 파악하는 문제   |
+
+### 트리
+
+| 날짜 |                                   번호                                    |                                      문제 이름                                       |                                       난이도                                       | 체크 | 한줄평                                     |
+| :--: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--: | :----------------------------------------- |
+| 6/11 |  <a href="https://www.acmicpc.net/problem/9934" target="_blank">9934</a>  |  <a href="https://www.acmicpc.net/problem/9934" target="_blank">완전 이진 트리</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  ✅  | 중위순회(inorder traversal)를 아나요?      |
+| 6/11 | <a href="https://www.acmicpc.net/problem/11725" target="_blank">11725</a> | <a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  ✅  | BFS문제인데 전에 풀었던 것 같다. 중복인가? |
+| 6/14 |  <a href="https://www.acmicpc.net/problem/1991" target="_blank">1991</a>  |     <a href="https://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |      |                                            |
+| 6/14 |  <a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>  |  <a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |      |                                            |
+| 6/15 |  <a href="https://www.acmicpc.net/problem/1068" target="_blank">1068</a>  |       <a href="https://www.acmicpc.net/problem/1068" target="_blank">트리</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |      |                                            |
+| 6/16 |  <a href="https://www.acmicpc.net/problem/6416" target="_blank">6416</a>  |     <a href="https://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |      |                                            |
+| 6/17 | <a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a> | <a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |      |                                            |
+| 6/18 | <a href="https://www.acmicpc.net/problem/17073" target="_blank">17073</a> |  <a href="https://www.acmicpc.net/problem/17073" target="_blank">나무 위의 빗물</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |      |                                            |
