@@ -133,7 +133,7 @@
 
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><strong>트리 (2021.06.11 ~ 2021.06.18)</strong></summary>
 
 <br/>
