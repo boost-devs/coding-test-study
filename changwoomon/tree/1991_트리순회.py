@@ -1,6 +1,6 @@
 ###### 1991번: 트리 순회
 # https://www.acmicpc.net/problem/1991
-# 메모리/시간: 29200KB / 72ms
+# 메모리/시간: 29200KB / 64ms
 
 import sys
 
