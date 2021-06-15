@@ -10,3 +10,6 @@
 |---|---|---|---|---|
 |6/11|9934|OBILAZAK|[link](https://www.acmicpc.net/problem/9934)|o|
 |6/11|11725|트리의 부모 찾기|[link](https://www.acmicpc.net/problem/11725)|o|
+|6/14|1991|트리의 부모 찾기|[link](https://www.acmicpc.net/problem/1991)|x|
+|6/14|5639|트리의 부모 찾기|[link](https://www.acmicpc.net/problem/5639)|x|
+|6/15|1068|트리|[link](https://www.acmicpc.net/problem/2168)|o|
