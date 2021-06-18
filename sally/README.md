@@ -69,7 +69,7 @@
 - [ ] 5639_이진 검색 트리	 / [문제](https://www.acmicpc.net/problem/5639) / [풀이]()
 - [X] **1068_트리**/ [문제](https://www.acmicpc.net/problem/1068) / [풀이]()
 - [ ] 6416_트리인가?/ [문제](https://www.acmicpc.net/problem/6416) / [풀이]()
-- [ ] 14675_단절점과 단절선 / [문제](https://www.acmicpc.net/problem/14675) / [풀이]()
+- [X] **14675_단절점과 단절선** / [문제](https://www.acmicpc.net/problem/14675) / [풀이]()
 - [ ] 17073_나무 위의 빗물 / [문제](https://www.acmicpc.net/problem/17073) / [풀이]()
 
 ---
