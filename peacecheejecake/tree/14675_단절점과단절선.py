@@ -1,6 +1,10 @@
 # https://www.acmicpc.net/problem/14675
 # 단절점과 단절선
 
+import sys
+def input():
+    return sys.stdin.readline().strip()
+
 
 num_nodes = int(input())
 num_appearances = [0] * num_nodes
