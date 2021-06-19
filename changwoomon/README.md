@@ -1,6 +1,4 @@
-# changwoomon
-
-## (੭•̀ᴗ•̀)੭🔥 changwoomon
+# (੭•̀ᴗ•̀)੭🔥 changwoomon
 
 ---
 
