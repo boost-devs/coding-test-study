@@ -10,3 +10,4 @@
 |6/11|11725|트리의 부모 찾기|[link](https://www.acmicpc.net/problem/11725)|
 |6/15|1068|트리|[link](https://www.acmicpc.net/problem/2168)|
 |6/16|6416|트리인가?|[link](https://www.acmicpc.net/problem/6416)|
+|6/17|14675|단절점과 단절선|[link](https://www.acmicpc.net/problem/14675)|
