@@ -66,7 +66,7 @@
 - [X] **11725_트리의 부모 찾기** / [문제](https://www.acmicpc.net/problem/11725) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/tree/11725_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%B6%80%EB%AA%A8%EC%B0%BE%EA%B8%B0.py)
 - [X] **1991_트리 순회** / [문제](https://www.acmicpc.net/problem/1991) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/tree/1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.py)
 - [X] **5639_이진 검색 트리** / [문제](https://www.acmicpc.net/problem/5639) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/tree/5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC.py)
-- [ ] 1068_트리/ [문제](https://www.acmicpc.net/problem/1068) / [풀이]()
+- [X] **1068_트리**/ [문제](https://www.acmicpc.net/problem/1068) / [풀이]()
 - [ ] 6416_트리인가?/ [문제](https://www.acmicpc.net/problem/6416) / [풀이]()
 - [X] **14675_단절점과 단절선** / [문제](https://www.acmicpc.net/problem/14675) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/tree/14675_%EB%8B%A8%EC%A0%88%EC%A0%90%EA%B3%BC%EB%8B%A8%EC%A0%88%EC%84%A0.py)
 - [X] **17073_나무 위의 빗물** / [문제](https://www.acmicpc.net/problem/17073) / [풀이]()
@@ -78,8 +78,8 @@
 
 <br/>
 
-- [ ] 10870_피보나치 수 5 / [문제](https://www.acmicpc.net/problem/10870) / [풀이]()
-- [ ] 2839_설탕 배달 / [문제](https://www.acmicpc.net/problem/2839) / [풀이]()
+- [X] **10870_피보나치 수 5** / [문제](https://www.acmicpc.net/problem/10870) / [풀이]()
+- [X] **2839_설탕 배달** / [문제](https://www.acmicpc.net/problem/2839) / [풀이]()
 - [ ] 2748_피보나치 수 2 / [문제](https://www.acmicpc.net/problem/2748) / [풀이]()
 - [ ] 1010_다리 놓기 / [문제](https://www.acmicpc.net/problem/1010) / [풀이]()
 - [ ] 9655_돌 게임 / [문제](https://www.acmicpc.net/problem/9655) / [풀이]()
