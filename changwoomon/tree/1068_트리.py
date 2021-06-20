@@ -39,8 +39,6 @@ cnt = 0
 for x, b in zip(tree, visited):
     if len(x) == 0 and not b:
         cnt += 1
-
-for x, b in zip(tree, visited):
     if x == {del_node}:
         cnt += 1
 
