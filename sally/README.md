@@ -68,8 +68,38 @@
 - [ ] 1991_트리 순회 / [문제](https://www.acmicpc.net/problem/1991) / [풀이]()
 - [ ] 5639_이진 검색 트리	 / [문제](https://www.acmicpc.net/problem/5639) / [풀이]()
 - [X] **1068_트리**/ [문제](https://www.acmicpc.net/problem/1068) / [풀이]()
-- [ ] 6416_트리인가?/ [문제](https://www.acmicpc.net/problem/6416) / [풀이]()
+- [X] **6416_트리인가?** / [문제](https://www.acmicpc.net/problem/6416) / [풀이]()
 - [X] **14675_단절점과 단절선** / [문제](https://www.acmicpc.net/problem/14675) / [풀이]()
 - [ ] 17073_나무 위의 빗물 / [문제](https://www.acmicpc.net/problem/17073) / [풀이]()
+
+---
+
+## Dynamic Programming 1
+
+- [ ] 10870_피보나치 수 5 / [문제](https://www.acmicpc.net/problem/10870) / [풀이]()
+- [ ] 2839_설탕 배달 / [문제](https://www.acmicpc.net/problem/2839) / [풀이]()
+- [ ] 2748_피보나치 수 2 / [문제](https://www.acmicpc.net/problem/2748) / [풀이]()
+- [ ] 1010_다리 놓기 / [문제](https://www.acmicpc.net/problem/1010) / [풀이]()
+- [ ] 9655_돌 게임 / [문제](https://www.acmicpc.net/problem/9655) / [풀이]()
+- [ ] 17626_Four Squares / [문제](https://www.acmicpc.net/problem/17626) / [풀이]()
+- [ ] 1463_1로 만들기 / [문제](https://www.acmicpc.net/problem/1463) / [풀이]()
+- [ ] 9095_1, 2, 3 더하기 / [문제](https://www.acmicpc.net/problem/9095) / [풀이]()
+- [ ] 11726_2×n 타일링 / [문제](https://www.acmicpc.net/problem/11726) / [풀이]()
+- [ ] 	2579_계단 오르기 / [문제](https://www.acmicpc.net/problem/2579) / [풀이]()
+- [ ] 11727_2×n 타일링 2 / [문제](https://www.acmicpc.net/problem/11727) / [풀이]()
+- [ ] 	11053_가장 긴 증가하는 부분 수열 / [문제](https://www.acmicpc.net/problem/11053) / [풀이]()
+- [ ] 1912_연속합 / [문제](https://www.acmicpc.net/problem/1912) / [풀이]()
+- [ ] 9465_스티커 / [문제](https://www.acmicpc.net/problem/9465) / [풀이]()
+- [ ] 11055_가장 큰 증가 부분 수열 / [문제](https://www.acmicpc.net/problem/11055) / [풀이]()
+- [ ] 1890_점프 / [문제](https://www.acmicpc.net/problem/1890) / [풀이]()
+- [ ] 2407_조합 / [문제](https://www.acmicpc.net/problem/2407) / [풀이]()
+- [ ] 1106_호텔 / [문제](https://www.acmicpc.net/problem/1106) / [풀이]()
+- [ ] 15486_퇴사 2 / [문제](https://www.acmicpc.net/problem/15486) / [풀이]()
+- [ ] 2156_포도주 시식 / [문제](https://www.acmicpc.net/problem/2156) / [풀이]()
+- [ ] 10844_쉬운 계단 수 / [문제](https://www.acmicpc.net/problem/10844) / [풀이]()
+- [ ] 2293_동전 1 / [문제](https://www.acmicpc.net/problem/2293) / [풀이]()
+- [ ] 2294_동전 2 / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
+- [ ] 11660_구간 합 구하기 5 / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
+- [ ] 21317_징검다리 건너기 / [문제](https://www.acmicpc.net/problem/21317) / [풀이]()
 
 ---

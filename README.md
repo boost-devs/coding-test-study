@@ -16,9 +16,9 @@
 
 ## 팀원 소개
 
-|                                                          [펭귄](https://github.com/CoodingPenguin)                                                           |                                        [샐리](https://github.com/bsm8734)                                         |                                                            [원딜](https://github.com/changwoomon)                                                            |                                      [후미](https://github.com/opijae)                                      |                                     [구너](https://github.com/osmosm7)                                      |                                 [튜브](https://github.com/peacecheejecake)                                  |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-| <img src='https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/35002768?s=460&v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/26226101?v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/48181287?v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/29668380?v=4' width='120px' height='120px' alt='avatar'/> |
+| [펭귄](https://github.com/CoodingPenguin) | [샐리](https://github.com/bsm8734) | [원딜](https://github.com/changwoomon) | [후미](https://github.com/opijae) | [구너](https://github.com/osmosm7) | [튜브](https://github.com/peacecheejecake) | [감자](https://github.com/dkswndms4782) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src='https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/35002768?s=460&v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/26226101?v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/48181287?v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/29668380?v=4' width='120px' height='120px' alt='avatar'/> | <img src='https://avatars.githubusercontent.com/u/59716219?v=4' width='120px' height='120px' alt='avatar'/> |
 
 ---
 
@@ -133,7 +133,7 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>트리 (2021.06.11 ~ 2021.06.18)</strong></summary>
 
 <br/>
@@ -148,6 +148,41 @@
 | 6/16 | <a href="https://www.acmicpc.net/problem/6416" target="_blank">6416</a> | <a href="https://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 6/17 | <a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a> | <a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 6/18 | <a href="https://www.acmicpc.net/problem/17073" target="_blank">17073</a> | <a href="https://www.acmicpc.net/problem/17073" target="_blank">나무 위의 빗물</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+</details>
+
+<details markdown="1" open>
+<summary><strong>동적계획법 1 (2021.06.21 ~ 2021.07.07)</strong></summary>
+
+<br/>
+
+| 날짜 |                                 문제 번호                                 |                                           문제 이름                                           |                                       난이도                                       |
+| :--: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 6/21 | <a href="https://www.acmicpc.net/problem/10870" target="_blank">10870</a> | <a href="https://www.acmicpc.net/problem/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
+| 6/21 | <a href="https://www.acmicpc.net/problem/2839" target="_blank">2839</a> | <a href="https://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+| 6/22 | <a href="https://www.acmicpc.net/problem/2748" target="_blank">2748</a> | <a href="https://www.acmicpc.net/problem/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+| 6/22 | <a href="https://www.acmicpc.net/problem/1010" target="_blank">1010</a> | <a href="https://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| 6/23 | <a href="https://www.acmicpc.net/problem/9655" target="_blank">9655</a> | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| 6/23 | <a href="https://www.acmicpc.net/problem/17626" target="_blank">17626</a> | <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| 6/24 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1463</a> | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6/24 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">9095</a> | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6/25 | <a href="https://www.acmicpc.net/problem/11726" target="_blank">11726</a> | <a href="https://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6/25 | <a href="https://www.acmicpc.net/problem/2579" target="_blank">2579</a> | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6/28 | <a href="https://www.acmicpc.net/problem/11727" target="_blank">11727</a> | <a href="https://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 6/28 | <a href="https://www.acmicpc.net/problem/11053" target="_blank">11053</a> | <a href="https://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 6/29 | <a href="https://www.acmicpc.net/problem/1912" target="_blank">1912</a> | <a href="https://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 6/29 | <a href="https://www.acmicpc.net/problem/9465" target="_blank">9465</a> | <a href="https://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 6/30 | <a href="https://www.acmicpc.net/problem/11055" target="_blank">11055</a> | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가 부분 수열</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 6/30 | <a href="https://www.acmicpc.net/problem/1890" target="_blank">1890</a> | <a href="https://www.acmicpc.net/problem/1890" target="_blank">점프</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 7/01 | <a href="https://www.acmicpc.net/problem/2407" target="_blank">2407</a> | <a href="https://www.acmicpc.net/problem/2407" target="_blank">조합</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 7/01 | <a href="https://www.acmicpc.net/problem/1106" target="_blank">1106</a> | <a href="https://www.acmicpc.net/problem/1106" target="_blank">호텔</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 7/02 | <a href="https://www.acmicpc.net/problem/15486" target="_blank">15486</a> | <a href="https://www.acmicpc.net/problem/15486" target="_blank">퇴사 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/02 | <a href="https://www.acmicpc.net/problem/2156" target="_blank">2156</a> | <a href="https://www.acmicpc.net/problem/2156" target="_blank">포도주 시식</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/05 | <a href="https://www.acmicpc.net/problem/10844" target="_blank">10844</a> | <a href="https://www.acmicpc.net/problem/10844" target="_blank">쉬운 계단 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/05 | <a href="https://www.acmicpc.net/problem/2293" target="_blank">2293</a> | <a href="https://www.acmicpc.net/problem/2293" target="_blank">동전 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/06 | <a href="https://www.acmicpc.net/problem/2294" target="_blank">2294</a> | <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/06 | <a href="https://www.acmicpc.net/problem/11660" target="_blank">11660</a> | <a href="https://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/07 | <a href="https://www.acmicpc.net/problem/21317" target="_blank">21317</a> | <a href="https://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 </details>
 
