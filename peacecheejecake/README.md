@@ -11,3 +11,4 @@
 |6/15|1068|트리|[link](https://www.acmicpc.net/problem/2168)|
 |6/16|6416|트리인가?|[link](https://www.acmicpc.net/problem/6416)|
 |6/17|14675|단절점과 단절선|[link](https://www.acmicpc.net/problem/14675)|
+|6/18|17073|나무 위의 빗물|[link](https://www.acmicpc.net/problem/17073)|
