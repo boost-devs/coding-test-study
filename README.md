@@ -152,7 +152,7 @@
 </details>
 
 <details markdown="1" open>
-<summary><strong>동적계획법 1 (2021.06.11 ~ 2021.06.18)</strong></summary>
+<summary><strong>동적계획법 1 (2021.06.21 ~ 2021.07.07)</strong></summary>
 
 <br/>
 
