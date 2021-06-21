@@ -1,5 +1,5 @@
 /*
-# Tree
+# DP
 # Problem: 2839
 # Memory: 2040KB
 # Time: 0ms
