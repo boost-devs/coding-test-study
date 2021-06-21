@@ -76,8 +76,8 @@
 
 ## Dynamic Programming 1
 
-- [ ] 10870_피보나치 수 5 / [문제](https://www.acmicpc.net/problem/10870) / [풀이]()
-- [ ] 2839_설탕 배달 / [문제](https://www.acmicpc.net/problem/2839) / [풀이]()
+- [X] **10870_피보나치 수 5** / [문제](https://www.acmicpc.net/problem/10870) / [풀이]()
+- [X] **2839_설탕 배달** / [문제](https://www.acmicpc.net/problem/2839) / [풀이]()
 - [ ] 2748_피보나치 수 2 / [문제](https://www.acmicpc.net/problem/2748) / [풀이]()
 - [ ] 1010_다리 놓기 / [문제](https://www.acmicpc.net/problem/1010) / [풀이]()
 - [ ] 9655_돌 게임 / [문제](https://www.acmicpc.net/problem/9655) / [풀이]()
