@@ -1,6 +1,6 @@
 ###### 1463번: 1로 만들기
 # https://www.acmicpc.net/problem/1463
-# 메모리/시간: 37012KB / 696ms
+# 메모리/시간: 37012KB / 636ms
 
 import sys
 
