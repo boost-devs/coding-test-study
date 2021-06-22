@@ -80,8 +80,8 @@
 
 - [X] **10870_피보나치 수 5** / [문제](https://www.acmicpc.net/problem/10870) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/10870_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%985.py)
 - [X] **2839_설탕 배달** / [문제](https://www.acmicpc.net/problem/2839) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC.py)
-- [X] **2748_피보나치 수 2** / [문제](https://www.acmicpc.net/problem/2748) / [풀이]()
-- [X] **1010_다리 놓기** / [문제](https://www.acmicpc.net/problem/1010) / [풀이]()
+- [X] **2748_피보나치 수 2** / [문제](https://www.acmicpc.net/problem/2748) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/2748_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982.py)
+- [X] **1010_다리 놓기** / [문제](https://www.acmicpc.net/problem/1010) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/1010_%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0.py)
 - [X] **9655_돌 게임** / [문제](https://www.acmicpc.net/problem/9655) / [풀이]()
 - [X] **17626_Four Squares** / [문제](https://www.acmicpc.net/problem/17626) / [풀이]()
 - [X] **1463_1로 만들기** / [문제](https://www.acmicpc.net/problem/1463) / [풀이]()
