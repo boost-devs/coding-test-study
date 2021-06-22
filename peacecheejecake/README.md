@@ -18,3 +18,5 @@
 |---|---|---|---|
 |6/21|10870|피보나치 수 5|[link](https://www.acmicpc.net/problem/10870)|
 |6/21|2839|설탕 배달[link](https://www.acmicpc.net/problem/2839)|
+|6/22|2748|피보나치 수 2[link](https://www.acmicpc.net/problem/2748)|
+|6/22|1010|다리 놓기[link](https://www.acmicpc.net/problem/1010)|
