@@ -76,6 +76,9 @@
 
 <br/>
 
+- **`5/18 - 5/20`** 부스트캠프 AI Tech P-Stage 3 대회 마지막 주로 대회 참여로 휴식
+- **`5/24 - 5/26`** 재정비 시간을 갖고자 휴식
+
 | 날짜 |                                 문제 번호                                 |                                       문제 이름                                        |                                          난이도                                          |
 | :--: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | 5/10 |  <a href="https://www.acmicpc.net/problem/2606" target="_blank">2606</a>  |      <a href="https://www.acmicpc.net/problem/2606" target="_blank">바이러스</a>       |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>     |
@@ -102,9 +105,6 @@
 | 5/23 | <a href="https://www.acmicpc.net/problem/16954" target="_blank">16954</a> | <a href="https://www.acmicpc.net/problem/16954" target="_blank">움직이는 미로 탈출</a> |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>    |
 
 </details>
-
-- **`5/18 - 5/20`** 부스트캠프 AI Tech P-Stage 3 대회 마지막 주로 대회 참여로 휴식
-- **`5/24 - 5/26`** 재정비 시간을 갖고자 휴식
 
 <details markdown="1">
 <summary><strong>문자열 (2021.05.31 ~ 2021.06.10)</strong></summary>
