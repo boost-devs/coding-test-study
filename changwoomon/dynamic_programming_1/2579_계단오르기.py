@@ -1,6 +1,6 @@
 ###### 2579번: 계단 오르기
 # https://www.acmicpc.net/problem/2579
-# 메모리/시간: KB / ms
+# 메모리/시간: 31856KB / 88ms
 
 import sys
 from collections import defaultdict
