@@ -1,8 +1,11 @@
 pull_request_rules:
-  - name: Automatic assign reviewers
+  - name: Assign yourself and request reviews automatically
     conditions:
       - base=main
     actions:
+      assign:
+        add_users:
+          - "{{author}}"
       request_reviews:
         users:
           - CoodingPenguin
