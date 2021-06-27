@@ -4,8 +4,14 @@ pull_request_rules:
       - base=main
     actions:
       request_reviews:
-        teams:
-          - "@boostcamp-ai-tech-4/coding-test-study"
+        users:
+          - CoodingPenguin
+          - changwoomon
+          - bsm8734
+          - opijae
+          - osmosm7
+          - peacecheejecake
+          - dkswndms4782
 
   - name: Automatic merge on approval
     conditions:
