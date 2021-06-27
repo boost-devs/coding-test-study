@@ -1,7 +1,17 @@
 pull_request_rules:
+  - name: Automatic assign reviewers
+    conditions:
+      - base=main
+    actions:
+      request_reviews:
+        teams:
+          - "@boostcamp-ai-tech-4/coding-test-study"
+
   - name: Automatic merge on approval
     conditions:
       - "#approved-reviews-by>=3"
+      - "#changes-requested-reviews-by=0"
+      - base=main
     actions:
       merge:
         method: merge
