@@ -26,3 +26,5 @@
 |6/24|9095|1, 2, 3 더하기|[link](https://www.acmicpc.net/problem/9095)|
 |6/25|11726|2xn 타일링|[link](https://www.acmicpc.net/problem/11726)|
 |6/25|2579|계단 오르기|[link](https://www.acmicpc.net/problem/2579)|
+|6/28|11727|2xn 타일링 2|[link](https://www.acmicpc.net/problem/11727)|
+|6/28|11053|가장 긴 증가하는 부분 수열|[link](https://www.acmicpc.net/problem/11053)|
