@@ -18,9 +18,9 @@ def dfs(x, y):
         table[x][y] = 0
         x1, y1 = x + _map[x][y], y
         x2, y2 = x, y + _map[x][y]
-        if (0 <= x1 < N) and (0 <= y1 < N):
+        if (x1 >= 0) and (x1 < N) and (y1 >= 0) and (y1 < N):
             table[x][y] += dfs(x1, y1)
-        if (0 <= x2 < N) and (0 <= y2 < N):
+        if (x2 >= 0) and (x2 < N) and (y2 >= 0) and (y2 < N):
             table[x][y] += dfs(x2, y2)
     return table[x][y]
 

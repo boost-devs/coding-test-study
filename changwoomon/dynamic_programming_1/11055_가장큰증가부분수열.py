@@ -10,10 +10,9 @@ N = int(input())
 
 A = list(map(int, input().split()))
 
-table = [0] * N
+table = [x for x in A]
 
 for i in range(N):
-    table[i] = A[i]
     for j in range(i):
         if (A[i] > A[j]) and (table[i] < table[j] + A[i]):
             table[i] = table[j] + A[i]
