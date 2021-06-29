@@ -28,3 +28,5 @@
 |6/25|2579|계단 오르기|[link](https://www.acmicpc.net/problem/2579)|
 |6/28|11727|2xn 타일링 2|[link](https://www.acmicpc.net/problem/11727)|
 |6/28|11053|가장 긴 증가하는 부분 수열|[link](https://www.acmicpc.net/problem/11053)|
+|6/29|1912|연속합|[link](https://www.acmicpc.net/problem/1912)|
+|6/29|9465|스티커|[link](https://www.acmicpc.net/problem/9465)|
