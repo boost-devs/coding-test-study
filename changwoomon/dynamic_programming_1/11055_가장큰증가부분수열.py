@@ -1,6 +1,6 @@
 ###### 11055번: 가장 큰 증가 부분 수열
 # https://www.acmicpc.net/problem/11055
-# 메모리/시간: 29200KB / 200ms
+# 메모리/시간: 29200KB / 196ms
 
 import sys
 
@@ -10,7 +10,7 @@ N = int(input())
 
 A = list(map(int, input().split()))
 
-table = [0 for _ in range(N)]
+table = [0] * N
 
 for i in range(N):
     table[i] = A[i]
