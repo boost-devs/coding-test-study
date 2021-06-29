@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/9465
 # 스티커 (DP)
-# 58984 KB / 1268 ms
+# 58984 KB / 1068 ms
 
 
 import sys
@@ -21,8 +21,8 @@ def get_partial_max(max_table, column):
     prev_prev, prev = max_table[-2:]
     upper, lower = column
 
-    upper += max(max(prev_prev), prev[1]) # 선택 안함 vs 아래 선택
-    lower += max(max(prev_prev), prev[0]) # 선택 안함 vs 위 선택
+    upper += max(prev_prev[1], prev[1]) # 선택 안함 vs 아래 선택
+    lower += max(prev_prev[0], prev[0]) # 선택 안함 vs 위 선택
     return (upper, lower)
 
 
