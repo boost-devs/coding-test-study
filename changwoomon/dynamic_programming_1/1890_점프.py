@@ -1,6 +1,6 @@
 ###### 1890번: 점프
 # https://www.acmicpc.net/problem/1890
-# 메모리/시간: KB / ms
+# 메모리/시간: 29200KB / 68ms
 
 import sys
 
