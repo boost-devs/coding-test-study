@@ -30,3 +30,5 @@
 |6/28|11053|가장 긴 증가하는 부분 수열|[link](https://www.acmicpc.net/problem/11053)|
 |6/29|1912|연속합|[link](https://www.acmicpc.net/problem/1912)|
 |6/29|9465|스티커|[link](https://www.acmicpc.net/problem/9465)|
+|6/30|11055|가장 큰 증가 부분 수열|[link](https://www.acmicpc.net/problem/11055)|
+|6/30|1890|점프|[link](https://www.acmicpc.net/problem/1890)|
