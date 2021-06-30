@@ -8,12 +8,18 @@ input = sys.stdin.readline
 
 C, N = map(int, input().split())
 
-info = [list(map(int, input().split())) for _ in range(N)]
-_max = sorted(info, key=lambda x: x[1], reverse=True)[0][1]
+info = dict()
 
-table = [0] + [999999] * (C+_max)
+for _ in range(N):
+    cost, customer = map(int, input().split())
+    if customer in info.keys():
+        info[customer] = min(info[customer], cost)
+    else:
+        info[customer] = cost
 
-for cost, customer in info:
+table = [0] + [999999] * (C+max(info.keys()))
+
+for customer, cost in info.items():
     for i in range(customer, len(table)):
         table[i] = min(table[i], table[i-customer]+cost)
 
