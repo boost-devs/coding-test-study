@@ -3,21 +3,18 @@
 # 메모리/시간: 273336KB / 4044ms
 
 import sys
+from collections import defaultdict
 
 input = sys.stdin.readline
 
 N = int(input())
 
-info = [[0, 0] for _ in range(N+1)]
-table = [0] * (N+2)
+info = [list(map(int, input().split())) for _ in range(N)]
+table = defaultdict(int)
 
-for i in range(1, N+1):
-    T_i, P_i = map(int, input().split())
-    info[i][0], info[i][1] = T_i, P_i
-
-for i in range(1, N+1):
-    if i + info[i][0] <= N+1:
+for i in range(N):
+    if i + info[i][0] <= N:
         table[i+info[i][0]] = max(table[i+info[i][0]], table[i]+info[i][1])
     table[i+1] = max(table[i+1], table[i])
 
-print(table[-1])
+print(table[N])
