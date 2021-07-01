@@ -9,12 +9,10 @@ input = sys.stdin.readline
 
 n = int(input())
 
-wine = [int(input()) for _ in range(n)]
+wine = [0] + [int(input()) for _ in range(n)]
 table = defaultdict(int)
 
-table[0] = wine[0]
-
-for i in range(1, n):
+for i in range(1, n+1):
     table[i] = max(table[i-1], wine[i]+table[i-2], wine[i]+wine[i-1]+table[i-3])
 
-print(table[n-1])
+print(table[n])
