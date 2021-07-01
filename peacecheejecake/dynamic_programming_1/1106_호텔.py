@@ -14,7 +14,6 @@ for _ in range(N):
     cost, cust = readline()
     info.append((cost, cust))
 
-info.sort(key=lambda p: p[0] / p[1])
 table = [0, min(info)[0]]
 for target in range(2, C + 1):
     table.append(min(
