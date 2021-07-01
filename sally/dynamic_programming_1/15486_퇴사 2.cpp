@@ -25,12 +25,9 @@ int main(void){
         dp[i] = max(result, dp[i]);
         if (target <= N)
             dp[target] = max(dp[target], dp[i]+benefit[i]);
-        // for(auto j:dp) cout << j <<' ';
-        // cout << '\n';
         result = max(result, dp[i]);
     }
     result = max(result, dp[N]);
-    // if(need[N-1] == 1) result += benefit[N-1];
 
     cout << result;
     
