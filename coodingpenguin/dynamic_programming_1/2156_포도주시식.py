@@ -8,7 +8,7 @@ input = sys.stdin.readline
 
 
 def result(n, wines):
-    # 3개 이하이면
+    # 3개 미만이면
     if n < 3:
         # 다 마신다
         return sum(wines)
