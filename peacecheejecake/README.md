@@ -34,3 +34,5 @@
 |6/30|1890|점프|[link](https://www.acmicpc.net/problem/1890)|
 |7/1|2407|조합|[link](https://www.acmicpc.net/problem/2407)|
 |7/1|1106|호텔|[link](https://www.acmicpc.net/problem/1106)|
+|7/2|15486|퇴사 2|[link](https://www.acmicpc.net/problem/15486)|
+|7/2|2156|포도주 시식|[link](https://www.acmicpc.net/problem/2156)|
