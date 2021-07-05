@@ -9,8 +9,8 @@ input = sys.stdin.readline
 N, M = map(int, input().split())
 
 _map = [list(map(int, input().split())) for _ in range(N)]
-
 table = [[0] * (N+1) for _ in range(N+1)]
+
 for i in range(1, N+1):
     for j in range(1, N+1):
         table[i][j] = _map[i-1][j-1] + table[i][j-1] + table[i-1][j] - table[i-1][j-1]
