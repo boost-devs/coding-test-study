@@ -100,8 +100,8 @@
 - [X] **2156_포도주 시식** / [문제](https://www.acmicpc.net/problem/2156) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.py)
 - [X] **10844_쉬운 계단 수** / [문제](https://www.acmicpc.net/problem/10844) / [풀이]()
 - [X] **2293_동전 1** / [문제](https://www.acmicpc.net/problem/2293) / [풀이]()
-- [ ] 2294_동전 2 / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
-- [ ] 11660_구간 합 구하기 5 / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
+- [X] **2294_동전 2** / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
+- [X] **11660_구간 합 구하기 5** / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
 - [ ] 21317_징검다리 건너기 / [문제](https://www.acmicpc.net/problem/21317) / [풀이]()
 
 </details>
