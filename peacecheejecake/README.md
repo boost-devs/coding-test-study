@@ -36,3 +36,5 @@
 |7/1|1106|호텔|[link](https://www.acmicpc.net/problem/1106)|
 |7/2|15486|퇴사 2|[link](https://www.acmicpc.net/problem/15486)|
 |7/2|2156|포도주 시식|[link](https://www.acmicpc.net/problem/2156)|
+|7/5|10844|쉬운 계단 수|[link](https://www.acmicpc.net/problem/10844)|
+|7/5|2293|동전 1|[link](https://www.acmicpc.net/problem/2293)|
