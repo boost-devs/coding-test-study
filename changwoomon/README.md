@@ -102,7 +102,7 @@
 - [X] **2293_동전 1** / [문제](https://www.acmicpc.net/problem/2293) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/2293_%EB%8F%99%EC%A0%841.py)
 - [X] **2294_동전 2** / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
 - [X] **11660_구간 합 구하기 5** / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
-- [ ] 21317_징검다리 건너기 / [문제](https://www.acmicpc.net/problem/21317) / [풀이]()
+- [X] **21317_징검다리 건너기** / [문제](https://www.acmicpc.net/problem/21317) / [풀이]()
 
 </details>
 
