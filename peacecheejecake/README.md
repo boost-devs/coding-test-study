@@ -38,3 +38,5 @@
 |7/2|2156|포도주 시식|[link](https://www.acmicpc.net/problem/2156)|
 |7/5|10844|쉬운 계단 수|[link](https://www.acmicpc.net/problem/10844)|
 |7/5|2293|동전 1|[link](https://www.acmicpc.net/problem/2293)|
+|7/6|2294|동전 2|[link](https://www.acmicpc.net/problem/2294)|
+|7/6|11660|구간 합 구하기 5|[link](https://www.acmicpc.net/problem/11660)|
