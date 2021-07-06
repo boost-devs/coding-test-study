@@ -98,10 +98,10 @@
 - [X] **1106_호텔** / [문제](https://www.acmicpc.net/problem/1106) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/1106_%ED%98%B8%ED%85%94.py)
 - [X] **15486_퇴사 2** / [문제](https://www.acmicpc.net/problem/15486) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/15486_%ED%87%B4%EC%82%AC2.py)
 - [X] **2156_포도주 시식** / [문제](https://www.acmicpc.net/problem/2156) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.py)
-- [X] **10844_쉬운 계단 수** / [문제](https://www.acmicpc.net/problem/10844) / [풀이]()
-- [X] **2293_동전 1** / [문제](https://www.acmicpc.net/problem/2293) / [풀이]()
-- [ ] 2294_동전 2 / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
-- [ ] 11660_구간 합 구하기 5 / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
+- [X] **10844_쉬운 계단 수** / [문제](https://www.acmicpc.net/problem/10844) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/10844_%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.py)
+- [X] **2293_동전 1** / [문제](https://www.acmicpc.net/problem/2293) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/dynamic_programming_1/2293_%EB%8F%99%EC%A0%841.py)
+- [X] **2294_동전 2** / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
+- [X] **11660_구간 합 구하기 5** / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
 - [ ] 21317_징검다리 건너기 / [문제](https://www.acmicpc.net/problem/21317) / [풀이]()
 
 </details>
