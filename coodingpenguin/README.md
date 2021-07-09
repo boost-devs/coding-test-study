@@ -3,6 +3,8 @@
 - [그래프 탐색](#그래프-탐색)
 - [문자열](#문자열)
 - [트리](#트리)
+- [동적계획법 1](#동적계획법-1)
+- [최단 거리](#최단-거리)
 
 ---
 
@@ -97,3 +99,14 @@
 | 7/06 |  <a href="https://www.acmicpc.net/problem/2294" target="_blank">2294</a>  |             <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a>              |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |      |                                                                    |
 | 7/06 | <a href="https://www.acmicpc.net/problem/11660" target="_blank">11660</a> |        <a href="https://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a>        |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |      |                                                                    |
 | 7/07 | <a href="https://www.acmicpc.net/problem/21317" target="_blank">21317</a> |        <a href="https://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a>         |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |  ✅  | n이 작은 걸 보니 여러 처리가 필요함을 알아차릴 수 있었다.          |
+
+### 최단 거리
+
+| 날짜 |                                 문제 번호                                 |                                         문제 이름                                         |                                          난이도                                          | 체크 | 한줄평                                                                  |
+| :--: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--: | :---------------------------------------------------------------------- |
+| 7/09 | <a href="https://www.acmicpc.net/problem/18352" target="_blank">18352</a> | <a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |  ✅  | 다잌스트라인 줄 알고 풀었는데 비용이 없어서 그래프 탐색으로도 풀이 가능 |
+| 7/09 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">11403</a> |       <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a>       |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |  ✅  | 인접 행렬을 최대한 이용하고 싶어서 3중 루프문으로 품                    |
+| 7/12 |  <a href="https://www.acmicpc.net/problem/2224" target="_blank">2224</a>  |       <a href="https://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a>        |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |      |                                                                         |
+| 7/12 | <a href="https://www.acmicpc.net/problem/11265" target="_blank">11265</a> |   <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a>    |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |      |                                                                         |
+| 7/13 |  <a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>  |        <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>        |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>    |      |                                                                         |
+| 7/13 | <a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a> |      <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a>       |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>    |      |                                                                         |
