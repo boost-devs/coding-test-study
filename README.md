@@ -151,7 +151,7 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>동적계획법 1 (2021.06.21 ~ 2021.07.07)</strong></summary>
 
 <br/>
@@ -183,6 +183,22 @@
 | 7/06 |  <a href="https://www.acmicpc.net/problem/2294" target="_blank">2294</a>  |           <a href="https://www.acmicpc.net/problem/2294" target="_blank">동전 2</a>            |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |
 | 7/06 | <a href="https://www.acmicpc.net/problem/11660" target="_blank">11660</a> |      <a href="https://www.acmicpc.net/problem/11660" target="_blank">구간 합 구하기 5</a>      |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |
 | 7/07 | <a href="https://www.acmicpc.net/problem/21317" target="_blank">21317</a> |      <a href="https://www.acmicpc.net/problem/21317" target="_blank">징검다리 건너기</a>       |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |
+
+</details>
+
+<details markdown="1" open>
+<summary><strong>최단거리 (2021.07.09 ~ 2021.07.13)</strong></summary>
+
+<br/>
+
+| 날짜 |                                 문제 번호                                 |                                           문제 이름                                            |                                          난이도                                          |
+| :--: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| 7/09 | <a href="https://www.acmicpc.net/problem/18352" target="_blank">18352</a> | <a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
+| 7/09 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">11403</a> | <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/12 | <a href="https://www.acmicpc.net/problem/2224" target="_blank">2224</a> | <a href="https://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/12 | <a href="https://www.acmicpc.net/problem/11265" target="_blank">11265</a> | <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/13 | <a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a> | <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7/13 | <a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a> | <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 </details>
 
