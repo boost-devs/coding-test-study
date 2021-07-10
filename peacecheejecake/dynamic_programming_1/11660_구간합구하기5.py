@@ -12,13 +12,13 @@ table = []
 for _ in range(n):
     table.append([int(x) for x in input().split()])
 
-for i in range(n):
-    for j in range(1, n):
-        table[i][j] += table[i][j - 1]
+for x in range(n):
+    for y in range(1, n):
+        table[x][y] += table[x][y - 1]
 
-for i in range(1, n):
-    for j in range(n):
-        table[i][j] += table[i - 1][j]
+for x in range(1, n):
+    for y in range(n):
+        table[x][y] += table[x - 1][y]
 
 for _ in range(m):
     x1, y1, x2, y2 = [int(x) - 1 for x in input().split()]
