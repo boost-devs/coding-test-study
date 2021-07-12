@@ -18,26 +18,26 @@ for x in _input:
     proposition[P].append(Q)
 
 def bfs(x):
-    _return = []
-    cnt = 0
+    consequent = []
+    consequent_len = 0
     queue = deque([x])
     while queue:
         z = queue.popleft()
         if z in proposition.keys():
             for v in proposition[z]:
-                if v not in _return and v != x:
-                    _return.append(v)
+                if v not in consequent and v != x:
+                    consequent.append(v)
                     queue.append(v)
-                    cnt += 1
-    return _return, cnt
+                    consequent_len += 1
+    return consequent, consequent_len
 
 answer = defaultdict(list)
 cnt = 0
 
 for k in proposition.keys():
-    _return, leng = bfs(k)
-    answer[k] = sorted(_return)
-    cnt += leng
+    consequent, consequent_len = bfs(k)
+    answer[k] = sorted(consequent)
+    cnt += consequent_len
 
 print(cnt)
 for k in sorted(proposition.keys()):
