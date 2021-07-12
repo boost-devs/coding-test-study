@@ -1,6 +1,6 @@
 ###### 2224번: 명제 증명
 # https://www.acmicpc.net/problem/2224
-# 메모리/시간: KB / ms
+# 메모리/시간: 32084KB / 160ms
 
 import sys
 from collections import defaultdict, deque
