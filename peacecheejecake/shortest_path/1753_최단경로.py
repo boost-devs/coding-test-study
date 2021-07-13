@@ -7,8 +7,8 @@ import heapq
 import sys
 
 input = sys.stdin.readline
-INF = int(1e7)
 
+INF = int(1e7)
 
 num_verts, num_edges = map(int, input().split())
 start = int(input()) - 1
