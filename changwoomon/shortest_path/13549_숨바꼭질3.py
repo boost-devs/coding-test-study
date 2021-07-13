@@ -1,6 +1,6 @@
 ###### 13549번: 숨바꼭질 3
 # https://www.acmicpc.net/problem/13549
-# 메모리/시간: 35124KB / 256ms
+# 메모리/시간: 35124KB / 232ms
 
 import sys
 import heapq
@@ -33,9 +33,9 @@ def dijkstra(start):
             if (z < 0) or (z > 100000) or (time_table[z] != INF):
                 continue
             if i == 0:
-                time_table[z] = min(time_table[z], time)
+                time_table[z] = time
             else:
-                time_table[z] = min(time_table[z], time+1)
+                time_table[z] = time + 1
             heapq.heappush(queue, (time_table[z], z))
 
 print(dijkstra(N))
