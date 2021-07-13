@@ -11,8 +11,8 @@ INF = int(1e6)
 
 V, E = map(int, input().split())
 
-graph = [[] for i in range(V + 1)]
-distance = [INF] * (V + 1)
+graph = [[] for i in range(V+1)]
+distance = [INF] * (V+1)
 
 K = int(input())
 

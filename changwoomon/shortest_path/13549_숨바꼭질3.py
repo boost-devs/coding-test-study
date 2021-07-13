@@ -11,7 +11,7 @@ INF = int(1e9)
 
 N, K = map(int, input().split())
 
-distance = [INF] * 100001
+time_table = [INF] * 100001
 
 f1 = lambda x: x-1
 f2 = lambda x: x+1
@@ -21,21 +21,21 @@ func = [f3, f1, f2]
 def dijkstra(start):
     queue = []
     heapq.heappush(queue, (0, start))
-    distance[start] = 0
+    time_table[start] = 0
     while queue:
-        dist, x = heapq.heappop(queue)
+        time, x = heapq.heappop(queue)
         if x == K:
-            return dist
-        if distance[x] < dist:
+            return time
+        if time_table[x] < time:
             continue
         for i in range(3):
             z = func[i](x)
-            if (z < 0) or (z > 100000) or (distance[z] != INF):
+            if (z < 0) or (z > 100000) or (time_table[z] != INF):
                 continue
             if i == 0:
-                distance[z] = min(distance[z], dist)
+                time_table[z] = min(time_table[z], time)
             else:
-                distance[z] = min(distance[z], dist+1)
-            heapq.heappush(queue, (distance[z], z))
+                time_table[z] = min(time_table[z], time+1)
+            heapq.heappush(queue, (time_table[z], z))
 
 print(dijkstra(N))
