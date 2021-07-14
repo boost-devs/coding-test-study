@@ -113,10 +113,10 @@
 
 - [X] **18352_특정 거리의 도시 찾기** / [문제](https://www.acmicpc.net/problem/18352) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/18352_%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.py)
 - [X] **11403_경로 찾기** / [문제](https://www.acmicpc.net/problem/11403) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/11403_%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0.py)
-- [X] **2224_명제 증명** / [문제](https://www.acmicpc.net/problem/2224) / [풀이]()
-- [X] **11265_끝나지 않는 파티** / [문제](https://www.acmicpc.net/problem/11265) / [풀이]()
-- [ ] 1753_최단경로 / [문제](https://www.acmicpc.net/problem/1753) / [풀이]()
-- [ ] 13549_숨바꼭질 3 / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
+- [X] **2224_명제 증명** / [문제](https://www.acmicpc.net/problem/2224) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/2224_%EB%AA%85%EC%A0%9C%EC%A6%9D%EB%AA%85.py)
+- [X] **11265_끝나지 않는 파티** / [문제](https://www.acmicpc.net/problem/11265) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.py)
+- [X] **1753_최단경로** / [문제](https://www.acmicpc.net/problem/1753) / [풀이]()
+- [X] **13549_숨바꼭질 3** / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
 
 </details>
 
