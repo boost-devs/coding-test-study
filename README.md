@@ -17,8 +17,8 @@
 ## 팀원 소개
 
 | <img src='https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[펭귄](https://github.com/CoodingPenguin)</b> |  <img src='https://avatars.githubusercontent.com/u/35002768?s=460&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[샐리](https://github.com/bsm8734)</b>  | <img src='https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[원딜](https://github.com/changwoomon)</b> | <img src='https://avatars.githubusercontent.com/u/26226101?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[후미](https://github.com/opijae)</b> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-|                             <img src='https://avatars.githubusercontent.com/u/48181287?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[구너](https://github.com/osmosm7)</b>                             | <img src='https://avatars.githubusercontent.com/u/29668380?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[튜브](https://github.com/peacecheejecake)</b> |                        <img src='https://avatars.githubusercontent.com/u/59716219?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[감자](https://github.com/dkswndms4782)</b>                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                             <img src='https://avatars.githubusercontent.com/u/48181287?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[구너](https://github.com/osmosm7)</b>                             | <img src='https://avatars.githubusercontent.com/u/29668380?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[튜브](https://github.com/peacecheejecake)</b> |                         <img src='https://avatars.githubusercontent.com/u/59716219?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[감자](https://github.com/dkswndms4782)</b>                         |
 
 ---
 
@@ -35,9 +35,9 @@
 - 공부를 하면서 새로 배운 개념, 좋은 꿀팁은 Issue에 공유한다.
 - Pull Request 제출 마감은 해가 뜨기 전까지이며, 못 푼 문제 수만큼 1000원의 벌금을 부과한다.
   - **[🌞 해 뜨는 시간 확인하기!](https://www.google.com/search?q=%EC%9D%BC%EC%B6%9C%EC%8B%9C%EA%B0%84)**
-- **`2021.05.27`** 푸는 문제의 난이도에 따라 실버🥈, 브론즈🥉일 경우 두 문제를, 골드🥇일 경우 한 문제를 푼다.
 - **`2021.05.27`** 코딩테스트 스터디는 평일에만 진행하며, 주말은 쉰다.
 - **`2021.05.28`** 다양한 문제 풀이를 위해 최고 난이도는 골드5로 설정한다.
+- **`2021.07.09`** 난이도에 상관 없이 하루에 두 문제씩 푼다.
 
 ---
 
@@ -186,20 +186,46 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>최단거리 (2021.07.09 ~ 2021.07.13)</strong></summary>
 
 <br/>
 
-| 날짜 |                                 문제 번호                                 |                                           문제 이름                                            |                                          난이도                                          |
-| :--: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| 날짜 |                                 문제 번호                                 |                                         문제 이름                                         |                                          난이도                                          |
+| :--: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | 7/09 | <a href="https://www.acmicpc.net/problem/18352" target="_blank">18352</a> | <a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a> | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/> |
-| 7/09 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">11403</a> | <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 7/12 | <a href="https://www.acmicpc.net/problem/2224" target="_blank">2224</a> | <a href="https://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 7/12 | <a href="https://www.acmicpc.net/problem/11265" target="_blank">11265</a> | <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 7/13 | <a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a> | <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 7/13 | <a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a> | <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7/09 | <a href="https://www.acmicpc.net/problem/11403" target="_blank">11403</a> |       <a href="https://www.acmicpc.net/problem/11403" target="_blank">경로 찾기</a>       |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |
+| 7/12 |  <a href="https://www.acmicpc.net/problem/2224" target="_blank">2224</a>  |       <a href="https://www.acmicpc.net/problem/2224" target="_blank">명제 증명</a>        |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |
+| 7/12 | <a href="https://www.acmicpc.net/problem/11265" target="_blank">11265</a> |   <a href="https://www.acmicpc.net/problem/11265" target="_blank">끝나지 않는 파티</a>    |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>    |
+| 7/13 |  <a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>  |        <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>        |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>    |
+| 7/13 | <a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a> |      <a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a>       |    <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>    |
 
 </details>
 
----
+<details markdown="1" open>
+<summary><strong>구현 (2021.07.14 ~ 2021.07.26)</strong></summary>
+
+<br/>
+
+| 날짜 |                                 문제 번호                                 |                                             문제 이름                                             |                                       난이도                                       |
+| :--: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 7/14 | <a href="https://www.acmicpc.net/problem/14467" target="_blank">14467</a> |    <a href="https://www.acmicpc.net/problem/14467" target="_blank">소가 길을 건너간 이유 1</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 7/14 | <a href="https://www.acmicpc.net/problem/12933" target="_blank">12933</a> |             <a href="https://www.acmicpc.net/problem/12933" target="_blank">오리</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 7/15 |  <a href="https://www.acmicpc.net/problem/2578" target="_blank">2578</a>  |              <a href="https://www.acmicpc.net/problem/2578" target="_blank">빙고</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 7/15 |  <a href="https://www.acmicpc.net/problem/4396" target="_blank">4396</a>  |           <a href="https://www.acmicpc.net/problem/4396" target="_blank">지뢰 찾기</a>            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 7/16 |  <a href="https://www.acmicpc.net/problem/1244" target="_blank">1244</a>  |        <a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 7/16 | <a href="https://www.acmicpc.net/problem/10994" target="_blank">10994</a> |         <a href="https://www.acmicpc.net/problem/10994" target="_blank">별 찍기 - 19</a>          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 7/19 | <a href="https://www.acmicpc.net/problem/20291" target="_blank">20291</a> |           <a href="https://www.acmicpc.net/problem/20291" target="_blank">파일 정리</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 7/19 | <a href="https://www.acmicpc.net/problem/20436" target="_blank">20436</a> |            <a href="https://www.acmicpc.net/problem/20436" target="_blank">ZOAC 3</a>             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 7/20 | <a href="https://www.acmicpc.net/problem/17413" target="_blank">17413</a> |         <a href="https://www.acmicpc.net/problem/17413" target="_blank">단어 뒤집기 2</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 7/20 |  <a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a>  |              <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 7/21 | <a href="https://www.acmicpc.net/problem/16926" target="_blank">16926</a> |         <a href="https://www.acmicpc.net/problem/16926" target="_blank">배열 돌리기 1</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 7/21 | <a href="https://www.acmicpc.net/problem/15787" target="_blank">15787</a> | <a href="https://www.acmicpc.net/problem/15787" target="_blank">기차가 어둠을 헤치고 은하수를</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 7/22 | <a href="https://www.acmicpc.net/problem/17276" target="_blank">17276</a> |          <a href="https://www.acmicpc.net/problem/17276" target="_blank">배열 돌리기</a>          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/22 | <a href="https://www.acmicpc.net/problem/20207" target="_blank">20207</a> |             <a href="https://www.acmicpc.net/problem/20207" target="_blank">달력</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/23 | <a href="https://www.acmicpc.net/problem/21608" target="_blank">21608</a> |         <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/23 | <a href="https://www.acmicpc.net/problem/20164" target="_blank">20164</a> |        <a href="https://www.acmicpc.net/problem/20164" target="_blank">홀수 홀릭 호석</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7/26 | <a href="https://www.acmicpc.net/problem/14719" target="_blank">14719</a> |             <a href="https://www.acmicpc.net/problem/14719" target="_blank">빗물</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7/26 | <a href="https://www.acmicpc.net/problem/16719" target="_blank">16719</a> |             <a href="https://www.acmicpc.net/problem/16719" target="_blank">ZOAC</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+</details>
