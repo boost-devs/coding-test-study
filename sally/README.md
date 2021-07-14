@@ -110,8 +110,8 @@
 - [X] **11403_경로 찾기** / [문제](https://www.acmicpc.net/problem/11403) / [풀이]()
 - [X] **2224_명제 증명** / [문제](https://www.acmicpc.net/problem/2224) / [풀이]()
 - [X] **11265_끝나지 않는 파티** / [문제](https://www.acmicpc.net/problem/11265) / [풀이]()
-- [ ] 1753_최단경로 / [문제](https://www.acmicpc.net/problem/1753) / [풀이]()
-- [ ] 13549_숨바꼭질 3 / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
+- [X] **1753_최단경로** / [문제](https://www.acmicpc.net/problem/1753) / [풀이]()
+- [X] **13549_숨바꼭질 3** / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
 
 ---
 
