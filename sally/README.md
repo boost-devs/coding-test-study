@@ -55,9 +55,63 @@
 - [X] **9342_염색체** / [문제](https://www.acmicpc.net/problem/9342) / [풀이]()
 - [X] **1764_듣보잡** / [문제](https://www.acmicpc.net/problem/1764) / [풀이]()
 - [X] **20291_파일 정리** / [문제](https://www.acmicpc.net/problem/20291) / [풀이]()
-- [ ] 17414_단어 뒤집기 2 / [문제](https://www.acmicpc.net/problem/17414) / [풀이]()
-- [ ] 17609_회문 / [문제](https://www.acmicpc.net/problem/17609) / [풀이]()
-- [ ] 20437_문자열 게임 2 / [문제](https://www.acmicpc.net/problem/20437) / [풀이]()
+- [X] **17413_단어 뒤집기 2** / [문제](https://www.acmicpc.net/problem/17413) / [풀이]()
+- [X] **17609_회문** / [문제](https://www.acmicpc.net/problem/17609) / [풀이]()
+- [X] **20437_문자열 게임 2** / [문제](https://www.acmicpc.net/problem/20437) / [풀이]()
+
+---
+
+## Tree
+
+- [X] **9934_완전 이진 트리** / [문제](https://www.acmicpc.net/problem/9934) / [풀이]()
+- [X] **11725_트리의 부모 찾기** / [문제](https://www.acmicpc.net/problem/11725) / [풀이]()
+- [ ] 1991_트리 순회 / [문제](https://www.acmicpc.net/problem/1991) / [풀이]()
+- [ ] 5639_이진 검색 트리	 / [문제](https://www.acmicpc.net/problem/5639) / [풀이]()
+- [X] **1068_트리**/ [문제](https://www.acmicpc.net/problem/1068) / [풀이]()
+- [X] **6416_트리인가?** / [문제](https://www.acmicpc.net/problem/6416) / [풀이]()
+- [X] **14675_단절점과 단절선** / [문제](https://www.acmicpc.net/problem/14675) / [풀이]()
+- [ ] 17073_나무 위의 빗물 / [문제](https://www.acmicpc.net/problem/17073) / [풀이]()
+
+---
+
+## Dynamic Programming 1
+
+- [X] **10870_피보나치 수 5** / [문제](https://www.acmicpc.net/problem/10870) / [풀이]()
+- [X] **2839_설탕 배달** / [문제](https://www.acmicpc.net/problem/2839) / [풀이]()
+- [x] **2748_피보나치 수 2** / [문제](https://www.acmicpc.net/problem/2748) / [풀이]()
+- [x] **1010_다리 놓기** / [문제](https://www.acmicpc.net/problem/1010) / [풀이]()
+- [X] **9655_돌 게임** / [문제](https://www.acmicpc.net/problem/9655) / [풀이]()
+- [X] **17626_Four Squares** / [문제](https://www.acmicpc.net/problem/17626) / [풀이]()
+- [X] **1463_1로 만들기** / [문제](https://www.acmicpc.net/problem/1463) / [풀이]()
+- [X] **9095_1, 2, 3 더하기** / [문제](https://www.acmicpc.net/problem/9095) / [풀이]()
+- [ ] 11726_2×n 타일링 / [문제](https://www.acmicpc.net/problem/11726) / [풀이]()
+- [ ] 2579_계단 오르기 / [문제](https://www.acmicpc.net/problem/2579) / [풀이]()
+- [X] **11727_2×n 타일링 2** / [문제](https://www.acmicpc.net/problem/11727) / [풀이]()
+- [X] **11053_가장 긴 증가하는 부분 수열** / [문제](https://www.acmicpc.net/problem/11053) / [풀이]()
+- [X] **1912_연속합** / [문제](https://www.acmicpc.net/problem/1912) / [풀이]()
+- [X] **9465_스티커** / [문제](https://www.acmicpc.net/problem/9465) / [풀이]()
+- [X] **11055_가장 큰 증가 부분 수열** / [문제](https://www.acmicpc.net/problem/11055) / [풀이]()
+- [X] **1890_점프** / [문제](https://www.acmicpc.net/problem/1890) / [풀이]()
+- [X] **2407_조합** / [문제](https://www.acmicpc.net/problem/2407) / [풀이]()
+- [X] **1106_호텔** / [문제](https://www.acmicpc.net/problem/1106) / [풀이]()
+- [X] **15486_퇴사 2** / [문제](https://www.acmicpc.net/problem/15486) / [풀이]()
+- [X] **2156_포도주 시식** / [문제](https://www.acmicpc.net/problem/2156) / [풀이]()
+- [X] **10844_쉬운 계단 수** / [문제](https://www.acmicpc.net/problem/10844) / [풀이]()
+- [X] **2293_동전 1** / [문제](https://www.acmicpc.net/problem/2293) / [풀이]()
+- [X] **2294_동전 2** / [문제](https://www.acmicpc.net/problem/2294) / [풀이]()
+- [X] **11660_구간 합 구하기 5** / [문제](https://www.acmicpc.net/problem/11660) / [풀이]()
+- [X] **21317_징검다리 건너기** / [문제](https://www.acmicpc.net/problem/21317) / [풀이]()
+
+---
+
+## Shortest Path
+
+- [X] **18352_특정 거리의 도시 찾기** / [문제](https://www.acmicpc.net/problem/18352) / [풀이]()
+- [X] **11403_경로 찾기** / [문제](https://www.acmicpc.net/problem/11403) / [풀이]()
+- [X] **2224_명제 증명** / [문제](https://www.acmicpc.net/problem/2224) / [풀이]()
+- [X] **11265_끝나지 않는 파티** / [문제](https://www.acmicpc.net/problem/11265) / [풀이]()
+- [X] **1753_최단경로** / [문제](https://www.acmicpc.net/problem/1753) / [풀이]()
+- [X] **13549_숨바꼭질 3** / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
 
 ---
 
