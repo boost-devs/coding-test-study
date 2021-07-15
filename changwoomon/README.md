@@ -106,7 +106,7 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>Shortest Path</strong></summary>
 
 <br/>
@@ -115,8 +115,35 @@
 - [X] **11403_경로 찾기** / [문제](https://www.acmicpc.net/problem/11403) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/11403_%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0.py)
 - [X] **2224_명제 증명** / [문제](https://www.acmicpc.net/problem/2224) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/2224_%EB%AA%85%EC%A0%9C%EC%A6%9D%EB%AA%85.py)
 - [X] **11265_끝나지 않는 파티** / [문제](https://www.acmicpc.net/problem/11265) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.py)
-- [X] **1753_최단경로** / [문제](https://www.acmicpc.net/problem/1753) / [풀이]()
-- [X] **13549_숨바꼭질 3** / [문제](https://www.acmicpc.net/problem/13549) / [풀이]()
+- [X] **1753_최단경로** / [문제](https://www.acmicpc.net/problem/1753) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
+- [X] **13549_숨바꼭질 3** / [문제](https://www.acmicpc.net/problem/13549) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/shortest_path/13549_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.py)
+
+</details>
+
+<details markdown="1" open>
+<summary><strong>Implementation</strong></summary>
+
+<br/>
+
+- [X] **1913_달팽이** / [문제](https://www.acmicpc.net/problem/1913) / [풀이]()
+- [X] **14467_소가 길을 건너간 이유 1** / [문제](https://www.acmicpc.net/problem/14467) / [풀이]()
+- [ ] 12933_오리 / [문제](https://www.acmicpc.net/problem/12933) / [풀이]()
+- [ ] 2578_빙고 / [문제](https://www.acmicpc.net/problem/2578) / [풀이]()
+- [ ] 4396_지뢰 찾기 / [문제](https://www.acmicpc.net/problem/4396) / [풀이]()
+- [ ] 1244_스위치 켜고 끄기 / [문제](https://www.acmicpc.net/problem/1244) / [풀이]()
+- [ ] 10994_별 찍기 - 19 / [문제](https://www.acmicpc.net/problem/10994) / [풀이]()
+- [ ] 20291_파일 정리 / [문제](https://www.acmicpc.net/problem/20291) / [풀이]()
+- [ ] 20436_ZOAC 3 / [문제](https://www.acmicpc.net/problem/20436) / [풀이]()
+- [ ] 17413_단어 뒤집기 2 / [문제](https://www.acmicpc.net/problem/17413) / [풀이]()
+- [ ] 2615_오목 / [문제](https://www.acmicpc.net/problem/2615) / [풀이]()
+- [ ] 16926_배열 돌리기 1 / [문제](https://www.acmicpc.net/problem/16926) / [풀이]()
+- [ ] 15787_기차가 어둠을 헤치고 은하수를 / [문제](https://www.acmicpc.net/problem/15787) / [풀이]()
+- [ ] 17276_배열 돌리기 / [문제](https://www.acmicpc.net/problem/17276) / [풀이]()
+- [ ] 20207_달력 / [문제](https://www.acmicpc.net/problem/20207) / [풀이]()
+- [ ] 21608_상어 초등학교 / [문제](https://www.acmicpc.net/problem/21608) / [풀이]()
+- [ ] 20164_홀수 홀릭 호석 / [문제](https://www.acmicpc.net/problem/20164) / [풀이]()
+- [ ] 14719_빗물 / [문제](https://www.acmicpc.net/problem/14719) / [풀이]()
+- [ ] 16719_ZOAC / [문제](https://www.acmicpc.net/problem/16719) / [풀이]()
 
 </details>
 
