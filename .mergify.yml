@@ -28,3 +28,25 @@ pull_request_rules:
     actions:
       merge:
         method: merge
+
+  - name: Add conflict label
+    conditions: 
+      - -closed
+      - -merged
+      - conflict
+    actions:
+      comment:
+        message: "@{{author}} Conflict 해결이 필요합니다!😥"
+      label:
+        add:
+          - conflict
+
+  - name: Remove conflict label
+    conditions:
+      - -closed
+      - -merged
+      - -conflict
+    actions:
+      label:
+        remove:
+          - conflict
