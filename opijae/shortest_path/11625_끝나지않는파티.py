@@ -1,6 +1,6 @@
 import sys
-input = sys.stdin.readline
 def solve():
+    input = sys.stdin.readline
     arr=[]
     n,m=map(int,input().split())
     for _ in range(n):

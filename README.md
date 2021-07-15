@@ -203,7 +203,7 @@
 </details>
 
 <details markdown="1" open>
-<summary><strong>구현 (2021.07.14 ~ 2021.07.26)</strong></summary>
+<summary><strong>구현 (2021.07.14 ~ 2021.07.27)</strong></summary>
 
 <br/>
 
