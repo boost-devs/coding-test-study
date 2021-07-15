@@ -16,7 +16,6 @@ def duckduck(duck):
 
     for x in duck:
         k = 1
-        
         while True:
             if x == quack[duck_idx[k]]:
                 duck_queue[k] += x
@@ -27,7 +26,6 @@ def duckduck(duck):
             if max(duck_queue.keys()) < k:
                 return -1
             k += 1
-
         for kk in duck_queue.keys():
             if duck_queue[kk] == "quack":
                 duck_queue[kk] = ""
