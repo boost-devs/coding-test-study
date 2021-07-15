@@ -1,6 +1,6 @@
 # 문제: [BOJ 12933] 오리
 # 유형: 구현, 문자열
-# 메모리/시간: 67660kb / 772ms
+# 메모리/시간: 29200kb / 160ms
 
 import sys
 
@@ -17,15 +17,20 @@ count = 0  # 오리 마리수
 imcomplete = False  # 문자가 부족한 경우
 while starts:
     s = starts.pop(0)
+    # 처리한 적 없는 시작점이라면
     if not visited[s]:
-        point = 0
+        point = 0  # 오리 소리가 들리는 지점
         for i in range(s, l):
+            # 들려야 하는 소리와 같고 처리한 적 없는 지점이라면
             if record[i] == sound[point % 5] and not visited[i]:
-                visited[i] = True
-                point += 1
+                visited[i] = True  # 처리 여부 체크
+                point += 1  # 다음 지점으로 이동
+        # k로 끝났다면
         if not point % 5:
-            count += 1
+            count += 1  # 오리 수 증가
+        # 아니라면
         else:
+            # 잘못된 울음소리이므로 break
             imcomplete = True
             break
 
