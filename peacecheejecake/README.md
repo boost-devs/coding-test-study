@@ -50,3 +50,8 @@
 |7/13|1753|최단경로|[link](https://www.acmicpc.net/problem/1753)|
 |7/13|13549|숨바꼭질 3|[link](https://www.acmicpc.net/problem/13549)|
 
+## 구현
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|7/14|1913|달팽이|[link](https://www.acmicpc.net/problem/1913)|
+|7/14|14467|소가 길을 건너간 이유 1|[link](https://www.acmicpc.net/problem/14467)|
