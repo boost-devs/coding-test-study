@@ -80,6 +80,8 @@
             <br />
             <strong>감자</strong>
         </td>
+        <td align="center" width="150px">
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -95,6 +97,8 @@
             <a href="hhttps://github.com/dkswndms4782">:octocat: GitHub</a>
             <br />
             <a href="./changwoomon">:memo: 푼 문제들</a>
+        </td>
+        <td align="center">
         </td>
     </tr>
 </table>
