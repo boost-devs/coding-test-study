@@ -92,11 +92,11 @@
         <td align="center">
             <a href="https://github.com/peacecheejecake">:octocat: GitHub</a>
             <br />
-            <a href="./sally">:memo: 푼 문제들</a>
+            <a href="./peacecheejecake">:memo: 푼 문제들</a>
         <td align="center">
-            <a href="hhttps://github.com/dkswndms4782">:octocat: GitHub</a>
+            <a href="https://github.com/dkswndms4782">:octocat: GitHub</a>
             <br />
-            <a href="./changwoomon">:memo: 푼 문제들</a>
+            <a href="./dkswndms4782">:memo: 푼 문제들</a>
         </td>
         <td align="center">
         </td>
