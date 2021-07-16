@@ -1,8 +1,13 @@
 <div align="center">
   <h1>👨‍💻Coding Test Study👩‍💻</h1>
   <img src='./logo.png' alt='logo'>
+  <br/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fcoding-test-study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/coding-test-study" alt="stars"/>
+  <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/coding-test-study" alt="open pull requests"/>
 </div>
-<br/>
+
+---
 
 - [팀원 소개](#팀원-소개)
 - [스터디 방식](#스터디-방식)
@@ -16,9 +21,83 @@
 
 ## 팀원 소개
 
-| <img src='https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[펭귄](https://github.com/CoodingPenguin)</b> |  <img src='https://avatars.githubusercontent.com/u/35002768?s=460&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[샐리](https://github.com/bsm8734)</b>  | <img src='https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4' width='120px' height='120px' alt='avatar'/><br/><b>[원딜](https://github.com/changwoomon)</b> | <img src='https://avatars.githubusercontent.com/u/26226101?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[후미](https://github.com/opijae)</b> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                             <img src='https://avatars.githubusercontent.com/u/48181287?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[구너](https://github.com/osmosm7)</b>                             | <img src='https://avatars.githubusercontent.com/u/29668380?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[튜브](https://github.com/peacecheejecake)</b> |                         <img src='https://avatars.githubusercontent.com/u/59716219?v=4' width='120px' height='120px' alt='avatar'/><br/><b>[감자](https://github.com/dkswndms4782)</b>                         |
+<table>
+    <tr height="160px">
+        <td align="center" width="150px">
+            <a href="https://github.com/CoodingPenguin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/></a>
+            <br />
+            <strong>펭귄</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/bsm8734"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/35002768?s=460&v=4"/></a>
+            <br />
+            <strong>샐리</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/changwoomon"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4"/></a>
+            <br />
+            <strong>원딜</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
+            <br />
+            <strong>후미</strong>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <a href="https://github.com/coodingpenguin">:octocat: GitHub</a>
+            <br />
+            <a href="./coodingpenguin">:memo: 푼 문제들</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/bsm8734">:octocat: GitHub</a>
+            <br />
+            <a href="./sally">:memo: 푼 문제들</a>
+        <td align="center">
+            <a href="https://github.com/changwoomon">:octocat: GitHub</a>
+            <br />
+            <a href="./changwoomon">:memo: 푼 문제들</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/opijae">:octocat: GitHub</a>
+            <br />
+            <a href="./opijae">:memo: 푼 문제들</a>
+        </td>
+    <tr height="160px">
+        <td align="center" width="150px">
+            <a href="https://github.com/osmosm7"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/48181287?v=4"/></a>
+            <br />
+            <strong>구너</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/peacecheejecake"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/29668380?v=4"/></a>
+            <br />
+            <strong>튜브</strong>
+        </td>
+        <td align="center" width="150px">
+            <a href="hhttps://github.com/dkswndms4782"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/59716219?v=4"/></a>
+            <br />
+            <strong>감자</strong>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <a href="https://github.com/osmosm7">:octocat: GitHub</a>
+            <br />
+            <a href="./osmosm7">:memo: 푼 문제들</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/peacecheejecake">:octocat: GitHub</a>
+            <br />
+            <a href="./sally">:memo: 푼 문제들</a>
+        <td align="center">
+            <a href="hhttps://github.com/dkswndms4782">:octocat: GitHub</a>
+            <br />
+            <a href="./changwoomon">:memo: 푼 문제들</a>
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -33,11 +112,11 @@
   - 제대로 제출했다면 나머지 팀원들이 확인하고 승인을 한다. 만약 Pull Request 양식을 지키지 않을 시 거절한다.
   - Pull Request에 질문이 있다면 해당 내용에 대한 답변을 작성한다. 역으로 질문하는 것도 가능하다.
 - 공부를 하면서 새로 배운 개념, 좋은 꿀팁은 Issue에 공유한다.
-- Pull Request 제출 마감은 해가 뜨기 전까지이며, 못 푼 문제 수만큼 1000원의 벌금을 부과한다.
+- Pull Request 제출 마감은 **해가 뜨기 전까지**이며, 못 푼 문제 수만큼 1000원의 벌금을 부과한다.
   - **[🌞 해 뜨는 시간 확인하기!](https://www.google.com/search?q=%EC%9D%BC%EC%B6%9C%EC%8B%9C%EA%B0%84)**
-- **`2021.05.27`** 코딩테스트 스터디는 평일에만 진행하며, 주말은 쉰다.
-- **`2021.05.28`** 다양한 문제 풀이를 위해 최고 난이도는 골드5로 설정한다.
-- **`2021.07.09`** 난이도에 상관 없이 하루에 두 문제씩 푼다.
+- **`2021.05.27`** 코딩테스트 스터디는 **평일에만** 진행하며, 주말은 쉰다.
+- **`2021.07.16`** 다양한 문제 풀이를 위해 최고 난이도는 **골드3🥇**로 설정한다.
+- **`2021.07.09`** 난이도에 상관 없이 **하루에 두 문제씩** 푼다.
 
 ---
 
