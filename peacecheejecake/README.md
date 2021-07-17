@@ -30,3 +30,28 @@
 |6/28|11053|가장 긴 증가하는 부분 수열|[link](https://www.acmicpc.net/problem/11053)|
 |6/29|1912|연속합|[link](https://www.acmicpc.net/problem/1912)|
 |6/29|9465|스티커|[link](https://www.acmicpc.net/problem/9465)|
+|6/30|11055|가장 큰 증가 부분 수열|[link](https://www.acmicpc.net/problem/11055)|
+|6/30|1890|점프|[link](https://www.acmicpc.net/problem/1890)|
+|7/1|2407|조합|[link](https://www.acmicpc.net/problem/2407)|
+|7/1|1106|호텔|[link](https://www.acmicpc.net/problem/1106)|
+|7/2|15486|퇴사 2|[link](https://www.acmicpc.net/problem/15486)|
+|7/2|2156|포도주 시식|[link](https://www.acmicpc.net/problem/2156)|
+|7/5|10844|쉬운 계단 수|[link](https://www.acmicpc.net/problem/10844)|
+|7/5|2293|동전 1|[link](https://www.acmicpc.net/problem/2293)|
+|7/6|2294|동전 2|[link](https://www.acmicpc.net/problem/2294)|
+|7/6|11660|구간 합 구하기 5|[link](https://www.acmicpc.net/problem/11660)|
+|7/7|21317|징검다리 건너기|[link](https://www.acmicpc.net/problem/21317)|
+
+## 최단 거리
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|7/9|18352|특정 거리의 도시 찾기|[link](https://www.acmicpc.net/problem/18352)|
+|7/9|11403|경로 찾기|[link](https://www.acmicpc.net/problem/11403)|
+|7/13|1753|최단경로|[link](https://www.acmicpc.net/problem/1753)|
+|7/13|13549|숨바꼭질 3|[link](https://www.acmicpc.net/problem/13549)|
+
+## 구현
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|7/14|1913|달팽이|[link](https://www.acmicpc.net/problem/1913)|
+|7/14|14467|소가 길을 건너간 이유 1|[link](https://www.acmicpc.net/problem/14467)|
