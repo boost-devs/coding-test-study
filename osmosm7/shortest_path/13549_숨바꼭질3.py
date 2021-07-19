@@ -14,7 +14,6 @@ nexts.append(st)
 
 while nexts:
     now = nexts.popleft()
-    
     if now *2 in range(200000) and lst[now *2] == -1:
         lst[now *2] = lst[now] 
         nexts.appendleft(now *2)
