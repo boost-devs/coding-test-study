@@ -55,6 +55,7 @@ for letter in word:
     if posl:
         time += calculate_time(left[sl], posl)  # 걸리는 시간 계산
         sl = letter  # 왼손 위치 갱신
+    # 오른쪽 자판을 누른다면
     if posr:
         time += calculate_time(right[sr], posr)  # 걸리는 시간 계산
         sr = letter  # 오른손 위치 갱신
