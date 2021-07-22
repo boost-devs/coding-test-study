@@ -57,3 +57,5 @@
 |7/14|14467|소가 길을 건너간 이유 1|[link](https://www.acmicpc.net/problem/14467)|
 |7/16|4396|지뢰 찾기|[link](https://www.acmicpc.net/problem/4396)|
 |7/16|1244|스위치 켜고 끄기|[link](https://www.acmicpc.net/problem/1244)|
+|7/19|10994|별 찍기|[link](https://www.acmicpc.net/problem/10994)|
+|7/19|20291|파일 정리|[link](https://www.acmicpc.net/problem/20291)|
