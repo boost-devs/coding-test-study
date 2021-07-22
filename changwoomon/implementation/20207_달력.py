@@ -1,6 +1,6 @@
 ###### 20207번: 달력
 # https://www.acmicpc.net/problem/20207
-# 메모리/시간: 33916KB / 324ms
+# 메모리/시간: 33900KB / 312ms
 
 import sys
 from collections import defaultdict
@@ -9,18 +9,12 @@ input = sys.stdin.readline
 
 N = int(input())
 
+info = [list(map(int, input().split())) for _ in range(N)]
+info = sorted(info, key=lambda x: (x[0], x[0]-x[1]))
+
 calendar = defaultdict(lambda: [0] * N)
 
-info = []
-
-for _ in range(N):
-    S, E = map(int, input().split())
-    gap = E - S + 1
-    info.append((S, E, gap))
-
-info = sorted(info, key=lambda x: (x[0], -x[2]))
-
-for S, E, _ in info:
+for S, E in info:
     for j in range(N):
         if calendar[S][j] == 0:
             for i in range(S, E+1):
