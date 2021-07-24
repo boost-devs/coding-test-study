@@ -48,7 +48,6 @@ def positioning(num, classroom):
                 pos_set.add((x, y))
     return classroom
 
-
 def rule_1(num):
     global info
     _max = 0
