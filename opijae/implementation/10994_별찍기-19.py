@@ -10,7 +10,7 @@ def star(n):
         return ["*"*(4*n-3), "*"+" "*(4*n-5)+"*"]\
                 + list(map(add_star, star(n-1)))\
                 + ["*"+" "*(4*n-5)+"*", "*"*(4*n-3)]
-n= int(input())
+n= int(input()) 
 print("\n".join(star(n)))
 # n == 4
 # add_star에서 print(ptn)
