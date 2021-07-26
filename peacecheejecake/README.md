@@ -67,3 +67,5 @@
 |7/22|17276|배열 돌리기|[link](https://www.acmicpc.net/problem/17276)|
 |7/23|20207|달력|[link](https://www.acmicpc.net/problem/20207)|
 |7/23|21608|상어 초등학교|[link](https://www.acmicpc.net/problem/21608)|
+|7/26|20164|홀수 홀릭 호석|[link](https://www.acmicpc.net/problem/20164)|
+|7/26|14719|빗물|[link](https://www.acmicpc.net/problem/14719)|
