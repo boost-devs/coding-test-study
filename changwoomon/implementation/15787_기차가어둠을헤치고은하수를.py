@@ -1,6 +1,6 @@
 ###### 15787번: 기차가 어둠을 헤치고 은하수를
 # https://www.acmicpc.net/problem/15787
-# 메모리/시간: 54312KB / 524ms
+# 메모리/시간: 54312KB / 484ms
 
 import sys
 
