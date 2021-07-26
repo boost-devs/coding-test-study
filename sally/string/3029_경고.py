@@ -1,6 +1,6 @@
-# String
-# Problem: 11729
-# Memory: 29200KB
+# Graph Traversal - string
+# # Problem: 11729
+# # Memory: 29200KB
 # Time: 68ms
 
 cur_time = input()

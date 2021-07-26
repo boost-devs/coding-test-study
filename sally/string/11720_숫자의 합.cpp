@@ -1,5 +1,5 @@
 /*
-# String
+Graph Traversal - string
 # Problem: 11720
 # Memory: 2024KB
 # Time: 0ms
