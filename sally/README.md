@@ -133,8 +133,8 @@
 - [X] **17276_배열 돌리기** / [문제](https://www.acmicpc.net/problem/17276) / [풀이]()
 - [X] **20207_달력** / [문제](https://www.acmicpc.net/problem/20207) / [풀이]()
 - [X] **21608_상어 초등학교** / [문제](https://www.acmicpc.net/problem/21608) / [풀이]()
-- [ ] **20164_홀수 홀릭 호석** / [문제](https://www.acmicpc.net/problem/20164) / [풀이]()
-- [ ] **1419_빗물** / [문제](https://www.acmicpc.net/problem/14719) / [풀이]()
+- [X] **20164_홀수 홀릭 호석** / [문제](https://www.acmicpc.net/problem/20164) / [풀이]()
+- [X] **1419_빗물** / [문제](https://www.acmicpc.net/problem/14719) / [풀이]()
 - [ ] **16719_ZOAC** / [문제](https://www.acmicpc.net/problem/16719) / [풀이]()
 
 ---
