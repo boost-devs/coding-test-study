@@ -1,0 +1,52 @@
+pull_request_rules:
+  - name: Assign yourself and request reviews automatically
+    conditions:
+      - -merged
+      - -closed
+      - base=main
+    actions:
+      assign:
+        add_users:
+          - "{{author}}"
+      request_reviews:
+        users:
+          - CoodingPenguin
+          - changwoomon
+          - bsm8734
+          - opijae
+          - osmosm7
+          - peacecheejecake
+          - dkswndms4782
+
+  - name: Automatic merge on approval
+    conditions:
+      - -closed
+      - -merged
+      - "#approved-reviews-by>=3"
+      - "#changes-requested-reviews-by=0"
+      - base=main
+    actions:
+      merge:
+        method: merge
+
+  - name: Add conflict label
+    conditions: 
+      - -closed
+      - -merged
+      - conflict
+    actions:
+      comment:
+        message: "@{{author}} Conflict 해결이 필요합니다!😥"
+      label:
+        add:
+          - conflict
+
+  - name: Remove conflict label
+    conditions:
+      - -closed
+      - -merged
+      - -conflict
+    actions:
+      label:
+        remove:
+          - conflict

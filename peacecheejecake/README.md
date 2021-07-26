@@ -1,0 +1,69 @@
+## 문자열
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|6/10|20437|문자열 게임 2|[link](https://www.acmicpc.net/problem/20437)|
+
+## 트리
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|6/11|9934|OBILAZAK|[link](https://www.acmicpc.net/problem/9934)|
+|6/11|11725|트리의 부모 찾기|[link](https://www.acmicpc.net/problem/11725)|
+|6/15|1068|트리|[link](https://www.acmicpc.net/problem/2168)|
+|6/16|6416|트리인가?|[link](https://www.acmicpc.net/problem/6416)|
+|6/17|14675|단절점과 단절선|[link](https://www.acmicpc.net/problem/14675)|
+|6/18|17073|나무 위의 빗물|[link](https://www.acmicpc.net/problem/17073)|
+
+## Dynamic Programming
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|6/21|10870|피보나치 수 5|[link](https://www.acmicpc.net/problem/10870)|
+|6/21|2839|설탕 배달|[link](https://www.acmicpc.net/problem/2839)|
+|6/22|2748|피보나치 수 2|[link](https://www.acmicpc.net/problem/2748)|
+|6/22|1010|다리 놓기|[link](https://www.acmicpc.net/problem/1010)|
+|6/23|9655|돌 게임|[link](https://www.acmicpc.net/problem/9655)|
+|6/23|1010|Four Squares|[link](https://www.acmicpc.net/problem/17626)|
+|6/24|1463|1로 만들기|[link](https://www.acmicpc.net/problem/1463)|
+|6/24|9095|1, 2, 3 더하기|[link](https://www.acmicpc.net/problem/9095)|
+|6/25|11726|2xn 타일링|[link](https://www.acmicpc.net/problem/11726)|
+|6/25|2579|계단 오르기|[link](https://www.acmicpc.net/problem/2579)|
+|6/28|11727|2xn 타일링 2|[link](https://www.acmicpc.net/problem/11727)|
+|6/28|11053|가장 긴 증가하는 부분 수열|[link](https://www.acmicpc.net/problem/11053)|
+|6/29|1912|연속합|[link](https://www.acmicpc.net/problem/1912)|
+|6/29|9465|스티커|[link](https://www.acmicpc.net/problem/9465)|
+|6/30|11055|가장 큰 증가 부분 수열|[link](https://www.acmicpc.net/problem/11055)|
+|6/30|1890|점프|[link](https://www.acmicpc.net/problem/1890)|
+|7/1|2407|조합|[link](https://www.acmicpc.net/problem/2407)|
+|7/1|1106|호텔|[link](https://www.acmicpc.net/problem/1106)|
+|7/2|15486|퇴사 2|[link](https://www.acmicpc.net/problem/15486)|
+|7/2|2156|포도주 시식|[link](https://www.acmicpc.net/problem/2156)|
+|7/5|10844|쉬운 계단 수|[link](https://www.acmicpc.net/problem/10844)|
+|7/5|2293|동전 1|[link](https://www.acmicpc.net/problem/2293)|
+|7/6|2294|동전 2|[link](https://www.acmicpc.net/problem/2294)|
+|7/6|11660|구간 합 구하기 5|[link](https://www.acmicpc.net/problem/11660)|
+|7/7|21317|징검다리 건너기|[link](https://www.acmicpc.net/problem/21317)|
+
+## 최단 거리
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|7/9|18352|특정 거리의 도시 찾기|[link](https://www.acmicpc.net/problem/18352)|
+|7/9|11403|경로 찾기|[link](https://www.acmicpc.net/problem/11403)|
+|7/13|1753|최단경로|[link](https://www.acmicpc.net/problem/1753)|
+|7/13|13549|숨바꼭질 3|[link](https://www.acmicpc.net/problem/13549)|
+
+## 구현
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|7/14|1913|달팽이|[link](https://www.acmicpc.net/problem/1913)|
+|7/14|14467|소가 길을 건너간 이유 1|[link](https://www.acmicpc.net/problem/14467)|
+|7/16|4396|지뢰 찾기|[link](https://www.acmicpc.net/problem/4396)|
+|7/16|1244|스위치 켜고 끄기|[link](https://www.acmicpc.net/problem/1244)|
+|7/19|10994|별 찍기|[link](https://www.acmicpc.net/problem/10994)|
+|7/19|20291|파일 정리|[link](https://www.acmicpc.net/problem/20291)|
+|7/20|20436|ZOAC 3|[link](https://www.acmicpc.net/problem/20436)|
+|7/20|17413|배열 돌리기 1|[link](https://www.acmicpc.net/problem/17413)|
+|7/21|2615|오목|[link](https://www.acmicpc.net/problem/2615)|
+|7/21|16926|배열 돌리기 1|[link](https://www.acmicpc.net/problem/16926)|
+|7/22|15787|기차가 어둠을 헤치고 은하수를|[link](https://www.acmicpc.net/problem/15787)|
+|7/22|17276|배열 돌리기|[link](https://www.acmicpc.net/problem/17276)|
+|7/23|20207|달력|[link](https://www.acmicpc.net/problem/20207)|
+|7/23|21608|상어 초등학교|[link](https://www.acmicpc.net/problem/21608)|

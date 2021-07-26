@@ -7,7 +7,7 @@ for _ in range(n):
     num=int(input())
     set_string=set(string) # set을 이용해 unique  문자들만 가져옴
     _max,_min=0,100000
-    for s in string:
+    for s in set_string:
         match_iters=re.finditer(s, string) # 정규식을 사용해 target 위치 찾기 match_iters => iterater, <_sre.SRE_Match object; span=(1 시작점, 2 끝점), match='a'>
         match_list_idx=[x.start() for x in match_iters] # target위치의 시작점들만 저장
         cnt=0
