@@ -135,6 +135,6 @@
 - [X] **21608_상어 초등학교** / [문제](https://www.acmicpc.net/problem/21608) / [풀이]()
 - [X] **20164_홀수 홀릭 호석** / [문제](https://www.acmicpc.net/problem/20164) / [풀이]()
 - [X] **1419_빗물** / [문제](https://www.acmicpc.net/problem/14719) / [풀이]()
-- [ ] **16719_ZOAC** / [문제](https://www.acmicpc.net/problem/16719) / [풀이]()
+- [X] **16719_ZOAC** / [문제](https://www.acmicpc.net/problem/16719) / [풀이]()
 
 ---
