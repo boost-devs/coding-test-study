@@ -69,3 +69,4 @@
 |7/23|21608|상어 초등학교|[link](https://www.acmicpc.net/problem/21608)|
 |7/26|20164|홀수 홀릭 호석|[link](https://www.acmicpc.net/problem/20164)|
 |7/26|14719|빗물|[link](https://www.acmicpc.net/problem/14719)|
+|7/27|16719|ZOAC|[link](https://www.acmicpc.net/problem/16719)|
