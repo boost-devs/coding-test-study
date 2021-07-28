@@ -119,8 +119,8 @@
 - Pull Request 제출 마감은 **해가 뜨기 전까지**이며, 못 푼 문제 수만큼 1000원의 벌금을 부과한다.
   - **[🌞 해 뜨는 시간 확인하기!](https://www.google.com/search?q=%EC%9D%BC%EC%B6%9C%EC%8B%9C%EA%B0%84)**
 - **`2021.05.27`** 코딩테스트 스터디는 **평일에만** 진행하며, 주말은 쉰다.
-- **`2021.07.16`** 다양한 문제 풀이를 위해 최고 난이도는 **골드3🥇**로 설정한다.
 - **`2021.07.09`** 난이도에 상관 없이 **하루에 두 문제씩** 푼다.
+- **`2021.07.16`** 다양한 문제 풀이를 위해 최고 난이도는 **골드3🥇**로 설정한다.
 
 ---
 
@@ -285,7 +285,7 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>구현 (2021.07.14 ~ 2021.07.27)</strong></summary>
 
 <br/>
@@ -311,5 +311,25 @@
 | 7/26 | <a href="https://www.acmicpc.net/problem/20164" target="_blank">20164</a> |        <a href="https://www.acmicpc.net/problem/20164" target="_blank">홀수 홀릭 호석</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 7/26 | <a href="https://www.acmicpc.net/problem/14719" target="_blank">14719</a> |             <a href="https://www.acmicpc.net/problem/14719" target="_blank">빗물</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 7/27 | <a href="https://www.acmicpc.net/problem/16719" target="_blank">16719</a> |             <a href="https://www.acmicpc.net/problem/16719" target="_blank">ZOAC</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+</details>
+
+<details markdown="1" open>
+<summary><strong>투 포인터 (2021.07.28 ~ 2021.08.03)</strong></summary>
+
+<br/>
+
+| 날짜 |                                 문제 번호                                 |                                             문제 이름                                             |                                       난이도                                       |
+| :--: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 7/28 | <a href="https://www.acmicpc.net/problem/11728" target="_blank">11728</a> | <a href="https://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| 7/28 | <a href="https://www.acmicpc.net/problem/11659" target="_blank">11659</a> | <a href="https://www.acmicpc.net/problem/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 7/29 | <a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a> | <a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 7/29 | <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> | <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/30 | <a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a> | <a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7/30 | <a href="https://www.acmicpc.net/problem/15961" target="_blank">15961</a> | <a href="https://www.acmicpc.net/problem/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 8/02 | <a href="https://www.acmicpc.net/problem/1806" target="_blank">1806</a> | <a href="https://www.acmicpc.net/problem/1806" target="_blank">부분합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 8/02 | <a href="https://www.acmicpc.net/problem/3151" target="_blank">3151</a> | <a href="https://www.acmicpc.net/problem/3151" target="_blank">합이 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 8/03 | <a href="https://www.acmicpc.net/problem/20366" target="_blank">20366</a> | <a href="https://www.acmicpc.net/problem/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 8/03 | <a href="https://www.acmicpc.net/problem/20442" target="_blank">20442</a> | <a href="https://www.acmicpc.net/problem/20442" target="_blank">ㅋㅋ루ㅋㅋ</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 
 </details>
