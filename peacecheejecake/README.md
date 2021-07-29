@@ -76,3 +76,5 @@
 |---|---|---|---|
 |7/28|11728|배열 합치기|[link](https://www.acmicpc.net/problem/11728)|
 |7/28|11659|구간 합 구하기 4|[link](https://www.acmicpc.net/problem/11659)|
+|7/29|21921|블로그|[link](https://www.acmicpc.net/problem/21921)|
+|7/29|20922|겹치는 건 싫어|[link](https://www.acmicpc.net/problem/20922)|
