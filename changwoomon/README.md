@@ -152,8 +152,8 @@
 
 <br/>
 
-- [X] **11728_배열 합치기** / [문제](https://www.acmicpc.net/problem/11728) / [풀이]()
-- [X] **11659_구간 합 구하기 4** / [문제](https://www.acmicpc.net/problem/11659) / [풀이]()
+- [X] **11728_배열 합치기** / [문제](https://www.acmicpc.net/problem/11728) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/11728_%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.py)
+- [X] **11659_구간 합 구하기 4** / [문제](https://www.acmicpc.net/problem/11659) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/11659_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B04.py)
 - [X] **21921_블로그** / [문제](https://www.acmicpc.net/problem/21921) / [풀이]()
 - [X] **20922_겹치는 건 싫어** / [문제](https://www.acmicpc.net/problem/20922) / [풀이]()
 - [X] **2470_두 용액** / [문제](https://www.acmicpc.net/problem/2470) / [풀이]()
