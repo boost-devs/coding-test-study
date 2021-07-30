@@ -1,6 +1,6 @@
 ###### 2470번: 두 용액
 # https://www.acmicpc.net/problem/2470
-# 메모리/시간: KB / ms
+# 메모리/시간: 40620KB / 164ms
 
 import sys
 
