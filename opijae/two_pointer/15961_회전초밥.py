@@ -1,5 +1,4 @@
 import sys
-from collections import defaultdict,deque
 input = sys.stdin.readline
 
 n,d,k,c = map(int, input().split())
