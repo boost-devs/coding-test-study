@@ -78,3 +78,6 @@
 |7/28|11659|구간 합 구하기 4|[link](https://www.acmicpc.net/problem/11659)|
 |7/29|21921|블로그|[link](https://www.acmicpc.net/problem/21921)|
 |7/29|20922|겹치는 건 싫어|[link](https://www.acmicpc.net/problem/20922)|
+|7/29|2470|두 용액|[link](https://www.acmicpc.net/problem/2470)|
+|7/29|15961|회전 초밥|[link](https://www.acmicpc.net/problem/15961)|
+
