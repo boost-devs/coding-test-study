@@ -154,8 +154,8 @@
 
 - [X] **11728_배열 합치기** / [문제](https://www.acmicpc.net/problem/11728) / [풀이]()
 - [X] **11659_구간 합 구하기 4** / [문제](https://www.acmicpc.net/problem/11659) / [풀이]()
-- [ ] 21921_블로그 / [문제](https://www.acmicpc.net/problem/21921) / [풀이]()
-- [ ] 20922_겹치는 건 싫어 / [문제](https://www.acmicpc.net/problem/20922) / [풀이]()
+- [X] **21921_블로그** / [문제](https://www.acmicpc.net/problem/21921) / [풀이]()
+- [X] **20922_겹치는 건 싫어** / [문제](https://www.acmicpc.net/problem/20922) / [풀이]()
 - [ ] 2470_두 용액 / [문제](https://www.acmicpc.net/problem/2470) / [풀이]()
 - [ ] 15961_회전 초밥 / [문제](https://www.acmicpc.net/problem/15961) / [풀이]()
 - [ ] 1806_부분합 / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
