@@ -149,7 +149,7 @@
 - [ ] **15961_회전 초밥** / [문제](https://www.acmicpc.net/problem/15961) / [풀이]()
 - [ ] **1806_부분합** / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
 - [ ] **3151_합이 0** / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
-- [ ] **20366_같이 눈사람 만들래?** / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
-- [ ] **20442_ㅋㅋ루ㅋㅋ** / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
+- [X] **20366_같이 눈사람 만들래?** / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
+- [X] **20442_ㅋㅋ루ㅋㅋ** / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
 
 ---
