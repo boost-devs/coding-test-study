@@ -154,12 +154,12 @@
 
 - [X] **11728_배열 합치기** / [문제](https://www.acmicpc.net/problem/11728) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/11728_%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.py)
 - [X] **11659_구간 합 구하기 4** / [문제](https://www.acmicpc.net/problem/11659) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/11659_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B04.py)
-- [X] **21921_블로그** / [문제](https://www.acmicpc.net/problem/21921) / [풀이]()
-- [X] **20922_겹치는 건 싫어** / [문제](https://www.acmicpc.net/problem/20922) / [풀이]()
-- [X] **2470_두 용액** / [문제](https://www.acmicpc.net/problem/2470) / [풀이]()
-- [X] **15961_회전 초밥** / [문제](https://www.acmicpc.net/problem/15961) / [풀이]()
-- [ ] 1806_부분합 / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
-- [ ] 3151_합이 0 / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
+- [X] **21921_블로그** / [문제](https://www.acmicpc.net/problem/21921) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/21921_%EB%B8%94%EB%A1%9C%EA%B7%B8.py)
+- [X] **20922_겹치는 건 싫어** / [문제](https://www.acmicpc.net/problem/20922) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/21921_%EB%B8%94%EB%A1%9C%EA%B7%B8.py)
+- [X] **2470_두 용액** / [문제](https://www.acmicpc.net/problem/2470) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/2470_%EB%91%90%EC%9A%A9%EC%95%A1.py)
+- [X] **15961_회전 초밥** / [문제](https://www.acmicpc.net/problem/15961) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/15961_%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5.py)
+- [X] **1806_부분합** / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
+- [X] **3151_합이 0** / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
 - [ ] 20366_같이 눈사람 만들래? / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
 - [ ] 20442_ㅋㅋ루ㅋㅋ / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
 
