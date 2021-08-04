@@ -160,8 +160,8 @@
 - [X] **15961_회전 초밥** / [문제](https://www.acmicpc.net/problem/15961) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/15961_%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5.py)
 - [X] **1806_부분합** / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
 - [X] **3151_합이 0** / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
-- [ ] 20366_같이 눈사람 만들래? / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
-- [ ] 20442_ㅋㅋ루ㅋㅋ / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
+- [X] **20366_같이 눈사람 만들래?** / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
+- [X] **20442_ㅋㅋ루ㅋㅋ** / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
 
 </details>
 
