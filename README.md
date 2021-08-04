@@ -120,7 +120,7 @@
   - **[🌞 해 뜨는 시간 확인하기!](https://www.google.com/search?q=%EC%9D%BC%EC%B6%9C%EC%8B%9C%EA%B0%84)**
 - **`2021.05.27`** 코딩테스트 스터디는 **평일에만** 진행하며, 주말은 쉰다.
 - **`2021.07.09`** 난이도에 상관 없이 **하루에 두 문제씩** 푼다.
-- **`2021.07.16`** 다양한 문제 풀이를 위해 최고 난이도는 **골드3🥇**로 설정한다.
+- **`2021.08.04`** 최저 난이도는 **실버 5🥈**로, 최고 난이도는 **골드3🥇**로 설정한다.
 
 ---
 
@@ -315,22 +315,94 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>투 포인터 (2021.07.28 ~ 2021.08.03)</strong></summary>
 
 <br/>
 
-| 날짜 |                                 문제 번호                                 |                                             문제 이름                                             |                                       난이도                                       |
-| :--: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| 7/28 | <a href="https://www.acmicpc.net/problem/11728" target="_blank">11728</a> | <a href="https://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-| 7/28 | <a href="https://www.acmicpc.net/problem/11659" target="_blank">11659</a> | <a href="https://www.acmicpc.net/problem/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 7/29 | <a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a> | <a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 7/29 | <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> | <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 7/30 | <a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a> | <a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 7/30 | <a href="https://www.acmicpc.net/problem/15961" target="_blank">15961</a> | <a href="https://www.acmicpc.net/problem/15961" target="_blank">회전 초밥</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 8/02 | <a href="https://www.acmicpc.net/problem/1806" target="_blank">1806</a> | <a href="https://www.acmicpc.net/problem/1806" target="_blank">부분합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 8/02 | <a href="https://www.acmicpc.net/problem/3151" target="_blank">3151</a> | <a href="https://www.acmicpc.net/problem/3151" target="_blank">합이 0</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 날짜 |                                 문제 번호                                 |                                        문제 이름                                        |                                       난이도                                       |
+| :--: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 7/28 | <a href="https://www.acmicpc.net/problem/11728" target="_blank">11728</a> |     <a href="https://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 7/28 | <a href="https://www.acmicpc.net/problem/11659" target="_blank">11659</a> |  <a href="https://www.acmicpc.net/problem/11659" target="_blank">구간 합 구하기 4</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 7/29 | <a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a> |       <a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 7/29 | <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> |   <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 7/30 |  <a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a>  |       <a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7/30 | <a href="https://www.acmicpc.net/problem/15961" target="_blank">15961</a> |      <a href="https://www.acmicpc.net/problem/15961" target="_blank">회전 초밥</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 8/02 |  <a href="https://www.acmicpc.net/problem/1806" target="_blank">1806</a>  |        <a href="https://www.acmicpc.net/problem/1806" target="_blank">부분합</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 8/02 |  <a href="https://www.acmicpc.net/problem/3151" target="_blank">3151</a>  |        <a href="https://www.acmicpc.net/problem/3151" target="_blank">합이 0</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 8/03 | <a href="https://www.acmicpc.net/problem/20366" target="_blank">20366</a> | <a href="https://www.acmicpc.net/problem/20366" target="_blank">같이 눈사람 만들래?</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
-| 8/03 | <a href="https://www.acmicpc.net/problem/20442" target="_blank">20442</a> | <a href="https://www.acmicpc.net/problem/20442" target="_blank">ㅋㅋ루ㅋㅋ</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 8/03 | <a href="https://www.acmicpc.net/problem/20442" target="_blank">20442</a> |     <a href="https://www.acmicpc.net/problem/20442" target="_blank">ㅋㅋ루ㅋㅋ</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+
+</details>
+
+<details markdown="1" open>
+<summary><strong>완전 탐색 (2021.08.04 ~ 2021.08.20)</strong></summary>
+
+<br/>
+
+> **[tony9402님의 완전 탐색 백준 문제집](https://www.acmicpc.net/workbook/view/7271)**
+
+| 날짜  |                                 문제 번호                                 |                                                       문제 이름                                                       |                                       난이도                                       |
+| :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 08/04 |  <a href="https://www.acmicpc.net/problem/1969" target="_blank">1969</a>  |                        <a href="https://www.acmicpc.net/problem/1969" target="_blank">DNA</a>                         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/04 |  <a href="https://www.acmicpc.net/problem/2503" target="_blank">2503</a>  |                     <a href="https://www.acmicpc.net/problem/2503" target="_blank">숫자 야구</a>                      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/05 |  <a href="https://www.acmicpc.net/problem/2422" target="_blank">2422</a>  | <a href="https://www.acmicpc.net/problem/2422" target="_blank">한윤정이 이탈리아에 가서<br/>아이스크림을 사먹는데</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/05 | <a href="https://www.acmicpc.net/problem/17626" target="_blank">17626</a> |                   <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a>                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/06 |  <a href="https://www.acmicpc.net/problem/5568" target="_blank">5568</a>  |                     <a href="https://www.acmicpc.net/problem/5568" target="_blank">카드 놓기</a>                      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/06 | <a href="https://www.acmicpc.net/problem/18511" target="_blank">18511</a> |                  <a href="https://www.acmicpc.net/problem/18511" target="_blank">큰 수 구성하기</a>                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/09 |  <a href="https://www.acmicpc.net/problem/9079" target="_blank">9079</a>  |                     <a href="https://www.acmicpc.net/problem/9079" target="_blank">동전 게임</a>                      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 08/09 | <a href="https://www.acmicpc.net/problem/14501" target="_blank">14501</a> |                       <a href="https://www.acmicpc.net/problem/14501" target="_blank">퇴사</a>                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 08/10 | <a href="https://www.acmicpc.net/problem/16937" target="_blank">16937</a> |                     <a href="https://www.acmicpc.net/problem/16937" target="_blank">두 스티커</a>                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 08/10 | <a href="https://www.acmicpc.net/problem/16439" target="_blank">16439</a> |                   <a href="https://www.acmicpc.net/problem/16439" target="_blank">치킨치킨치킨</a>                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 08/11 |  <a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a>  |                        <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 08/11 | <a href="https://www.acmicpc.net/problem/16508" target="_blank">16508</a> |                      <a href="https://www.acmicpc.net/problem/16508" target="_blank">전공책</a>                       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 08/12 | <a href="https://www.acmicpc.net/problem/14620" target="_blank">14620</a> |                       <a href="https://www.acmicpc.net/problem/14620" target="_blank">꽃길</a>                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 08/12 | <a href="https://www.acmicpc.net/problem/12919" target="_blank">12919</a> |                      <a href="https://www.acmicpc.net/problem/12919" target="_blank">A와 B 2</a>                      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 08/13 |  <a href="https://www.acmicpc.net/problem/1548" target="_blank">1548</a>  |                   <a href="https://www.acmicpc.net/problem/1548" target="_blank">부분 삼각 수열</a>                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 08/13 |  <a href="https://www.acmicpc.net/problem/2961" target="_blank">2961</a>  |             <a href="https://www.acmicpc.net/problem/2961" target="_blank">도영이가 만든 맛있는 음식</a>              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 08/16 | <a href="https://www.acmicpc.net/problem/15661" target="_blank">15661</a> |                   <a href="https://www.acmicpc.net/problem/15661" target="_blank">링크와 스타트</a>                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 08/16 |  <a href="https://www.acmicpc.net/problem/1025" target="_blank">1025</a>  |                    <a href="https://www.acmicpc.net/problem/1025" target="_blank">제곱수 찾기</a>                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/17 | <a href="https://www.acmicpc.net/problem/14500" target="_blank">14500</a> |                    <a href="https://www.acmicpc.net/problem/14500" target="_blank">테트로미노</a>                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/17 | <a href="https://www.acmicpc.net/problem/15686" target="_blank">15686</a> |                     <a href="https://www.acmicpc.net/problem/15686" target="_blank">치킨 배달</a>                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/18 | <a href="https://www.acmicpc.net/problem/21278" target="_blank">21278</a> |                <a href="https://www.acmicpc.net/problem/21278" target="_blank">호석이 두 마리 치킨</a>                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/18 | <a href="https://www.acmicpc.net/problem/21315" target="_blank">21315</a> |                     <a href="https://www.acmicpc.net/problem/21315" target="_blank">카드 섞기</a>                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/19 | <a href="https://www.acmicpc.net/problem/16637" target="_blank">16637</a> |                   <a href="https://www.acmicpc.net/problem/16637" target="_blank">괄호 추가하기</a>                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 08/19 | <a href="https://www.acmicpc.net/problem/14391" target="_blank">14391</a> |                     <a href="https://www.acmicpc.net/problem/14391" target="_blank">종이 조각</a>                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 08/20 | <a href="https://www.acmicpc.net/problem/18808" target="_blank">18808</a> |                   <a href="https://www.acmicpc.net/problem/18808" target="_blank">스티커 붙이기</a>                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+
+</details>
+
+<details markdown="1">
+<summary><strong>시뮬레이션 (2021.08.23 ~ 2021.09.07)</strong></summary>
+
+<br/>
+
+> **[tony9402님의 시뮬레이션 백준 문제집](https://www.acmicpc.net/workbook/view/6832)**
+
+| 날짜  |                                 문제 번호                                 |                                          문제 이름                                           |                                       난이도                                       |
+| :---: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 08/23 | <a href="https://www.acmicpc.net/problem/16234" target="_blank">16234</a> |        <a href="https://www.acmicpc.net/problem/16234" target="_blank">인구 이동</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/23 | <a href="https://www.acmicpc.net/problem/17144" target="_blank">17144</a> |      <a href="https://www.acmicpc.net/problem/17144" target="_blank">미세먼지 안녕!</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/24 | <a href="https://www.acmicpc.net/problem/20056" target="_blank">20056</a> |  <a href="https://www.acmicpc.net/problem/20056" target="_blank">마법사 상어와 파이어볼</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/24 | <a href="https://www.acmicpc.net/problem/21610" target="_blank">21610</a> |  <a href="https://www.acmicpc.net/problem/21610" target="_blank">마법사 상어와 비바라기</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 08/25 | <a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a> |        <a href="https://www.acmicpc.net/problem/16236" target="_blank">아기 상어</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/25 | <a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a> |       <a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/26 | <a href="https://www.acmicpc.net/problem/16235" target="_blank">16235</a> |       <a href="https://www.acmicpc.net/problem/16235" target="_blank">나무 재테크</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/26 | <a href="https://www.acmicpc.net/problem/17135" target="_blank">17135</a> |       <a href="https://www.acmicpc.net/problem/17135" target="_blank">캐슬 디펜스</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/27 | <a href="https://www.acmicpc.net/problem/17140" target="_blank">17140</a> |    <a href="https://www.acmicpc.net/problem/17140" target="_blank">이차원 배열과 연산</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/27 | <a href="https://www.acmicpc.net/problem/17779" target="_blank">17779</a> |       <a href="https://www.acmicpc.net/problem/17779" target="_blank">게리맨더링 2</a>       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/30 | <a href="https://www.acmicpc.net/problem/19238" target="_blank">19238</a> |       <a href="https://www.acmicpc.net/problem/19238" target="_blank">스타트 택시</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/30 | <a href="https://www.acmicpc.net/problem/20057" target="_blank">20057</a> |  <a href="https://www.acmicpc.net/problem/20057" target="_blank">마법사 상어와 토네이도</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/31 | <a href="https://www.acmicpc.net/problem/20058" target="_blank">20058</a> | <a href="https://www.acmicpc.net/problem/20058" target="_blank">마법사 상어와 파이어스톰</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 08/31 | <a href="https://www.acmicpc.net/problem/17822" target="_blank">17822</a> |       <a href="https://www.acmicpc.net/problem/17822" target="_blank">원판 돌리기</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 09/01 | <a href="https://www.acmicpc.net/problem/19237" target="_blank">19237</a> |        <a href="https://www.acmicpc.net/problem/19237" target="_blank">어른 상어</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 09/01 | <a href="https://www.acmicpc.net/problem/20436" target="_blank">20436</a> |          <a href="https://www.acmicpc.net/problem/20436" target="_blank">ZOAC 3</a>          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 09/02 |  <a href="https://www.acmicpc.net/problem/5212" target="_blank">5212</a>  |        <a href="https://www.acmicpc.net/problem/5212" target="_blank">지구 온난화</a>        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 09/02 |  <a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>  |       <a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 09/03 | <a href="https://www.acmicpc.net/problem/20055" target="_blank">20055</a> | <a href="https://www.acmicpc.net/problem/20055" target="_blank">컨베이어 벨트 위의 로봇</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 09/03 | <a href="https://www.acmicpc.net/problem/14891" target="_blank">14891</a> |         <a href="https://www.acmicpc.net/problem/14891" target="_blank">톱니바퀴</a>         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 09/06 | <a href="https://www.acmicpc.net/problem/15683" target="_blank">15683</a> |           <a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a>           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 09/06 | <a href="https://www.acmicpc.net/problem/20165" target="_blank">20165</a> | <a href="https://www.acmicpc.net/problem/20165" target="_blank">인내의 도미노 장인 호석</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 09/07 | <a href="https://www.acmicpc.net/problem/21922" target="_blank">21922</a> |     <a href="https://www.acmicpc.net/problem/21922" target="_blank">학부 연구생 민상</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 </details>
