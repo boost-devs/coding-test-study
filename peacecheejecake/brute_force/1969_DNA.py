@@ -23,5 +23,5 @@ for column in zip(*dna_all):
     if len(counter) > 1:
         min_dist += sum(c for _, c in counter[1:])
 
-print(min_dist_dna.strip())
+print(min_dist_dna)
 print(min_dist)
