@@ -143,11 +143,11 @@
 - [X] **21608_상어 초등학교** / [문제](https://www.acmicpc.net/problem/21608) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/implementation/21608_%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py)
 - [X] **20164_홀수 홀릭 호석** / [문제](https://www.acmicpc.net/problem/20164) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/implementation/20164_%ED%99%80%EC%88%98%ED%99%80%EB%A6%AD%ED%98%B8%EC%84%9D.py)
 - [X] **14719_빗물** / [문제](https://www.acmicpc.net/problem/14719) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/implementation/14719_%EB%B9%97%EB%AC%BC.py)
-- [X] **16719_ZOAC** / [문제](https://www.acmicpc.net/problem/16719) / [풀이]()
+- [X] **16719_ZOAC** / [문제](https://www.acmicpc.net/problem/16719) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/implementation/16719_ZOAC.py)
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>Two Pointer</strong></summary>
 
 <br/>
@@ -158,10 +158,74 @@
 - [X] **20922_겹치는 건 싫어** / [문제](https://www.acmicpc.net/problem/20922) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/21921_%EB%B8%94%EB%A1%9C%EA%B7%B8.py)
 - [X] **2470_두 용액** / [문제](https://www.acmicpc.net/problem/2470) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/2470_%EB%91%90%EC%9A%A9%EC%95%A1.py)
 - [X] **15961_회전 초밥** / [문제](https://www.acmicpc.net/problem/15961) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/15961_%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5.py)
-- [X] **1806_부분합** / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
-- [X] **3151_합이 0** / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
+- [X] **1806_부분합** / [문제](https://www.acmicpc.net/problem/1806) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/1806_%EB%B6%80%EB%B6%84%ED%95%A9.py)
+- [X] **3151_합이 0** / [문제](https://www.acmicpc.net/problem/3151) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/two_pointer/3151_%ED%95%A9%EC%9D%B40.py)
 - [X] **20366_같이 눈사람 만들래?** / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
 - [X] **20442_ㅋㅋ루ㅋㅋ** / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
+
+</details>
+
+<details markdown="1" open>
+<summary><strong>Brute Force</strong></summary>
+
+<br/>
+
+- [X] **1969_DNA** / [문제](https://www.acmicpc.net/problem/1969) / [풀이]()
+- [X] **2503_숫자 야구** / [문제](https://www.acmicpc.net/problem/2503) / [풀이]()
+- [ ] 2422_한윤정이 이탈리아에 가서 아이스크림을 사먹는데 / [문제](https://www.acmicpc.net/problem/2422) / [풀이]()
+- [ ] 17626_Four Squares / [문제](https://www.acmicpc.net/problem/17626) / [풀이]()
+- [ ] 5568_카드 놓기 / [문제](https://www.acmicpc.net/problem/5568) / [풀이]()
+- [ ] 18511_큰 수 구성하기 / [문제](https://www.acmicpc.net/problem/18511) / [풀이]()
+- [ ] 9079_동전 게임 / [문제](https://www.acmicpc.net/problem/9079) / [풀이]()
+- [ ] 14501_퇴사 / [문제](https://www.acmicpc.net/problem/14501) / [풀이]()
+- [ ] 16937_두 스티커 / [문제](https://www.acmicpc.net/problem/16937) / [풀이]()
+- [ ] 16439_치킨치킨치킨 / [문제](https://www.acmicpc.net/problem/16439) / [풀이]()
+- [ ] 2615_오목 / [문제](https://www.acmicpc.net/problem/2615) / [풀이]()
+- [ ] 16508_전공책 / [문제](https://www.acmicpc.net/problem/16508) / [풀이]()
+- [ ] 14620_꽃길 / [문제](https://www.acmicpc.net/problem/14620) / [풀이]()
+- [ ] 12919_A와 B 2 / [문제](https://www.acmicpc.net/problem/12919) / [풀이]()
+- [ ] 1548_부분 삼각 수열 / [문제](https://www.acmicpc.net/problem/1548) / [풀이]()
+- [ ] 2961_도영이가 만든 맛있는 음식 / [문제](https://www.acmicpc.net/problem/2961) / [풀이]()
+- [ ] 15661_링크와 스타트 / [문제](https://www.acmicpc.net/problem/15661) / [풀이]()
+- [ ] 1025_제곱수 찾기 / [문제](https://www.acmicpc.net/problem/1025) / [풀이]()
+- [ ] 14500_테트로미노 / [문제](https://www.acmicpc.net/problem/14500) / [풀이]()
+- [ ] 15686_치킨 배달 / [문제](https://www.acmicpc.net/problem/15686) / [풀이]()
+- [ ] 21278_호석이 두 마리 치킨 / [문제](https://www.acmicpc.net/problem/21278) / [풀이]()
+- [ ] 21315_카드 섞기 / [문제](https://www.acmicpc.net/problem/21315) / [풀이]()
+- [ ] 16637_괄호 추가하기 / [문제](https://www.acmicpc.net/problem/16637) / [풀이]()
+- [ ] 14391_종이 조각 / [문제](https://www.acmicpc.net/problem/14391) / [풀이]()
+- [ ] 18808_스티커 붙이기 / [문제](https://www.acmicpc.net/problem/18808) / [풀이]()
+
+</details>
+
+<details markdown="1">
+<summary><strong>Simulation</strong></summary>
+
+<br/>
+
+- [ ] 16234_인구 이동 / [문제](https://www.acmicpc.net/problem/16234) / [풀이]()
+- [ ] 17144_미세먼지 안녕! / [문제](https://www.acmicpc.net/problem/17144) / [풀이]()
+- [ ] 20056_마법사 상어와 파이어볼 / [문제](https://www.acmicpc.net/problem/20056) / [풀이]()
+- [ ] 21610_마법사 상어와 비바라기 / [문제](https://www.acmicpc.net/problem/21610) / [풀이]()
+- [ ] 16236_아기 상어 / [문제](https://www.acmicpc.net/problem/16236) / [풀이]()
+- [ ] 15685_드래곤 커브 / [문제](https://www.acmicpc.net/problem/15685) / [풀이]()
+- [ ] 16235_나무 재테크 / [문제](https://www.acmicpc.net/problem/16235) / [풀이]()
+- [ ] 17135_캐슬 디펜스 / [문제](https://www.acmicpc.net/problem/17135) / [풀이]()
+- [ ] 17140_이차원 배열과 연산 / [문제](https://www.acmicpc.net/problem/17140) / [풀이]()
+- [ ] 17779_게리맨더링 2 / [문제](https://www.acmicpc.net/problem/17779) / [풀이]()
+- [ ] 19238_스타트 택시 / [문제](https://www.acmicpc.net/problem/19238) / [풀이]()
+- [ ] 20057_마법사 상어와 토네이도 / [문제](https://www.acmicpc.net/problem/20057) / [풀이]()
+- [ ] 20058_마법사 상어와 파이어스톰 / [문제](https://www.acmicpc.net/problem/20058) / [풀이]()
+- [ ] 17822_원판 돌리기 / [문제](https://www.acmicpc.net/problem/17822) / [풀이]()
+- [ ] 19237_어른 상어 / [문제](https://www.acmicpc.net/problem/19237) / [풀이]()
+- [ ] 20436_ZOAC 3 / [문제](https://www.acmicpc.net/problem/20436) / [풀이]()
+- [ ] 5212_지구 온난화 / [문제](https://www.acmicpc.net/problem/5212) / [풀이]()
+- [ ] 1713_후보 추천하기 / [문제](https://www.acmicpc.net/problem/1713) / [풀이]()
+- [ ] 20055_컨베이어 벨트 위의 로봇 / [문제](https://www.acmicpc.net/problem/20055) / [풀이]()
+- [ ] 14891_톱니바퀴 / [문제](https://www.acmicpc.net/problem/14891) / [풀이]()
+- [ ] 15683_감시 / [문제](https://www.acmicpc.net/problem/15683) / [풀이]()
+- [ ] 20165_인내의 도미노 장인 호석 / [문제](https://www.acmicpc.net/problem/20165) / [풀이]()
+- [ ] 21922_학부 연구생 민상 / [문제](https://www.acmicpc.net/problem/21922) / [풀이]()
 
 </details>
 
