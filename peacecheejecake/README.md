@@ -82,3 +82,8 @@
 |7/30|15961|회전 초밥|[link](https://www.acmicpc.net/problem/15961)|
 |8/2|1806|부분합|[link](https://www.acmicpc.net/problem/1806)|
 
+# 완전 탐색
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|8/4|1969|DNA|[link](https://www.acmicpc.net/problem/1969)|
+|8/4|2503|숫자 야구|[link](https://www.acmicpc.net/problem/2503)|
