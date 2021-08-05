@@ -156,8 +156,8 @@
 
 ## Brute Force
 
-- [ ] 1969_DNA / [문제](https://www.acmicpc.net/problem/1969) / [풀이]()  
-- [ ] 2503_숫자 야구 / [문제](https://www.acmicpc.net/problem/2503) / [풀이]()  
+- [X] 1969_DNA / [문제](https://www.acmicpc.net/problem/1969) / [풀이]()  
+- [X] 2503_숫자 야구 / [문제](https://www.acmicpc.net/problem/2503) / [풀이]()  
 - [ ] 2422_한윤정이 이탈리아에 가서 아이스크림을 사먹는데 / [문제](https://www.acmicpc.net/problem/2422) / [풀이]()  
 - [ ] 17626_Four Squares / [문제](https://www.acmicpc.net/problem/17626) / [풀이]()  
 - [ ] 5568_카드 놓기 / [문제](https://www.acmicpc.net/problem/5568) / [풀이]()  
