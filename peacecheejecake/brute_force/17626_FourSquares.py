@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/17626
 # Four Squares
-# 31312
+# 31312 KB / 84 ms
 
 
 from math import sqrt
