@@ -1,6 +1,6 @@
 ###### 5568번: 카드 놓기
 # https://www.acmicpc.net/problem/5568
-# 메모리/시간: 29452KB / 76ms
+# 메모리/시간: 29452KB / 72ms
 
 import sys
 from itertools import permutations
@@ -13,4 +13,4 @@ k = int(input())
 
 card = [int(input()) for _ in range(n)]
 
-print(len(set("".join(str(x).replace('(', '').replace(',', '').replace(' ', '').replace(')', '')) for x in permutations(card, k))))
+print(len(set("".join(map(str, x)) for x in permutations(card, k))))
