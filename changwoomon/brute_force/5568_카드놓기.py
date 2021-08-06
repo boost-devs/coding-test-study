@@ -1,6 +1,6 @@
 ###### 5568번: 카드 놓기
 # https://www.acmicpc.net/problem/5568
-# 메모리/시간: KB / ms
+# 메모리/시간: 29452KB / 76ms
 
 import sys
 from itertools import permutations
