@@ -36,7 +36,7 @@
         <td align="center" width="150px">
             <a href="https://github.com/changwoomon"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4"/></a>
             <br />
-            <strong>원딜</strong>
+            <strong>🎓 원딜</strong>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
