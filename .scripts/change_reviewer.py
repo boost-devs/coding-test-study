@@ -26,7 +26,7 @@ def save_json(file_path, info):
     print("Save changed info in reviewer_info.json")
 
 
-file_path = "reviewer_info.json"
+file_path = "./reviewer_info.json"
 info = load_json(file_path)
 info = change_reviewer(info)
 save_json(file_path, info)
