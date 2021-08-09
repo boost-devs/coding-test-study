@@ -87,3 +87,5 @@
 |---|---|---|---|
 |8/4|1969|DNA|[link](https://www.acmicpc.net/problem/1969)|
 |8/4|2503|숫자 야구|[link](https://www.acmicpc.net/problem/2503)|
+|8/5|2422|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[link](https://www.acmicpc.net/problem/2422)|
+|8/5|17626|Four Squares|[link](https://www.acmicpc.net/problem/17626)|
