@@ -170,12 +170,12 @@
 
 <br/>
 
-- [X] **1969_DNA** / [문제](https://www.acmicpc.net/problem/1969) / [풀이]()
-- [X] **2503_숫자 야구** / [문제](https://www.acmicpc.net/problem/2503) / [풀이]()
-- [X] **2422_한윤정이 이탈리아에 가서 아이스크림을 사먹는데** / [문제](https://www.acmicpc.net/problem/2422) / [풀이]()
-- [X] **17626_Four Squares** / [문제](https://www.acmicpc.net/problem/17626) / [풀이]()
-- [ ] 5568_카드 놓기 / [문제](https://www.acmicpc.net/problem/5568) / [풀이]()
-- [ ] 18511_큰 수 구성하기 / [문제](https://www.acmicpc.net/problem/18511) / [풀이]()
+- [X] **1969_DNA** / [문제](https://www.acmicpc.net/problem/1969) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/brute_force/1969_DNA.py)
+- [X] **2503_숫자 야구** / [문제](https://www.acmicpc.net/problem/2503) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/brute_force/2503_%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC.py)
+- [X] **2422_한윤정이 이탈리아에 가서 아이스크림을 사먹는데** / [문제](https://www.acmicpc.net/problem/2422) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/brute_force/2422_%ED%95%9C%EC%9C%A4%EC%A0%95%EC%9D%B4%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%97%90%EA%B0%80%EC%84%9C%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%9D%84%EC%82%AC%EB%A8%B9%EB%8A%94%EB%8D%B0.py)
+- [X] **17626_Four Squares** / [문제](https://www.acmicpc.net/problem/17626) / [풀이](https://github.com/boostcamp-ai-tech-4/coding-test-study/blob/main/changwoomon/brute_force/17626_FourSquares.py)
+- [X] **5568_카드 놓기** / [문제](https://www.acmicpc.net/problem/5568) / [풀이]()
+- [X] **18511_큰 수 구성하기** / [문제](https://www.acmicpc.net/problem/18511) / [풀이]()
 - [ ] 9079_동전 게임 / [문제](https://www.acmicpc.net/problem/9079) / [풀이]()
 - [ ] 14501_퇴사 / [문제](https://www.acmicpc.net/problem/14501) / [풀이]()
 - [ ] 16937_두 스티커 / [문제](https://www.acmicpc.net/problem/16937) / [풀이]()
