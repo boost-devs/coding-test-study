@@ -37,11 +37,11 @@ class ReviewAPI:
 owner = "boostcamp-ai-tech-4"
 repo = "github-action-test"
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(description="Get Pull Request Information")
 parser.add_argument("--token", type=str, default=None, help="github access token")
 parser.add_argument("--id", type=int, default=None, help="pull request number")
 
-args = parser.parse_args(description="Get Pull Request Information")
+args = parser.parse_args()
 access_token = args.token
 id = args.id
 
