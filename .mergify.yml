@@ -1,4 +1,14 @@
 pull_request_rules:
+  - name: Assign yourself
+    conditions:
+      - -merged
+      - -closed
+      - base=main
+    actions:
+      assign:
+        add_users:
+          - "{{author}}"
+          
   - name: Automatic merge on approval
     conditions:
       - -closed
