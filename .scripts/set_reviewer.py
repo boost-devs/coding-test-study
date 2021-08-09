@@ -19,6 +19,13 @@ class ReviewAPI:
         if not num_of_reviewers:
             return True
         return False
+    
+    def get_author(self):
+        query = f"https://api.github.com/repos/{self.owner}/{self.repo}/pulls/{self.id}"
+        response = requests.get(query, headers=self.headers)
+        print(f"GET Pull Request: {response.status_code}")
+        author = response.json()['user']['login']
+        return author
 
     def get_reviewers(self, file_name: str):
         with open(file_name, "r") as f:
@@ -30,7 +37,11 @@ class ReviewAPI:
             return members[pointer : pointer + rotation]
 
     def set_reviewers(self):
+        author = self.get_author()
         reviewers = self.get_reviewers("./.scripts/reviewer_info.json")
+        if author in reviewers:
+            print(f"Remove {author} from reviewers")
+            reviewers.remove(author)
         print(f"Reviewers List: {reviewers}")
         query = f"https://api.github.com/repos/{self.owner}/{self.repo}/pulls/{self.id}/requested_reviewers"
         data = {"reviewers": reviewers}
