@@ -13,7 +13,9 @@ class ReviewAPI:
     def has_no_reviewer(self):
         query = f"https://api.github.com/repos/{self.owner}/{self.repo}/pulls/{self.id}/requested_reviewers"
         response = requests.get(query, headers=self.headers)
+        print("GET Requested Reviewers:", response.status_code)
         num_of_reviewers = len(response.json()["users"])
+        print("Pull Request #{self.id} has {num_of_reviewers} reviewers")
         if not num_of_reviewers:
             return True
         return False
@@ -29,9 +31,11 @@ class ReviewAPI:
 
     def set_reviewers(self):
         reviewers = self.get_reviewers("./.scripts/reviewer_info.json")
+        print("Reviewers List:", *reviewers)
         query = f"https://api.github.com/repos/{self.owner}/{self.repo}/pulls/{self.id}/requested_reviewers"
         data = {"reviewers": reviewers}
         response = requests.post(query, headers=self.headers, data=json.dumps(data))
+        print("POST Requested Reviewers:", response.status_code)
 
 
 owner = "boostcamp-ai-tech-4"
@@ -44,7 +48,9 @@ parser.add_argument("--id", type=int, default=None, help="pull request number")
 args = parser.parse_args()
 access_token = args.token
 id = args.id
+print(f"New Pull Request Created #{id}")
 
 reviewApi = ReviewAPI(access_token, owner, repo, id)
 if reviewApi.has_no_reviewer():
+    print(f"Pull Request #{id} has no reviewers requested")
     reviewApi.set_reviewers()
