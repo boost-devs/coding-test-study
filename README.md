@@ -9,17 +9,17 @@
 
 ---
 
-- [팀원 소개](#팀원-소개)
-- [스터디 방식](#스터디-방식)
-- [이용 규칙](#이용-규칙)
+- [팀원 소개](#-팀원-소개)
+- [스터디 방식](#-스터디-방식)
+- [이용 규칙](#-이용-규칙)
   - [Naming](#naming)
   - [Pull Request](#pull-request)
   - [Issue](#issue)
-- [스터디 일지](#스터디-일지)
+- [스터디 일지](#-스터디-일지)
 
 ---
 
-## 팀원 소개
+## 👋 팀원 소개
 
 <table>
     <tr height="160px">
@@ -34,37 +34,10 @@
             <strong>샐리</strong>
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/changwoomon"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4"/></a>
-            <br />
-            <strong>🎓 원딜</strong>
-        </td>
-        <td align="center" width="150px">
             <a href="https://github.com/opijae"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/26226101?v=4"/></a>
             <br />
             <strong>후미</strong>
         </td>
-    </tr>
-    <tr height="50px">
-        <td align="center">
-            <a href="https://github.com/coodingpenguin">:octocat: GitHub</a>
-            <br />
-            <a href="./coodingpenguin">:memo: 푼 문제들</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/bsm8734">:octocat: GitHub</a>
-            <br />
-            <a href="./sally">:memo: 푼 문제들</a>
-        <td align="center">
-            <a href="https://github.com/changwoomon">:octocat: GitHub</a>
-            <br />
-            <a href="./changwoomon">:memo: 푼 문제들</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/opijae">:octocat: GitHub</a>
-            <br />
-            <a href="./opijae">:memo: 푼 문제들</a>
-        </td>
-    <tr height="160px">
         <td align="center" width="150px">
             <a href="https://github.com/osmosm7"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/48181287?v=4"/></a>
             <br />
@@ -80,10 +53,22 @@
             <br />
             <strong>감자</strong>
         </td>
-        <td align="center" width="150px">
-        </td>
     </tr>
     <tr height="50px">
+        <td align="center">
+            <a href="https://github.com/coodingpenguin">:octocat: GitHub</a>
+            <br />
+            <a href="./coodingpenguin">:memo: 푼 문제들</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/bsm8734">:octocat: GitHub</a>
+            <br />
+            <a href="./sally">:memo: 푼 문제들</a>
+        <td align="center">
+            <a href="https://github.com/opijae">:octocat: GitHub</a>
+            <br />
+            <a href="./opijae">:memo: 푼 문제들</a>
+        </td>
         <td align="center">
             <a href="https://github.com/osmosm7">:octocat: GitHub</a>
             <br />
@@ -98,14 +83,31 @@
             <br />
             <a href="./dkswndms4782">:memo: 푼 문제들</a>
         </td>
-        <td align="center">
-        </td>
     </tr>
 </table>
 
----
+<details>
+    <summary><strong>🎓 이전 팀원</strong></summary>
+    <br/>
+    <table>
+        <tr height="160px">
+            <td align="center" width="150px">
+                <a href="https://github.com/changwoomon"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/59998179?s=460&u=3a7c94b4d803a79b0bd947e184838607f0bf18c7&v=4"/></a>
+                <br />
+                <strong>원딜</strong>
+            </td>
+        </tr>
+        <tr height="50px">
+            <td align="center">
+                <a href="https://github.com/changwoomon">:octocat: GitHub</a>
+                <br />
+                <a href="./changwoomon">:memo: 푼 문제들</a>
+            </td>
+        </tr>
+    </table>
+</details>
 
-## 스터디 방식
+## ✒ 스터디 방식
 
 > [tony9402님의 백준 문제집](https://github.com/tony9402/baekjoon)을 가지고 스터디를 진행합니다.
 
@@ -124,7 +126,7 @@
 
 ---
 
-## 이용 규칙
+## 📌 이용 규칙
 
 ### Naming
 
@@ -153,7 +155,7 @@
 
 ---
 
-## 스터디 일지
+## 📝 스터디 일지
 
 <details markdown="1">
 <summary><strong>그래프 탐색 (2021.05.10 ~ 2021.05.23)</strong></summary>
