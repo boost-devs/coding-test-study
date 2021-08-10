@@ -30,11 +30,7 @@ class ReviewAPI:
     def get_reviewers(self, file_name: str):
         with open(file_name, "r") as f:
             info = json.load(f)
-            pointer = info["pointer"]  # 시작 포인터
-            rotation = info["rotation"]  # 로테이션 명수
-            members = info["members"]  # 팀원 리스트
-
-            return members[pointer : pointer + rotation]
+            return info["reviewers"]
 
     def set_reviewers(self):
         author = self.get_author()
