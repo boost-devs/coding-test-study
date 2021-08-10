@@ -39,11 +39,6 @@
             <strong>후미</strong>
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/osmosm7"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/48181287?v=4"/></a>
-            <br />
-            <strong>구너</strong>
-        </td>
-        <td align="center" width="150px">
             <a href="https://github.com/peacecheejecake"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/29668380?v=4"/></a>
             <br />
             <strong>튜브</strong>
@@ -70,14 +65,10 @@
             <a href="./opijae">:memo: 푼 문제들</a>
         </td>
         <td align="center">
-            <a href="https://github.com/osmosm7">:octocat: GitHub</a>
-            <br />
-            <a href="./osmosm7">:memo: 푼 문제들</a>
-        </td>
-        <td align="center">
             <a href="https://github.com/peacecheejecake">:octocat: GitHub</a>
             <br />
             <a href="./peacecheejecake">:memo: 푼 문제들</a>
+        </td>
         <td align="center">
             <a href="https://github.com/dkswndms4782">:octocat: GitHub</a>
             <br />
@@ -96,12 +87,22 @@
                 <br />
                 <strong>원딜</strong>
             </td>
-        </tr>
+          <td align="center" width="150px">
+            <a href="https://github.com/osmosm7"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/48181287?v=4"/></a>
+            <br />
+            <strong>구너</strong>
+          </td>
+      </tr>
         <tr height="50px">
             <td align="center">
                 <a href="https://github.com/changwoomon">:octocat: GitHub</a>
                 <br />
                 <a href="./changwoomon">:memo: 푼 문제들</a>
+            </td>
+            <td align="center">
+              <a href="https://github.com/osmosm7">:octocat: GitHub</a>
+              <br />
+              <a href="./osmosm7">:memo: 푼 문제들</a>
             </td>
         </tr>
     </table>
