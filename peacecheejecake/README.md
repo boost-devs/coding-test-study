@@ -89,3 +89,5 @@
 |8/4|2503|숫자 야구|[link](https://www.acmicpc.net/problem/2503)|
 |8/5|2422|한윤정이 이탈리아에 가서 아이스크림을 사먹는데|[link](https://www.acmicpc.net/problem/2422)|
 |8/5|17626|Four Squares|[link](https://www.acmicpc.net/problem/17626)|
+|8/10|16937|두 스티커|[link](https://www.acmicpc.net/problem/16937)|
+|8/10|16439|치킨치킨치킨|[link](https://www.acmicpc.net/problem/16439)|
