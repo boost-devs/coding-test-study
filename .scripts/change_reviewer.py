@@ -15,7 +15,8 @@ def change_reviewer(info):
     rotation = info["rotation"]  # 로테이션 명수
     members = info["members"]  # 팀원 리스트
 
-    info["pointer"] = (pointer + rotation) % total  # 포인터 변경
+    pointer = (pointer + rotation) % total  # 포인터 변경
+    info["pointer"] = pointer
     info["reviewers"] = [members[i%total] for i in range(pointer, pointer+rotation)]
     print("This week reviewer:", *info["reviewers"])
     return info
