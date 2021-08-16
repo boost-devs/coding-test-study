@@ -1,6 +1,6 @@
 # 문제: [BOJ 15661] 링크와 스타트
 # 유형: 완전 탐색
-# 메모리/시간: 156744kb / 2244ms (PyPy3)
+# 메모리/시간: 29200kb / 7572ms, 143696kb / 1520ms (PyPy3)
 
 import sys
 
@@ -54,8 +54,7 @@ n = int(input())  # 사람 수
 table = [list(map(int, input().split())) for _ in range(n)]  # 능력치 조합 테이블
 
 min_diff = int(1e9)  # 능력 최소 차
-for i in range(n // 2 + 1):
-    dfs([i], 0)  # 팀 조합
+dfs([0], 0)  # 팀 조합
 
 # 출력
 print(min_diff)
