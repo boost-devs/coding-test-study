@@ -31,6 +31,7 @@ def patch(board, replace, si, sj):
 
 
 def try_to_patch(board, sticker):
+    N, M = len(board), len(board[0])
     r, c = len(sticker), len(sticker[0])
     for _ in range(4):
         is_valid_size = True
