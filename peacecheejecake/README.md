@@ -91,3 +91,7 @@
 |8/5|17626|Four Squares|[link](https://www.acmicpc.net/problem/17626)|
 |8/10|16937|두 스티커|[link](https://www.acmicpc.net/problem/16937)|
 |8/10|16439|치킨치킨치킨|[link](https://www.acmicpc.net/problem/16439)|
+|8/11|2615|오목|[link](https://www.acmicpc.net/problem/2615)|
+|8/11|16508|전공책|[link](https://www.acmicpc.net/problem/16508)|
+|8/17|14500|테트로미노|[link](https://www.acmicpc.net/problem/14500)|
+|8/17|15686|치킨 배달|[link](https://www.acmicpc.net/problem/15686)|
