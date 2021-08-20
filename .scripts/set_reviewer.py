@@ -24,7 +24,7 @@ class ReviewAPI:
         query = f"https://api.github.com/repos/{self.owner}/{self.repo}/pulls/{self.id}"
         response = requests.get(query, headers=self.headers)
         print(f"GET Pull Request: {response.status_code}")
-        author = response.json()['user']['login']
+        author = response.json()['user']['login'].lower()
         return author
 
     def get_reviewers(self, file_name: str):
