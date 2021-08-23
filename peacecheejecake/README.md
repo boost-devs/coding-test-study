@@ -95,3 +95,5 @@
 |8/11|16508|전공책|[link](https://www.acmicpc.net/problem/16508)|
 |8/17|14500|테트로미노|[link](https://www.acmicpc.net/problem/14500)|
 |8/17|15686|치킨 배달|[link](https://www.acmicpc.net/problem/15686)|
+|8/18|21278|호석이 두 마리 치킨|[link](https://www.acmicpc.net/problem/21278)|
+|8/18|21315|카드 섞기|[link](https://www.acmicpc.net/problem/21315)|
