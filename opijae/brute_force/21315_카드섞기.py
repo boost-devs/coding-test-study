@@ -1,6 +1,6 @@
 import sys
 import math
-from itertools import product
+from itertools import product,combinations
 from collections import deque
 input = sys.stdin.readline
 n = int(input())
