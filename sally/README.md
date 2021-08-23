@@ -145,10 +145,10 @@
 - [X] **11659_구간 합 구하기 4** / [문제](https://www.acmicpc.net/problem/11659) / [풀이]()
 - [X] **21921_블로그** / [문제](https://www.acmicpc.net/problem/21921) / [풀이]()
 - [X] **20922_겹치는 건 싫어** / [문제](https://www.acmicpc.net/problem/20922) / [풀이]()
-- [ ] **2470_두 용액** / [문제](https://www.acmicpc.net/problem/2470) / [풀이]()
-- [ ] **15961_회전 초밥** / [문제](https://www.acmicpc.net/problem/15961) / [풀이]()
-- [ ] **1806_부분합** / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
-- [ ] **3151_합이 0** / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
+- [ ] 2470_두 용액 / [문제](https://www.acmicpc.net/problem/2470) / [풀이]()
+- [ ] 15961_회전 초밥 / [문제](https://www.acmicpc.net/problem/15961) / [풀이]()
+- [ ] 1806_부분합 / [문제](https://www.acmicpc.net/problem/1806) / [풀이]()
+- [ ] 3151_합이 0 / [문제](https://www.acmicpc.net/problem/3151) / [풀이]()
 - [X] **20366_같이 눈사람 만들래?** / [문제](https://www.acmicpc.net/problem/20366) / [풀이]()
 - [X] **20442_ㅋㅋ루ㅋㅋ** / [문제](https://www.acmicpc.net/problem/20442) / [풀이]()
 
@@ -178,8 +178,8 @@
 - [X] **15686_치킨 배달** / [문제](https://www.acmicpc.net/problem/15686) / [풀이]()  
 - [X] **21278_호석이 두 마리 치킨** / [문제](https://www.acmicpc.net/problem/21278) / [풀이]()  
 - [X] **21315_카드 섞기** / [문제](https://www.acmicpc.net/problem/21315) / [풀이]()  
-- [ ] 16637_괄호 추가하기 / [문제](https://www.acmicpc.net/problem/16637) / [풀이]()  
-- [ ] 14391_종이 조각 / [문제](https://www.acmicpc.net/problem/14391) / [풀이]()  
+- [X] **16637_괄호 추가하기** / [문제](https://www.acmicpc.net/problem/16637) / [풀이]()  
+- [X] **14391_종이 조각** / [문제](https://www.acmicpc.net/problem/14391) / [풀이]()  
 - [ ] 18808_스티커 붙이기 / [문제](https://www.acmicpc.net/problem/18808) / [풀이]()  
 
 ---
