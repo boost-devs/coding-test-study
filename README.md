@@ -338,7 +338,7 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>완전 탐색 (2021.08.04 ~ 2021.08.20)</strong></summary>
 
 <br/>
@@ -375,7 +375,7 @@
 
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><strong>시뮬레이션 (2021.08.23 ~ 2021.09.07)</strong></summary>
 
 <br/>
