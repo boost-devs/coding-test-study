@@ -180,14 +180,14 @@
 - [X] **21315_카드 섞기** / [문제](https://www.acmicpc.net/problem/21315) / [풀이]()  
 - [X] **16637_괄호 추가하기** / [문제](https://www.acmicpc.net/problem/16637) / [풀이]()  
 - [X] **14391_종이 조각** / [문제](https://www.acmicpc.net/problem/14391) / [풀이]()  
-- [ ] 18808_스티커 붙이기 / [문제](https://www.acmicpc.net/problem/18808) / [풀이]()  
+- [X] **18808_스티커 붙이기** / [문제](https://www.acmicpc.net/problem/18808) / [풀이]()  
 
 ---
 
 ## Simulation
 
-- [ ] 16234_인구 이동 / [문제](https://www.acmicpc.net/problem/16234) / [풀이]()  
-- [ ] 17144_미세먼지 안녕! / [문제](https://www.acmicpc.net/problem/17144) / [풀이]()  
+- [X] **16234_인구 이동** / [문제](https://www.acmicpc.net/problem/16234) / [풀이]()  
+- [X] **17144_미세먼지 안녕!** / [문제](https://www.acmicpc.net/problem/17144) / [풀이]()  
 - [ ] 20056_마법사 상어와 파이어볼 / [문제](https://www.acmicpc.net/problem/20056) / [풀이]()  
 - [ ] 21610_마법사 상어와 비바라기 / [문제](https://www.acmicpc.net/problem/21610) / [풀이]()  
 - [ ] 16236_아기 상어 / [문제](https://www.acmicpc.net/problem/16236) / [풀이]()  
@@ -211,4 +211,3 @@
 - [ ] 21922_학부 연구생 민상 / [문제](https://www.acmicpc.net/problem/21922) / [풀이]()  
 
 ---
-

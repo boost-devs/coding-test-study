@@ -97,6 +97,7 @@
 |8/17|15686|치킨 배달|[link](https://www.acmicpc.net/problem/15686)|
 |8/18|21278|호석이 두 마리 치킨|[link](https://www.acmicpc.net/problem/21278)|
 |8/18|21315|카드 섞기|[link](https://www.acmicpc.net/problem/21315)|
+|8/20|18808|스티커 붙이기|[link](https://www.acmicpc.net/problem/18808)|
 
 # 시뮬레이션
 |날짜|번호|제목|문제|
