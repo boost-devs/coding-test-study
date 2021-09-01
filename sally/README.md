@@ -180,7 +180,7 @@
 - [X] **21315_카드 섞기** / [문제](https://www.acmicpc.net/problem/21315) / [풀이]()  
 - [X] **16637_괄호 추가하기** / [문제](https://www.acmicpc.net/problem/16637) / [풀이]()  
 - [X] **14391_종이 조각** / [문제](https://www.acmicpc.net/problem/14391) / [풀이]()  
-- [ ] 18808_스티커 붙이기 / [문제](https://www.acmicpc.net/problem/18808) / [풀이]()  
+- [X] **18808_스티커 붙이기** / [문제](https://www.acmicpc.net/problem/18808) / [풀이]()  
 
 ---
 
