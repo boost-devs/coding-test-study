@@ -194,7 +194,7 @@
 - [X] **15685_드래곤 커브** / [문제](https://www.acmicpc.net/problem/15685) / [풀이]()  
 - [X] **16235_나무 재테크** / [문제](https://www.acmicpc.net/problem/16235) / [풀이]()  
 - [X] **17135_캐슬 디펜스** / [문제](https://www.acmicpc.net/problem/17135) / [풀이]()  
-- [ ] 17140_이차원 배열과 연산 / [문제](https://www.acmicpc.net/problem/17140) / [풀이]()  
+- [X] **17140_이차원 배열과 연산** / [문제](https://www.acmicpc.net/problem/17140) / [풀이]()  
 - [ ] 17779_게리맨더링 2 / [문제](https://www.acmicpc.net/problem/17779) / [풀이]()  
 - [ ] 19238_스타트 택시 / [문제](https://www.acmicpc.net/problem/19238) / [풀이]()  
 - [ ] 20057_마법사 상어와 토네이도 / [문제](https://www.acmicpc.net/problem/20057) / [풀이]()  
