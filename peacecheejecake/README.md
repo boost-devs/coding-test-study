@@ -98,3 +98,11 @@
 |8/18|21278|호석이 두 마리 치킨|[link](https://www.acmicpc.net/problem/21278)|
 |8/18|21315|카드 섞기|[link](https://www.acmicpc.net/problem/21315)|
 |8/20|18808|스티커 붙이기|[link](https://www.acmicpc.net/problem/18808)|
+
+# 시뮬레이션
+|날짜|번호|제목|문제|
+|---|---|---|---|
+|8/30|16234|인구 이동|[link](https://www.acmicpc.net/problem/16234)|
+|8/30|17144|미세먼지 안녕!|[link](https://www.acmicpc.net/problem/17144)|
+|9/1||16236|아기 상어|[link](https://www.acmicpc.net/problem/16236)|
+|9/1|15685|드레곤 커브|[link](https://www.acmicpc.net/problem/15685)|
