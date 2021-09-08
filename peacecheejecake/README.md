@@ -108,3 +108,5 @@
 |9/1|15685|드레곤 커브|[link](https://www.acmicpc.net/problem/15685)|
 |9/2|16235|나무 재테크|[link](https://www.acmicpc.net/problem/16235)|
 |9/2|17135|캐슬 디펜스|[link](https://www.acmicpc.net/problem/17135)|
+|9/3|17140|이차원 배열과 연산|[link](https://www.acmicpc.net/problem/17140)|
+|9/3|17779|게리멘더링 2|[link](https://www.acmicpc.net/problem/17779)|
