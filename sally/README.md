@@ -188,8 +188,8 @@
 
 - [X] **16234_인구 이동** / [문제](https://www.acmicpc.net/problem/16234) / [풀이]()  
 - [X] **17144_미세먼지 안녕!** / [문제](https://www.acmicpc.net/problem/17144) / [풀이]()  
-- [ ] 20056_마법사 상어와 파이어볼 / [문제](https://www.acmicpc.net/problem/20056) / [풀이]()  
-- [ ] 21610_마법사 상어와 비바라기 / [문제](https://www.acmicpc.net/problem/21610) / [풀이]()  
+- [X] **20056_마법사 상어와 파이어볼** / [문제](https://www.acmicpc.net/problem/20056) / [풀이]()  
+- [X] **21610_마법사 상어와 비바라기** / [문제](https://www.acmicpc.net/problem/21610) / [풀이]()  
 - [ ] 16236_아기 상어 / [문제](https://www.acmicpc.net/problem/16236) / [풀이]()  
 - [ ] 15685_드래곤 커브 / [문제](https://www.acmicpc.net/problem/15685) / [풀이]()  
 - [ ] 16235_나무 재테크 / [문제](https://www.acmicpc.net/problem/16235) / [풀이]()  
