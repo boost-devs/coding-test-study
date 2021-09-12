@@ -1,5 +1,5 @@
 pull_request_rules:
-  - name: Assign yourself
+  - name: Assign yourself and request reviews automatically
     conditions:
       - -merged
       - -closed
@@ -8,13 +8,18 @@ pull_request_rules:
       assign:
         add_users:
           - "{{author}}"
-          
+      request_reviews:
+        users:
+          - CoodingPenguin
+          - bsm8734
+          - opijae
+          - peacecheejecake
+
   - name: Automatic merge on approval
     conditions:
       - -closed
       - -merged
-      - "#approved-reviews-by>=1"
-      - "#review-requested=0"
+      - "#approved-reviews-by>=3"
       - "#changes-requested-reviews-by=0"
       - base=main
     actions:
