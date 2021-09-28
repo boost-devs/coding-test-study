@@ -20,7 +20,7 @@ public:
             return ans;
         }
         int j =0;  // ans의 index
-        int checkpoint = 2; // j를 초기화
+        int checkpoint = 2; // 2의 배수 마다 j를 0으로 초기화
         vector<int> ans ={0,1};// n==1일때 답
         for(int i=2; i<n+1; i++){
             if(i==checkpoint){
