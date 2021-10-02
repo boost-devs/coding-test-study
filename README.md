@@ -111,9 +111,7 @@
 
 ## ✒ 스터디 방식
 
-- 매주 일요일 오전 11시 30분에 열리는 <strong>[LeetCode의 Weekly Contest](https://leetcode.com/contest/)</strong>에 참여한다.
-  - 대회에 참여할 수 있는 사람은 참여하고 못 푼 문제는 대회가 끝나고 풀고 마무리한다.
-  - 참여하지 못하는 사람은 LeetCode에 올라온 문제를 푼다.
+- 매주 일요일까지 <strong>[New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)</strong>에서 선정한 문제를 푼다.
 - 자신의 닉네임으로 된 브랜치에 푼 문제의 코드를 Commit하고 Pull Request를 보낸다.
   - Pull Request에는 **문제 링크, 간단한 풀이 방식, 궁금한 사항**을 적는다.
   - 제대로 제출했다면 나머지 팀원들이 확인하고 승인을 한다. 만약 Pull Request 양식을 지키지 않을 시 거절한다.
