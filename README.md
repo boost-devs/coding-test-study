@@ -201,12 +201,10 @@
 | :-: | :-: | :-: | :-: |
 | [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Binary | <span style="color:green">Easy</span> |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [253](https://leetcode.com/problems/meeting-rooms-ii/) | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Interval | <span style="color:orange">Medium</span> |
-| [323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Graph | <span style="color:orange">Medium</span> |
 
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><strong>week3 (2021.09.27 ~ 2021.10.03)</summary></strong>
 
 <br/>
@@ -255,7 +253,6 @@
 
 | 문제번호 | 문제이름 | 문제유형 | 난이도 |
 | :-: | :-: | :-: | :-: |
-| [252](https://leetcode.com/problems/meeting-rooms/) | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Interval | <span style="color:green">Easy</span> |
 | [15](https://leetcode.com/problems/3sum/) | [3Sum](https://leetcode.com/problems/3sum/) | Array | <span style="color:orange">Medium</span> |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | <span style="color:orange">Medium</span> |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graph | <span style="color:orange">Medium</span> |
@@ -341,7 +338,6 @@
 | :-: | :-: | :-: | :-: |
 | [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://leetcode.com/problems/same-tree/) | Tree | <span style="color:green">Easy</span> |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Matrix | <span style="color:orange">Medium</span> |
-| [271](https://leetcode.com/problems/encode-and-decode-strings/) | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | String | <span style="color:orange">Medium</span> |
 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | String | <span style="color:red">Hard</span> |
 
 </details>
@@ -398,7 +394,6 @@
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Tree | <span style="color:green">Easy</span> |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | Linked List | <span style="color:orange">Medium</span> |
 | [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [269](https://leetcode.com/problems/alien-dictionary/) | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Graph | <span style="color:red">Hard</span> |
 
 </details>
 
@@ -423,7 +418,6 @@
 
 | 문제번호 | 문제이름 | 문제유형 | 난이도 |
 | :-: | :-: | :-: | :-: |
-| [261](https://leetcode.com/problems/graph-valid-tree/) | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Graph | <span style="color:orange">Medium</span> |
 | [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Interval | <span style="color:orange">Medium</span> |
 | [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Binary | <span style="color:orange">Medium</span> |
 | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Tree | <span style="color:red">Hard</span> |
