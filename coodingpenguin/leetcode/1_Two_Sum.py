@@ -1,3 +1,6 @@
+# 문제: 1. Two Sum
+# 링크: https://leetcode.com/problems/two-sum/
+
 # 시간/공간: O(N^2) / O(1)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
