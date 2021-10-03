@@ -65,7 +65,7 @@ public:
 
 int main(){
     Solution s;
-    vector<int> tmp = {1,2,3,0,4,0};
+    vector<int> tmp = {1,2,3,4,0};
     vector<int> ans = s.productExceptSelf(tmp);
     for (auto& i : ans){
             cout<<i<<' ';
