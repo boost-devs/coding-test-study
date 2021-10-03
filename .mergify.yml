@@ -14,12 +14,13 @@ pull_request_rules:
           - bsm8734
           - opijae
           - peacecheejecake
+          - keeprainy
 
   - name: Automatic merge on approval
     conditions:
       - -closed
       - -merged
-      - "#approved-reviews-by>=3"
+      - "#approved-reviews-by>=4"
       - "#changes-requested-reviews-by=0"
       - base=main
     actions:
