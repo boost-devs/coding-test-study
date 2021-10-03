@@ -111,9 +111,7 @@
 
 ## ✒ 스터디 방식
 
-- 매주 일요일 오전 11시 30분에 열리는 <strong>[LeetCode의 Weekly Contest](https://leetcode.com/contest/)</strong>에 참여한다.
-  - 대회에 참여할 수 있는 사람은 참여하고 못 푼 문제는 대회가 끝나고 풀고 마무리한다.
-  - 참여하지 못하는 사람은 LeetCode에 올라온 문제를 푼다.
+- 매주 일요일까지 <strong>[New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)</strong>에서 선정한 문제를 푼다.
 - 자신의 닉네임으로 된 브랜치에 푼 문제의 코드를 Commit하고 Pull Request를 보낸다.
   - Pull Request에는 **문제 링크, 간단한 풀이 방식, 궁금한 사항**을 적는다.
   - 제대로 제출했다면 나머지 팀원들이 확인하고 승인을 한다. 만약 Pull Request 양식을 지키지 않을 시 거절한다.
@@ -156,28 +154,6 @@
 
 ## 📝 스터디 일지
 
-| 문제 리스트 | 풀이 기간 | 완료 여부 |
-| :------: | :-----: | :-----: |
-| **week1** | 2021.09.13 ~ 2021.09.19 | ✅ |
-| **week2** | 2021.09.20 ~ 2021.09.26 | |
-| **week3** | 2021.09.27 ~ 2021.10.03 | |
-| **week4** | 2021.10.04 ~ 2021.10.10 | |
-| **week5** | 2021.10.11 ~ 2021.10.17 | |
-| **week6** | 2021.10.18 ~ 2021.10.24 | |
-| **week7** | 2021.10.25 ~ 2021.10.31 | |
-| **week8** | 2021.11.01 ~ 2021.11.07 | |
-| **week9** | 2021.11.08 ~ 2021.11.14 | |
-| **week10** | 2021.11.15 ~ 2021.11.21 | |
-| **week11** | 2021.11.22 ~ 2021.11.28 | |
-| **week12** | 2021.11.29 ~ 2021.12.05 | |
-| **week13** | 2021.12.06 ~ 2021.12.12 | |
-| **week14** | 2021.12.13 ~ 2021.12.19 | |
-| **week15** | 2021.12.20 ~ 2021.12.26 | |
-| **week16** | 2021.12.27 ~ 2022.01.02 | |
-| **week17** | 2021.01.03 ~ 2021.01.09 | |
-| **week18** | 2021.01.10 ~ 2021.01.16 | |
-
-
 <details markdown="1">
 <summary><strong>week1 (2021.09.13 ~ 2021.09.19)</summary></strong>
 
@@ -201,12 +177,10 @@
 | :-: | :-: | :-: | :-: |
 | [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Binary | <span style="color:green">Easy</span> |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [253](https://leetcode.com/problems/meeting-rooms-ii/) | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Interval | <span style="color:orange">Medium</span> |
-| [323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Graph | <span style="color:orange">Medium</span> |
 
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><strong>week3 (2021.09.27 ~ 2021.10.03)</summary></strong>
 
 <br/>
@@ -255,7 +229,6 @@
 
 | 문제번호 | 문제이름 | 문제유형 | 난이도 |
 | :-: | :-: | :-: | :-: |
-| [252](https://leetcode.com/problems/meeting-rooms/) | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | Interval | <span style="color:green">Easy</span> |
 | [15](https://leetcode.com/problems/3sum/) | [3Sum](https://leetcode.com/problems/3sum/) | Array | <span style="color:orange">Medium</span> |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | <span style="color:orange">Medium</span> |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graph | <span style="color:orange">Medium</span> |
@@ -341,7 +314,6 @@
 | :-: | :-: | :-: | :-: |
 | [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://leetcode.com/problems/same-tree/) | Tree | <span style="color:green">Easy</span> |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Matrix | <span style="color:orange">Medium</span> |
-| [271](https://leetcode.com/problems/encode-and-decode-strings/) | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | String | <span style="color:orange">Medium</span> |
 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | String | <span style="color:red">Hard</span> |
 
 </details>
@@ -398,7 +370,6 @@
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Tree | <span style="color:green">Easy</span> |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | Linked List | <span style="color:orange">Medium</span> |
 | [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [269](https://leetcode.com/problems/alien-dictionary/) | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | Graph | <span style="color:red">Hard</span> |
 
 </details>
 
@@ -423,7 +394,6 @@
 
 | 문제번호 | 문제이름 | 문제유형 | 난이도 |
 | :-: | :-: | :-: | :-: |
-| [261](https://leetcode.com/problems/graph-valid-tree/) | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Graph | <span style="color:orange">Medium</span> |
 | [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Interval | <span style="color:orange">Medium</span> |
 | [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Binary | <span style="color:orange">Medium</span> |
 | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Tree | <span style="color:red">Hard</span> |
