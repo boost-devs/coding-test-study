@@ -44,6 +44,11 @@
             <br />
             <strong>튜브</strong>
         </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/keeprainy"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/38286295?v=4"/></a>
+            <br />
+            <strong>서폿</strong>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -64,6 +69,11 @@
             <a href="https://github.com/peacecheejecake">:octocat: GitHub</a>
             <br />
             <a href="./peacecheejecake">:memo: 푼 문제들</a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/keeprainy">:octocat: GitHub</a>
+            <br />
+            <a href="./keeprainy">:memo: 푼 문제들</a>
         </td>
     </tr>
 </table>
@@ -159,12 +169,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](https://leetcode.com/problems/two-sum/) | Array | <span style="color:green">Easy</span> |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | <span style="color:green">Easy</span> |
-| [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Array | <span style="color:green">Easy</span> |
-| [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Array | <span style="color:green">Easy</span> |
+|                               문제번호                                |                                             문제이름                                              | 문제유형 |                난이도                 |
+| :-------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------: | :-----------------------------------: |
+|              [1](https://leetcode.com/problems/two-sum/)              |                         [Two Sum](https://leetcode.com/problems/two-sum/)                         |  Array   | <span style="color:green">Easy</span> |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  Array   | <span style="color:green">Easy</span> |
+|       [217](https://leetcode.com/problems/contains-duplicate/)        |              [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              |  Array   | <span style="color:green">Easy</span> |
+|  [238](https://leetcode.com/problems/product-of-array-except-self/)   |    [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)    |  Array   | <span style="color:green">Easy</span> |
 
 </details>
 
@@ -173,9 +183,9 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Binary | <span style="color:green">Easy</span> |
+|                             문제번호                              |                                        문제이름                                         |      문제유형       |                  난이도                  |
+| :---------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|        [338](https://leetcode.com/problems/counting-bits/)        |              [Counting Bits](https://leetcode.com/problems/counting-bits/)              |       Binary        |  <span style="color:green">Easy</span>   |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Dynamic Programming | <span style="color:orange">Medium</span> |
 
 </details>
@@ -185,12 +195,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | String | <span style="color:green">Easy</span> |
-| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Graph | <span style="color:orange">Medium</span> |
-| [55](https://leetcode.com/problems/jump-game/) | [Jump Game](https://leetcode.com/problems/jump-game/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [39](https://leetcode.com/problems/combination-sum-iv/) | [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | Dynamic Programming | <span style="color:orange">Medium</span> |
+|                              문제번호                              |                                          문제이름                                           |      문제유형       |                  난이도                  |
+| :----------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|       [20](https://leetcode.com/problems/valid-parentheses/)       |            [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)            |       String        |  <span style="color:green">Easy</span>   |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |        Graph        | <span style="color:orange">Medium</span> |
+|           [55](https://leetcode.com/problems/jump-game/)           |                    [Jump Game](https://leetcode.com/problems/jump-game/)                    | Dynamic Programming | <span style="color:orange">Medium</span> |
+|      [39](https://leetcode.com/problems/combination-sum-iv/)       |            [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)             | Dynamic Programming | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -199,12 +209,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Binary | <span style="color:green">Easy</span> |
-| [98](https://leetcode.com/problems/validate-binary-search-tree/) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Tree | <span style="color:orange">Medium</span> |
-| [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | <span style="color:orange">Medium</span> |
-| [79](https://leetcode.com/problems/word-search/) | [Word Search](https://leetcode.com/problems/word-search/) | Matrix | <span style="color:orange">Medium</span> |
+|                             문제번호                             |                                         문제이름                                          |  문제유형   |                  난이도                  |
+| :--------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------: | :--------------------------------------: |
+|        [190](https://leetcode.com/problems/reverse-bits/)        |                [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                |   Binary    |  <span style="color:green">Easy</span>   |
+| [98](https://leetcode.com/problems/validate-binary-search-tree/) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |    Tree     | <span style="color:orange">Medium</span> |
+|        [143](https://leetcode.com/problems/reorder-list/)        |                [Reorder List](https://leetcode.com/problems/reorder-list/)                | Linked List | <span style="color:orange">Medium</span> |
+|         [79](https://leetcode.com/problems/word-search/)         |                 [Word Search](https://leetcode.com/problems/word-search/)                 |   Matrix    | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -213,12 +223,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | String | <span style="color:green">Easy</span> |
-| [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Interval | <span style="color:orange">Medium</span> |
-| [207](https://leetcode.com/problems/course-schedule/) | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Graph | <span style="color:orange">Medium</span> |
-| [139](https://leetcode.com/problems/word-break/) | [Word Break Problem](https://leetcode.com/problems/word-break/) | Dynamic Programming | <span style="color:orange">Medium</span> |
+|                            문제번호                             |                                       문제이름                                        |      문제유형       |                  난이도                  |
+| :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|       [242](https://leetcode.com/problems/valid-anagram/)       |             [Valid Anagram](https://leetcode.com/problems/valid-anagram/)             |       String        |  <span style="color:green">Easy</span>   |
+| [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |      Interval       | <span style="color:orange">Medium</span> |
+|      [207](https://leetcode.com/problems/course-schedule/)      |           [Course Schedule](https://leetcode.com/problems/course-schedule/)           |        Graph        | <span style="color:orange">Medium</span> |
+|        [139](https://leetcode.com/problems/word-break/)         |            [Word Break Problem](https://leetcode.com/problems/word-break/)            | Dynamic Programming | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -227,11 +237,11 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [15](https://leetcode.com/problems/3sum/) | [3Sum](https://leetcode.com/problems/3sum/) | Array | <span style="color:orange">Medium</span> |
+|                               문제번호                                |                                              문제이름                                               |  문제유형   |                  난이도                  |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :---------: | :--------------------------------------: |
+|               [15](https://leetcode.com/problems/3sum/)               |                             [3Sum](https://leetcode.com/problems/3sum/)                             |    Array    | <span style="color:orange">Medium</span> |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | <span style="color:orange">Medium</span> |
-| [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graph | <span style="color:orange">Medium</span> |
+|        [200](https://leetcode.com/problems/number-of-islands/)        |                [Number of Islands](https://leetcode.com/problems/number-of-islands/)                |    Graph    | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -240,12 +250,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Tree | <span style="color:green">Easy</span> |
-| [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Heap | <span style="color:orange">Medium</span> |
-| [62](https://leetcode.com/problems/unique-paths/) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [5](https://leetcode.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | String | <span style="color:orange">Medium</span> |
+|                                       문제번호                                       |                                                    문제이름                                                    |      문제유형       |                  난이도                  |
+| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+| [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |        Tree         |  <span style="color:green">Easy</span>   |
+|            [347](https://leetcode.com/problems/top-k-frequent-elements/)             |               [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                |        Heap         | <span style="color:orange">Medium</span> |
+|                  [62](https://leetcode.com/problems/unique-paths/)                   |                          [Unique Paths](https://leetcode.com/problems/unique-paths/)                           | Dynamic Programming | <span style="color:orange">Medium</span> |
+|          [5](https://leetcode.com/problems/longest-palindromic-substring/)           |         [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)          |       String        | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -254,12 +264,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | <span style="color:green">Easy</span> |
-| [322](https://leetcode.com/problems/coin-change/) | [Coin Change](https://leetcode.com/problems/coin-change/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree | <span style="color:orange">Medium</span> |
-| [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Tree | <span style="color:orange">Medium</span> |
+|                                문제번호                                 |                                               문제이름                                                |      문제유형       |                  난이도                  |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|       [21](https://leetcode.com/problems/merge-two-sorted-lists/)       |            [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)            |     Linked List     |  <span style="color:green">Easy</span>   |
+|            [322](https://leetcode.com/problems/coin-change/)            |                       [Coin Change](https://leetcode.com/problems/coin-change/)                       | Dynamic Programming | <span style="color:orange">Medium</span> |
+| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |        Tree         | <span style="color:orange">Medium</span> |
+|   [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)   |     [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)     |        Tree         | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -268,12 +278,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [226](https://leetcode.com/problems/invert-binary-tree/) | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Tree | <span style="color:green">Easy</span> |
-| [647](https://leetcode.com/problems/palindromic-substrings/) | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | String | <span style="color:orange">Medium</span> |
-| [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Tree | <span style="color:orange">Medium</span> |
-| [91](https://leetcode.com/problems/decode-ways/) | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Dynamic Programming | <span style="color:orange">Medium</span> |
+|                                            문제번호                                             |                                                                       문제이름                                                                        |      문제유형       |                  난이도                  |
+| :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|                    [226](https://leetcode.com/problems/invert-binary-tree/)                     |                                     [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                      |        Tree         |  <span style="color:green">Easy</span>   |
+|                  [647](https://leetcode.com/problems/palindromic-substrings/)                   |                                    [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                    |       String        | <span style="color:orange">Medium</span> |
+| [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |        Tree         | <span style="color:orange">Medium</span> |
+|                        [91](https://leetcode.com/problems/decode-ways/)                         |                                               [Decode Ways](https://leetcode.com/problems/decode-ways/)                                               | Dynamic Programming | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -282,12 +292,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Tree | <span style="color:green">Easy</span> |
-| [208](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Tree | <span style="color:orange">Medium</span> |
-| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | String | <span style="color:orange">Medium</span> |
-| [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | <span style="color:orange">Medium</span> |
+|                                   문제번호                                    |                                                     문제이름                                                      |  문제유형   |                  난이도                  |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------: | :--------------------------------------: |
+|      [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)       |            [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)            |    Tree     |  <span style="color:green">Easy</span>   |
+|       [208](https://leetcode.com/problems/implement-trie-prefix-tree/)        |             [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)             |    Tree     | <span style="color:orange">Medium</span> |
+| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |   String    | <span style="color:orange">Medium</span> |
+|           [206](https://leetcode.com/problems/reverse-linked-list/)           |                    [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)                    | Linked List | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -296,12 +306,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [268](https://leetcode.com/problems/missing-number/) | [Missing Number](https://leetcode.com/problems/missing-number/) | Binary | <span style="color:green">Easy</span> |
-| [211](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | Tree | <span style="color:orange">Medium</span> |
-| [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Interval | <span style="color:orange">Medium</span> |
-| [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Heap | <span style="color:red">Hard</span> |
+|                                    문제번호                                     |                                            문제이름                                             | 문제유형 |                  난이도                  |
+| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :------: | :--------------------------------------: |
+|              [268](https://leetcode.com/problems/missing-number/)               |                 [Missing Number](https://leetcode.com/problems/missing-number/)                 |  Binary  |  <span style="color:green">Easy</span>   |
+| [211](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |   Tree   | <span style="color:orange">Medium</span> |
+|              [57](https://leetcode.com/problems/insert-interval/)               |                [Insert Interval](https://leetcode.com/problems/insert-interval/)                | Interval | <span style="color:orange">Medium</span> |
+|            [23](https://leetcode.com/problems/merge-k-sorted-lists/)            |           [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)           |   Heap   |   <span style="color:red">Hard</span>    |
 
 </details>
 
@@ -310,11 +320,11 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://leetcode.com/problems/same-tree/) | Tree | <span style="color:green">Easy</span> |
-| [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Matrix | <span style="color:orange">Medium</span> |
-| [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | String | <span style="color:red">Hard</span> |
+|                           문제번호                            |                                      문제이름                                       | 문제유형 |                  난이도                  |
+| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------: | :------: | :--------------------------------------: |
+|        [100](https://leetcode.com/problems/same-tree/)        |                [Same Tree](https://leetcode.com/problems/same-tree/)                |   Tree   |  <span style="color:green">Easy</span>   |
+|       [48](https://leetcode.com/problems/rotate-image/)       |             [Rotate Image](https://leetcode.com/problems/rotate-image/)             |  Matrix  | <span style="color:orange">Medium</span> |
+| [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |  String  |   <span style="color:red">Hard</span>    |
 
 </details>
 
@@ -323,12 +333,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | <span style="color:green">Easy</span> |
-| [133](https://leetcode.com/problems/clone-graph/) | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Graph | <span style="color:orange">Medium</span> |
-| [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | String | <span style="color:orange">Medium</span> |
-| [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Tree | <span style="color:red">Hard</span> |
+|                              문제번호                              |                                          문제이름                                           | 문제유형 |                  난이도                  |
+| :----------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------: | :--------------------------------------: |
+|       [125](https://leetcode.com/problems/valid-palindrome/)       |             [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)             |  String  |  <span style="color:green">Easy</span>   |
+|         [133](https://leetcode.com/problems/clone-graph/)          |                  [Clone Graph](https://leetcode.com/problems/clone-graph/)                  |  Graph   | <span style="color:orange">Medium</span> |
+|        [49](https://leetcode.com/problems/group-anagrams/)         |               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               |  String  | <span style="color:orange">Medium</span> |
+| [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |   Tree   |   <span style="color:red">Hard</span>    |
 
 </details>
 
@@ -337,12 +347,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Binary | <span style="color:green">Easy</span> |
-| [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Graph | <span style="color:orange">Medium</span> |
-| [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | <span style="color:orange">Medium</span> |
-| [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Linked List | <span style="color:red">Hard</span> |
+|                             문제번호                              |                                         문제이름                                          |  문제유형   |                  난이도                  |
+| :---------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------: | :--------------------------------------: |
+|      [191](https://leetcode.com/problems/number-of-1-bits/)       |            [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)            |   Binary    |  <span style="color:green">Easy</span>   |
+| [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |    Graph    | <span style="color:orange">Medium</span> |
+|  [11](https://leetcode.com/problems/container-with-most-water/)   |   [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)   |    Array    | <span style="color:orange">Medium</span> |
+|     [23](https://leetcode.com/problems/merge-k-sorted-lists/)     |        [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)        | Linked List |   <span style="color:red">Hard</span>    |
 
 </details>
 
@@ -351,12 +361,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [70](https://leetcode.com/problems/climbing-stairs/) | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Dynamic Programming | <span style="color:green">Easy</span> |
-| [54](https://leetcode.com/problems/spiral-matrix/) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Matrix | <span style="color:orange">Medium</span> |
-| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | String | <span style="color:orange">Medium</span> |
-| [295](https://leetcode.com/problems/find-median-from-data-stream/) | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Heap | <span style="color:red">Hard</span> |
+|                                      문제번호                                      |                                                            문제이름                                                             |      문제유형       |                  난이도                  |
+| :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|                [70](https://leetcode.com/problems/climbing-stairs/)                |                                [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                | Dynamic Programming |  <span style="color:green">Easy</span>   |
+|                 [54](https://leetcode.com/problems/spiral-matrix/)                 |                                  [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                  |       Matrix        | <span style="color:orange">Medium</span> |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |       String        | <span style="color:orange">Medium</span> |
+|         [295](https://leetcode.com/problems/find-median-from-data-stream/)         |                   [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                   |        Heap         |   <span style="color:red">Hard</span>    |
 
 </details>
 
@@ -365,11 +375,11 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Tree | <span style="color:green">Easy</span> |
-| [141](https://leetcode.com/problems/linked-list-cycle/) | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | Linked List | <span style="color:orange">Medium</span> |
-| [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Dynamic Programming | <span style="color:orange">Medium</span> |
+|                           문제번호                            |                                     문제이름                                      |      문제유형       |                  난이도                  |
+| :-----------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+| [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |        Tree         |  <span style="color:green">Easy</span>   |
+|    [141](https://leetcode.com/problems/linked-list-cycle/)    | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) |     Linked List     | <span style="color:orange">Medium</span> |
+|     [213](https://leetcode.com/problems/house-robber-ii/)     |         [House Robber II](https://leetcode.com/problems/house-robber-ii/)         | Dynamic Programming | <span style="color:orange">Medium</span> |
 
 </details>
 
@@ -378,12 +388,12 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Matrix | <span style="color:orange">Medium</span> |
-| [198](https://leetcode.com/problems/house-robber/) | [House Robber](https://leetcode.com/problems/house-robber/) | Dynamic Programming | <span style="color:orange">Medium</span> |
+|                               문제번호                               |                                            문제이름                                             |      문제유형       |                  난이도                  |
+| :------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-----------------: | :--------------------------------------: |
+|        [73](https://leetcode.com/problems/set-matrix-zeroes/)        |              [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)              |       Matrix        | <span style="color:orange">Medium</span> |
+|          [198](https://leetcode.com/problems/house-robber/)          |                   [House Robber](https://leetcode.com/problems/house-robber/)                   | Dynamic Programming | <span style="color:orange">Medium</span> |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Dynamic Programming | <span style="color:orange">Medium</span> |
-| [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Tree | <span style="color:red">Hard</span> |
+|         [212](https://leetcode.com/problems/word-search-ii/)         |                 [Word Search II](https://leetcode.com/problems/word-search-ii/)                 |        Tree         |   <span style="color:red">Hard</span>    |
 
 </details>
 
@@ -392,11 +402,10 @@
 
 <br/>
 
-| 문제번호 | 문제이름 | 문제유형 | 난이도 |
-| :-: | :-: | :-: | :-: |
-| [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Interval | <span style="color:orange">Medium</span> |
-| [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Binary | <span style="color:orange">Medium</span> |
-| [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Tree | <span style="color:red">Hard</span> |
+|                                  문제번호                                   |                                                   문제이름                                                    | 문제유형 |                  난이도                  |
+| :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :------: | :--------------------------------------: |
+|            [56](https://leetcode.com/problems/merge-intervals/)             |                       [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                       | Interval | <span style="color:orange">Medium</span> |
+|          [371](https://leetcode.com/problems/sum-of-two-integers/)          |                   [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                   |  Binary  | <span style="color:orange">Medium</span> |
+| [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |   Tree   |   <span style="color:red">Hard</span>    |
 
 </details>
-
