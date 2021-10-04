@@ -1,8 +1,8 @@
 # 문제: 1143. Longest Common Subsequence
 # 링크: https://leetcode.com/problems/longest-common-subsequence/
 
-# 시간/공간: O(NM) / O(NM)
-# N: text1의 길이, M: text2의 길이
+
+# 시간/공간: 392ms / 21.9MB
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         table = [[0] * (len(text2) + 1) for _ in range(len(text1) + 1)]  # DP 테이블
