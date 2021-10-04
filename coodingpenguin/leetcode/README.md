@@ -6,4 +6,8 @@
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)      | 2021.09.19 | 두 번째 방법을 어떻게 하면 떠올릴까?                                                                                                                    |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                    | 2021.09.26 | [Discussion](https://leetcode.com/problems/counting-bits/discuss/656849/Python-Simple-Solution-with-Clear-Explanation)에 있는 해설인데 이해가 안 된다.. |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)          | 2021.09.26 | 백준에서 풀었던 문제라 금방 품!                                                                                                                         |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)          | 2021.10.03 | 스택을 사용할 줄 아는가? 품!                                                                                                                         |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/)          | 2021.10.03 | 철학적인 교훈이 있다 품!                                                                                                                         |
+| 128 | [Longest Consecutive Subsequence](https://leetcode.com/problems/longest-consecutive-subsequence/)          | 2021.10.03 | DP가 아니라 그냥 구현                                                                                                              |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)          | 2021.10.03 | DP 문제                                                                                                                       |
 
