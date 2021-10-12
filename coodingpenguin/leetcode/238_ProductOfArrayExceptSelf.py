@@ -1,7 +1,8 @@
 # 문제: 238. Product of Array Except Self
 # 링크: https://leetcode.com/problems/product-of-array-except-self/
 
-# 시간/공간: O(N) / O(N)
+
+# 시간/공간: 248ms / 22.4MB
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
@@ -25,7 +26,7 @@ class Solution:
         return answer
 
 
-# 시간/공간: O(N) / O(N)
+# 시간/공간: 240ms / 21.2MB
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)

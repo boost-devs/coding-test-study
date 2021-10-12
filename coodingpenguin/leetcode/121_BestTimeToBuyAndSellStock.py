@@ -1,7 +1,8 @@
 # 문제: 121. Best Time to Buy and Sell Stock
 # 링크: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-#  시간/공간: O(N) / O(1)
+
+#  시간/공간: 948ms / 25MB
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         min_price = prices[0]  # 최소 가격

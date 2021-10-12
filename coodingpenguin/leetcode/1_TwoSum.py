@@ -1,7 +1,8 @@
 # 문제: 1. Two Sum
 # 링크: https://leetcode.com/problems/two-sum/
 
-# 시간/공간: O(N^2) / O(1)
+
+# 시간/공간: 4016ms / 14.9MB
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         # 모든 요소에 대해서
@@ -13,7 +14,7 @@ class Solution:
                     return [i, j]
 
 
-# 시간/공간: O(N) / O(N)
+# 시간/공간: 60ms / 15.4MB
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         num2idx = {}  # 숫자의 인덱스 저장
