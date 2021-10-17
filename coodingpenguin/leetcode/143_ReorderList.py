@@ -1,3 +1,20 @@
+# 문제: 143. Reorder List
+# 링크: https://leetcode.com/problems/reorder-list/
+
+
+# 시간/공간: 84ms / 23.3MB
+# 참고: https://leetcode.com/problems/reorder-list/discuss/801883/Python-3-steps-to-success-explained
+
+
+"""
+Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+"""
+
+
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         """

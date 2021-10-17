@@ -1,3 +1,8 @@
+# 문제: 79. Word Search
+# 링크: https://leetcode.com/problems/word-search/
+
+# 시간/공간: 8561ms / 14.4MB
+# 참고: https://leetcode.com/problems/word-search/discuss/27820/Python-DFS-solution
 class Solution:
     directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
