@@ -1,6 +1,3 @@
-from collections import deque
-
-
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         word_lengths = {word: len(word) for word in wordDict}
@@ -18,4 +15,3 @@ class Solution:
                         return True
                     stack.append(start_idx + length)
         return False
-        
