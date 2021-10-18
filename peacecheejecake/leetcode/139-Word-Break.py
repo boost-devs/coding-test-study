@@ -1,25 +1,21 @@
+from collections import deque
+
+
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graph = [[] for _ in range(numCourses)]
-        for c, p in prerequisites:
-            graph[c].append(p)
-        
-        def is_cyclic(course):
-            if visited[course] == -1:
-                return True
-            elif visited[course] == 1:
-                return False
-            
-            visited[course] = -1
-            for prereq in graph[course]:
-                if is_cyclic(prereq):
-                    return True
-            visited[course] = 1
-            return False
-            
-        for start, _ in prerequisites:
-            visited = [0] * numCourses
-            if is_cyclic(start):
-                return False
-        return True
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        word_lengths = {word: len(word) for word in wordDict}
+        memo = set()
+        stack = [0]
+        while stack:
+            start_idx = stack.pop()
+            if start_idx in memo:
+                continue
+                
+            memo.add(start_idx)
+            for word, length in word_lengths.items():
+                if word_lengths.get(s[start_idx:start_idx + length]) is not None:
+                    if start_idx + length >= len(s):
+                        return True
+                    stack.append(start_idx + length)
+        return False
         
