@@ -4,7 +4,7 @@ class Solution:
         prev = intervals[0]
         count = 0
         for s, e in intervals[1:]:
-            sp, ep = prev
+            _, ep = prev
             if s < ep:
                 count += 1
                 prev = [s, e] if e < ep else prev

@@ -9,7 +9,7 @@ class Solution:
                 continue
                 
             memo.add(start_idx)
-            for word, length in word_lengths.items():
+            for _, length in word_lengths.items():
                 if word_lengths.get(s[start_idx:start_idx + length]) is not None:
                     if start_idx + length >= len(s):
                         return True
