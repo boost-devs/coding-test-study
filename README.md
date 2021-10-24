@@ -218,7 +218,7 @@
 
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>week5 (2021.10.11 ~ 2021.10.17)</summary></strong>
 
 <br/>
@@ -232,7 +232,7 @@
 
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><strong>week6 (2021.10.18 ~ 2021.10.24)</summary></strong>
 
 <br/>
