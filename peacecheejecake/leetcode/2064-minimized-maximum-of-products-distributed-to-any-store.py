@@ -4,7 +4,7 @@ from math import ceil
 class Solution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
         min_x, max_x = 1, max(quantities)
-        while min_x < max_x - 1:
+        while min_x < max_x:
             x = (min_x + max_x) // 2
             req_stores = sum([ceil(q / x) for q in quantities])
             if req_stores > n:
@@ -14,5 +14,5 @@ class Solution:
         return min_x
 
 
-# Runtime: 1864 ms
+# Runtime: 1872 ms
 # Memory Usage: 28.3 MB
