@@ -60,13 +60,20 @@ class Solution:
 
 
 def main():
-    lst = [1, 2, 3, 4, 5]
-    head = itr = ListNode(lst[0])
-    for v in lst[1:]:
-        itr.next = ListNode(v)
-        itr = itr.next
 
     solution = Solution()
+
+    def make_head(_lst: List):
+        if not _lst:
+            return None
+        _head = itr = ListNode(_lst[0])
+        for val in _lst[1:]:
+            itr.next = ListNode(val)
+            itr = itr.next
+        return _head
+
+    lst = [1, 2, 3, 4, 5]
+    head = make_head(lst)
 
     solution.reorderList(head)
 
