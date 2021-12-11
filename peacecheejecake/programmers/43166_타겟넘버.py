@@ -6,4 +6,3 @@ def solution(numbers, target):
         case = sum((-1) ** int(t) * num for t, num in zip(signs, numbers))
         answer += int(case == target)
     return answer
-    
