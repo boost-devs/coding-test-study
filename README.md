@@ -43,11 +43,6 @@
             <br />
             <strong>튜브</strong>
         </td>
-        <td align="center" width="150px">
-            <a href="https://github.com/keeprainy"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/38286295?v=4"/></a>
-            <br />
-            <strong>서폿</strong>
-        </td>
     </tr>
     <tr height="50px">
         <td align="center">
@@ -68,11 +63,6 @@
             <a href="https://github.com/peacecheejecake">:octocat: GitHub</a>
             <br />
             <a href="./peacecheejecake">:memo: 푼 문제들</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/keeprainy">:octocat: GitHub</a>
-            <br />
-            <a href="./keeprainy">:memo: 푼 문제들</a>
         </td>
     </tr>
 </table>
@@ -97,6 +87,11 @@
             <br />
             <strong>감자</strong>
           </td>
+          <td align="center" width="150px">
+            <a href="https://github.com/keeprainy"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/38286295?v=4"/></a>
+            <br />
+          <strong>서폿</strong>
+        </td>
       </tr>
         <tr height="50px">
             <td align="center">
@@ -113,6 +108,11 @@
               <a href="https://github.com/dkswndms4782">:octocat: GitHub</a>
               <br />
               <a href="./dkswndms4782">:memo: 푼 문제들</a>
+            </td>
+            <td align="center">
+            <a href="https://github.com/keeprainy">:octocat: GitHub</a>
+            <br />
+            <a href="./keeprainy">:memo: 푼 문제들</a>
             </td>
         </tr>
     </table>
