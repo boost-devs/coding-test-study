@@ -8,7 +8,7 @@
 
 ---
 
-> **백준 코딩테스트 스터디 때의 README는 [여기](/README_BOJ.md)를, 리트코드 때의 README는 [여기](/README_LeetCode.md) 참고해주세요!**
+> **백준 코딩테스트 스터디 때의 README는 [여기](/.archive/README_BOJ.md)를, 리트코드 때의 README는 [여기](/.archive/README_LeetCode.md) 참고해주세요!**
 
 - [팀원 소개](#-팀원-소개)
 - [스터디 방식](#-스터디-방식)
