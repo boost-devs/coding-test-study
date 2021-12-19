@@ -1,9 +1,9 @@
-def solution(p):
+def solution(p): # 
     b = p.replace('(', '1').replace(')', '0')
     return convert(b).replace('1', '(').replace('0', ')')
         
 
-def convert(b):
+def convert(b): # 메인 함수
     if not b:
         return ''
     
@@ -17,7 +17,7 @@ def convert(b):
     return nb
 
 
-def is_right(b):
+def is_right(b): # `올바른 괄호 문자열`인지 검사한다.
     stack = []
     for d in b:
         if stack and stack[-1] != d:
@@ -29,7 +29,7 @@ def is_right(b):
     return not stack
 
 
-def find_u(b):
+def find_u(b): # 최소 길이의 `균형잡힌 괄호 문자열`을 찾는다.
     count = 0
     nb = ''
     for d in b:
@@ -40,7 +40,7 @@ def find_u(b):
     return nb
 
 
-def reverse(b):
+def reverse(b): # 이진수로 나타낸 괄호를 뒤집는다.
     if not b:
         return ''
     return f"{int('1' * len(b), 2) ^ int(b, 2):0{len(b)}b}"

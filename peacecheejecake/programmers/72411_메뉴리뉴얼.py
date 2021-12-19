@@ -6,7 +6,7 @@ def solution(orders, course):
     counter = {num: defaultdict(int) for num in course}
     for order in orders:
         for num in course:
-            if num > len(order):
+            if num > len(order): # 불가능한 경우
                 break
             for comb in combinations(sorted(order), num):
                 counter[num][''.join(comb)] += 1

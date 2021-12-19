@@ -9,7 +9,7 @@ def count_pairs(s):
 
 def solution(*strs):
     set1, set2 = map(count_pairs, strs)
-    num_inter, num_union = 0, 0
+    num_inter, num_union = 0, 0 # 교집합 개수, 합집합 개수
     for pair in set(set1) | set(set2):
         count1 = set1.get(pair, 0)
         count2 = set2.get(pair, 0)
