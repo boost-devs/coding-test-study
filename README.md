@@ -2,8 +2,8 @@
   <h1>👨‍💻Coding Test Study👩‍💻</h1>
   <p>프로그래머스로 준비하는 코딩테스트 스터디</p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fcoding-test-study&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/coding-test-study" alt="stars"/>
-  <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/coding-test-study" alt="open pull requests"/>
+  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/coding-test-study?color=fcbf49" alt="stars"/>
+  <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/coding-test-study?color=90be6d" alt="open pull requests"/>
 </div>
 
 ---
@@ -159,7 +159,7 @@
 | **2021년 11월 27일** |    [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)    |   [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)    |    [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)     |
 | **2021년 12월 04일** |  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)  |    [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)     |       [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)        |
 | **2021년 12월 11일** |     [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)     | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) |
-| **2021년 01월 08일** |    [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)    |    [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)    |   [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    |
-| **2021년 01월 15일** | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) |   [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)   |         [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)         |
+| **2022년 01월 08일** |    [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)    |    [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)    |   [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    |
+| **2022년 01월 15일** | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) |   [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)   |         [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)         |
 | **2022년 01월 22일** | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)  |  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)  |        [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)        |
 | **2022년 01월 29일** |    [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)     |    [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)    |       [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)       |
