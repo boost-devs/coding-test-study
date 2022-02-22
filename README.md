@@ -97,22 +97,22 @@
             <td align="center">
                 <a href="https://github.com/changwoomon">:octocat: GitHub</a>
                 <br />
-                <a href="./changwoomon">:memo: 푼 문제들</a>
+                <a href="./.archive/changwoomon">:memo: 푼 문제들</a>
             </td>
             <td align="center">
               <a href="https://github.com/osmosm7">:octocat: GitHub</a>
               <br />
-              <a href="./osmosm7">:memo: 푼 문제들</a>
+              <a href="./.archive/osmosm7">:memo: 푼 문제들</a>
             </td>
             <td align="center">
               <a href="https://github.com/dkswndms4782">:octocat: GitHub</a>
               <br />
-              <a href="./dkswndms4782">:memo: 푼 문제들</a>
+              <a href="./.archive/dkswndms4782">:memo: 푼 문제들</a>
             </td>
             <td align="center">
             <a href="https://github.com/keeprainy">:octocat: GitHub</a>
             <br />
-            <a href="./keeprainy">:memo: 푼 문제들</a>
+            <a href="./.archive/keeprainy">:memo: 푼 문제들</a>
             </td>
         </tr>
     </table>
