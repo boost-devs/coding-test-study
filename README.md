@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👨‍💻Coding Test Study👩‍💻</h1>
   <p>프로그래머스로 준비하는 코딩테스트 스터디</p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fcoding-test-study&count_bg=%2ffd166&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/coding-test-study?color=fcbf49" alt="stars"/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fcoding-test-study&count_bg=%23e76f51&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/coding-test-study?color=ffd166" alt="stars"/>
   <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/coding-test-study?color=90be6d" alt="open pull requests"/>
 </div>
 
